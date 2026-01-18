@@ -1,0 +1,3990 @@
+{
+    "district_summary": [
+        {
+            "district": "West Delhi",
+            "total_updates": 15387,
+            "mean_daily_updates": 51.63422818791946,
+            "median_daily_updates": 6.0,
+            "std_updates": 233.17223248692721,
+            "days_active": 298,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "North West Delhi",
+            "total_updates": 9066,
+            "mean_daily_updates": 18.577868852459016,
+            "median_daily_updates": 7.0,
+            "std_updates": 60.210360889865946,
+            "days_active": 488,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "North East Delhi",
+            "total_updates": 8627,
+            "mean_daily_updates": 69.016,
+            "median_daily_updates": 15.0,
+            "std_updates": 321.7203249467944,
+            "days_active": 125,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "East Delhi",
+            "total_updates": 7628,
+            "mean_daily_updates": 32.87931034482759,
+            "median_daily_updates": 9.0,
+            "std_updates": 126.63952695164056,
+            "days_active": 232,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "South Delhi",
+            "total_updates": 7281,
+            "mean_daily_updates": 13.238181818181818,
+            "median_daily_updates": 5.0,
+            "std_updates": 42.08435016207725,
+            "days_active": 550,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "South West Delhi",
+            "total_updates": 5362,
+            "mean_daily_updates": 9.27681660899654,
+            "median_daily_updates": 3.0,
+            "std_updates": 42.882446008093105,
+            "days_active": 578,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "North Delhi",
+            "total_updates": 2759,
+            "mean_daily_updates": 22.801652892561982,
+            "median_daily_updates": 8.0,
+            "std_updates": 67.7603153075494,
+            "days_active": 121,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Central Delhi",
+            "total_updates": 2715,
+            "mean_daily_updates": 13.179611650485437,
+            "median_daily_updates": 4.0,
+            "std_updates": 47.273895976786804,
+            "days_active": 206,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "New Delhi",
+            "total_updates": 1530,
+            "mean_daily_updates": 29.423076923076923,
+            "median_daily_updates": 2.0,
+            "std_updates": 66.80153401838653,
+            "days_active": 52,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Shahdara",
+            "total_updates": 1468,
+            "mean_daily_updates": 17.270588235294117,
+            "median_daily_updates": 2.0,
+            "std_updates": 93.43821338129254,
+            "days_active": 85,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "North East",
+            "total_updates": 778,
+            "mean_daily_updates": 9.046511627906977,
+            "median_daily_updates": 6.0,
+            "std_updates": 6.5545798568530085,
+            "days_active": 86,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "South East Delhi",
+            "total_updates": 28,
+            "mean_daily_updates": 1.6470588235294117,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.8617697249402124,
+            "days_active": 17,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Najafgarh",
+            "total_updates": 16,
+            "mean_daily_updates": 1.4545454545454546,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.6875516509523286,
+            "days_active": 11,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        }
+    ],
+    "monthly_district_summary": [
+        {
+            "district": "Central Delhi",
+            "month": "January",
+            "year_month": "2025-01",
+            "monthly_updates": 1868,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Central Delhi",
+            "month": "February",
+            "year_month": "2025-02",
+            "monthly_updates": 83,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.9555674518201285,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Central Delhi",
+            "month": "March",
+            "year_month": "2025-03",
+            "monthly_updates": 43,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.4819277108433735,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Central Delhi",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 25,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.41860465116279066,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Central Delhi",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 46,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.8400000000000001,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Central Delhi",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 62,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 0.34782608695652173,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Central Delhi",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 31,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Central Delhi",
+            "month": "August",
+            "year_month": "2025-08",
+            "monthly_updates": 73,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 1.3548387096774195,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Central Delhi",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 95,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 0.3013698630136987,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Central Delhi",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 104,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.09473684210526323,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Central Delhi",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 93,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.10576923076923073,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Central Delhi",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 83,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.10752688172043012,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Central Delhi",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 65,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.2168674698795181,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Central Delhi",
+            "month": "February",
+            "year_month": "2026-02",
+            "monthly_updates": 41,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.36923076923076925,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Central Delhi",
+            "month": "March",
+            "year_month": "2026-03",
+            "monthly_updates": 3,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.926829268292683,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Delhi",
+            "month": "January",
+            "year_month": "2025-01",
+            "monthly_updates": 5269,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Delhi",
+            "month": "February",
+            "year_month": "2025-02",
+            "monthly_updates": 258,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.951034351869425,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Delhi",
+            "month": "March",
+            "year_month": "2025-03",
+            "monthly_updates": 110,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5736434108527132,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Delhi",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 104,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.054545454545454564,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Delhi",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 145,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.39423076923076916,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Delhi",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 139,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.04137931034482756,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Delhi",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 82,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.41007194244604317,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Delhi",
+            "month": "August",
+            "year_month": "2025-08",
+            "monthly_updates": 166,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.024390243902439,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "East Delhi",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 249,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.5,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Delhi",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 347,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.39357429718875503,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Delhi",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 196,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.43515850144092216,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Delhi",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 207,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.05612244897959173,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Delhi",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 212,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.024154589371980784,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Delhi",
+            "month": "February",
+            "year_month": "2026-02",
+            "monthly_updates": 130,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.3867924528301887,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Delhi",
+            "month": "March",
+            "year_month": "2026-03",
+            "monthly_updates": 14,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8923076923076922,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Najafgarh",
+            "month": "February",
+            "year_month": "2025-02",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Najafgarh",
+            "month": "March",
+            "year_month": "2025-03",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Najafgarh",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Najafgarh",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 4,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 3.0,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Najafgarh",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.75,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Najafgarh",
+            "month": "August",
+            "year_month": "2025-08",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Najafgarh",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Najafgarh",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 1.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Najafgarh",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 3,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.5,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "New Delhi",
+            "month": "January",
+            "year_month": "2025-01",
+            "monthly_updates": 1458,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "New Delhi",
+            "month": "February",
+            "year_month": "2025-02",
+            "monthly_updates": 10,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9931412894375857,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "New Delhi",
+            "month": "March",
+            "year_month": "2025-03",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "New Delhi",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "New Delhi",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 3,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 2.0,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "New Delhi",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 5,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.6666666666666667,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "New Delhi",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.6,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "New Delhi",
+            "month": "August",
+            "year_month": "2025-08",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "New Delhi",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 10,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 4.0,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "New Delhi",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 11,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.10000000000000009,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "New Delhi",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 11,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "New Delhi",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 9,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.18181818181818177,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "New Delhi",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 3,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.6666666666666667,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "New Delhi",
+            "month": "February",
+            "year_month": "2026-02",
+            "monthly_updates": 4,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.33333333333333326,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Delhi",
+            "month": "January",
+            "year_month": "2025-01",
+            "monthly_updates": 1582,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Delhi",
+            "month": "February",
+            "year_month": "2025-02",
+            "monthly_updates": 100,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.9367888748419722,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Delhi",
+            "month": "March",
+            "year_month": "2025-03",
+            "monthly_updates": 64,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.36,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Delhi",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 38,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.40625,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Delhi",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 67,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 0.763157894736842,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Delhi",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 99,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 0.4776119402985075,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Delhi",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 46,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5353535353535354,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Delhi",
+            "month": "August",
+            "year_month": "2025-08",
+            "monthly_updates": 66,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 0.4347826086956521,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Delhi",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 113,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.7121212121212122,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Delhi",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 138,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.22123893805309724,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Delhi",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 124,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.10144927536231885,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Delhi",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 105,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.15322580645161288,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Delhi",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 104,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.00952380952380949,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Delhi",
+            "month": "February",
+            "year_month": "2026-02",
+            "monthly_updates": 102,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.019230769230769273,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Delhi",
+            "month": "March",
+            "year_month": "2026-03",
+            "monthly_updates": 11,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.892156862745098,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North East",
+            "month": "January",
+            "year_month": "2025-01",
+            "monthly_updates": 41,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North East",
+            "month": "February",
+            "year_month": "2025-02",
+            "monthly_updates": 82,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 1.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North East",
+            "month": "March",
+            "year_month": "2025-03",
+            "monthly_updates": 30,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.6341463414634146,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North East",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 27,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.09999999999999998,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North East",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 42,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.5555555555555556,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North East",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 52,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 0.23809523809523814,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North East",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 18,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.6538461538461539,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North East",
+            "month": "August",
+            "year_month": "2025-08",
+            "monthly_updates": 61,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 2.388888888888889,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "North East",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 86,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 0.4098360655737705,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North East",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 80,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.06976744186046513,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North East",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 61,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.23750000000000004,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North East",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 68,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 0.11475409836065564,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North East",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 78,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 0.1470588235294117,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North East",
+            "month": "February",
+            "year_month": "2026-02",
+            "monthly_updates": 50,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.3589743589743589,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North East",
+            "month": "March",
+            "year_month": "2026-03",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.96,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North East Delhi",
+            "month": "January",
+            "year_month": "2025-01",
+            "monthly_updates": 6184,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North East Delhi",
+            "month": "February",
+            "year_month": "2025-02",
+            "monthly_updates": 283,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.9542367399741267,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North East Delhi",
+            "month": "March",
+            "year_month": "2025-03",
+            "monthly_updates": 159,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.4381625441696113,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North East Delhi",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 98,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.3836477987421384,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North East Delhi",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 127,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.29591836734693877,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North East Delhi",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 188,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.4803149606299213,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North East Delhi",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 75,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.601063829787234,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North East Delhi",
+            "month": "August",
+            "year_month": "2025-08",
+            "monthly_updates": 203,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.7066666666666666,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "North East Delhi",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 258,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.270935960591133,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North East Delhi",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 269,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.04263565891472876,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North East Delhi",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 223,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.17100371747211895,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North East Delhi",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 199,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.1076233183856502,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North East Delhi",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 220,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.10552763819095468,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North East Delhi",
+            "month": "February",
+            "year_month": "2026-02",
+            "monthly_updates": 121,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.44999999999999996,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North East Delhi",
+            "month": "March",
+            "year_month": "2026-03",
+            "monthly_updates": 20,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8347107438016529,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North West Delhi",
+            "month": "January",
+            "year_month": "2025-01",
+            "monthly_updates": 4145,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North West Delhi",
+            "month": "February",
+            "year_month": "2025-02",
+            "monthly_updates": 528,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.8726176115802171,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North West Delhi",
+            "month": "March",
+            "year_month": "2025-03",
+            "monthly_updates": 242,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5416666666666667,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North West Delhi",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 208,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.14049586776859502,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North West Delhi",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 222,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.06730769230769229,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North West Delhi",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 357,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.6081081081081081,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North West Delhi",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 159,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5546218487394958,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North West Delhi",
+            "month": "August",
+            "year_month": "2025-08",
+            "monthly_updates": 371,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.3333333333333335,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "North West Delhi",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 512,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.3800539083557952,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North West Delhi",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 658,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.28515625,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North West Delhi",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 485,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.2629179331306991,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North West Delhi",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 451,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.07010309278350513,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North West Delhi",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 420,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.0687361419068736,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North West Delhi",
+            "month": "February",
+            "year_month": "2026-02",
+            "monthly_updates": 282,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.3285714285714286,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North West Delhi",
+            "month": "March",
+            "year_month": "2026-03",
+            "monthly_updates": 26,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9078014184397163,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Shahdara",
+            "month": "January",
+            "year_month": "2025-01",
+            "monthly_updates": 1263,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Shahdara",
+            "month": "February",
+            "year_month": "2025-02",
+            "monthly_updates": 24,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9809976247030879,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Shahdara",
+            "month": "March",
+            "year_month": "2025-03",
+            "monthly_updates": 9,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.625,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Shahdara",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7777777777777778,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Shahdara",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 15,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 6.5,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Shahdara",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 12,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.19999999999999996,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Shahdara",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 4,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.6666666666666667,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Shahdara",
+            "month": "August",
+            "year_month": "2025-08",
+            "monthly_updates": 23,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 4.75,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Shahdara",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 21,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.08695652173913049,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Shahdara",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 22,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.04761904761904767,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Shahdara",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 18,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.18181818181818177,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Shahdara",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 21,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.16666666666666674,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Shahdara",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 19,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.09523809523809523,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Shahdara",
+            "month": "February",
+            "year_month": "2026-02",
+            "monthly_updates": 14,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.26315789473684215,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Shahdara",
+            "month": "March",
+            "year_month": "2026-03",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9285714285714286,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Delhi",
+            "month": "January",
+            "year_month": "2025-01",
+            "monthly_updates": 3290,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Delhi",
+            "month": "February",
+            "year_month": "2025-02",
+            "monthly_updates": 422,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.8717325227963526,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Delhi",
+            "month": "March",
+            "year_month": "2025-03",
+            "monthly_updates": 198,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5308056872037914,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Delhi",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 153,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.2272727272727273,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Delhi",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 227,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.4836601307189543,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Delhi",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 261,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.14977973568281944,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Delhi",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 164,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.3716475095785441,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Delhi",
+            "month": "August",
+            "year_month": "2025-08",
+            "monthly_updates": 321,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.9573170731707317,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Delhi",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 418,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.3021806853582554,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Delhi",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 502,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.200956937799043,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Delhi",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 359,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.28486055776892427,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Delhi",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 381,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.06128133704735372,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Delhi",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 301,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.2099737532808399,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Delhi",
+            "month": "February",
+            "year_month": "2026-02",
+            "monthly_updates": 263,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.12624584717607978,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Delhi",
+            "month": "March",
+            "year_month": "2026-03",
+            "monthly_updates": 21,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9201520912547528,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South East Delhi",
+            "month": "February",
+            "year_month": "2025-02",
+            "monthly_updates": 4,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South East Delhi",
+            "month": "March",
+            "year_month": "2025-03",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South East Delhi",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 4,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 1.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South East Delhi",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South East Delhi",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South East Delhi",
+            "month": "August",
+            "year_month": "2025-08",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South East Delhi",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South East Delhi",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 1.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South East Delhi",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South East Delhi",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 5,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 4.0,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "South East Delhi",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.6,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South East Delhi",
+            "month": "February",
+            "year_month": "2026-02",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South East Delhi",
+            "month": "March",
+            "year_month": "2026-03",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South West Delhi",
+            "month": "January",
+            "year_month": "2025-01",
+            "monthly_updates": 2687,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South West Delhi",
+            "month": "February",
+            "year_month": "2025-02",
+            "monthly_updates": 264,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.9017491626349088,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South West Delhi",
+            "month": "March",
+            "year_month": "2025-03",
+            "monthly_updates": 142,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.46212121212121215,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South West Delhi",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 99,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.30281690140845074,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South West Delhi",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 107,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.08080808080808088,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South West Delhi",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 201,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.8785046728971964,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South West Delhi",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 102,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.4925373134328358,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South West Delhi",
+            "month": "August",
+            "year_month": "2025-08",
+            "monthly_updates": 199,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.9509803921568627,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South West Delhi",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 309,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.5527638190954773,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South West Delhi",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 329,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.06472491909385103,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South West Delhi",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 276,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.16109422492401215,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South West Delhi",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 326,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.181159420289855,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South West Delhi",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 169,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.4815950920245399,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South West Delhi",
+            "month": "February",
+            "year_month": "2026-02",
+            "monthly_updates": 142,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.1597633136094675,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South West Delhi",
+            "month": "March",
+            "year_month": "2026-03",
+            "monthly_updates": 10,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9295774647887324,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Delhi",
+            "month": "January",
+            "year_month": "2025-01",
+            "monthly_updates": 11885,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Delhi",
+            "month": "February",
+            "year_month": "2025-02",
+            "monthly_updates": 345,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.9709718132099285,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Delhi",
+            "month": "March",
+            "year_month": "2025-03",
+            "monthly_updates": 181,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.47536231884057967,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Delhi",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 181,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Delhi",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 141,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.22099447513812154,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Delhi",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 245,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.7375886524822695,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Delhi",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 98,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.6,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Delhi",
+            "month": "August",
+            "year_month": "2025-08",
+            "monthly_updates": 232,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.3673469387755102,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "West Delhi",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 614,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.646551724137931,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "West Delhi",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 382,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.37785016286644946,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Delhi",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 328,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.1413612565445026,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Delhi",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 348,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.060975609756097615,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Delhi",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 218,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.37356321839080464,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Delhi",
+            "month": "February",
+            "year_month": "2026-02",
+            "monthly_updates": 175,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.1972477064220184,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Delhi",
+            "month": "March",
+            "year_month": "2026-03",
+            "monthly_updates": 14,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.92,
+            "concerning_drop": true,
+            "sudden_spike": false
+        }
+    ],
+    "univariate_stats": {
+        "mean": {
+            "total_updates": 4818.846153846154
+        },
+        "median": {
+            "total_updates": 2759.0
+        },
+        "variance": {
+            "total_updates": 20961381.641025644
+        },
+        "std_dev": {
+            "total_updates": 4578.360147588396
+        },
+        "iqr": {
+            "total_updates": 6160.0
+        },
+        "mad": {
+            "total_updates": 2731.0
+        },
+        "skewness": {
+            "total_updates": 0.9968944302544734
+        },
+        "excess_kurtosis": {
+            "total_updates": 0.6902568347637268
+        },
+        "min": {
+            "total_updates": 16.0
+        },
+        "max": {
+            "total_updates": 15387.0
+        },
+        "count": {
+            "total_updates": 13
+        },
+        "p10_bottom_10pct": {
+            "total_updates": 178.00000000000014
+        },
+        "q1_25th_percentile": {
+            "total_updates": 1468.0
+        },
+        "q3_75th_percentile": {
+            "total_updates": 7628.0
+        },
+        "p90_top_10pct": {
+            "total_updates": 8978.2
+        },
+        "p95_top_5pct": {
+            "total_updates": 11594.39999999999
+        },
+        "critical_count": {
+            "total_updates": 2
+        },
+        "critical_percentage": {
+            "total_updates": 15.384615384615385
+        },
+        "below_target_count": {
+            "total_updates": 0
+        },
+        "below_target_percentage": {
+            "total_updates": 0.0
+        },
+        "on_track_count": {
+            "total_updates": 1
+        },
+        "on_track_percentage": {
+            "total_updates": 7.6923076923076925
+        },
+        "excellent_count": {
+            "total_updates": 10
+        },
+        "excellent_percentage": {
+            "total_updates": 76.92307692307693
+        },
+        "gini_coefficient": {
+            "total_updates": -0.41778397195429684
+        },
+        "inequality_interpretation": {
+            "total_updates": "LOW"
+        },
+        "top_10pct_contribution": {
+            "total_updates": 24.56221565966957
+        },
+        "bottom_50pct_contribution": {
+            "total_updates": 10.431798228110784
+        },
+        "median_mean_gap": {
+            "total_updates": 2059.8461538461543
+        },
+        "gap_interpretation": {
+            "total_updates": "Moderate inequality"
+        },
+        "districts_needing_intervention": {
+            "total_updates": 2
+        },
+        "intervention_percentage": {
+            "total_updates": 15.384615384615385
+        },
+        "estimated_training_cost_lakhs": {
+            "total_updates": 4.0
+        }
+    },
+    "stl_decomposition": [
+        {
+            "month": "January",
+            "total_updates": 39672,
+            "trend": 3565.540642232457,
+            "seasonal": 1001.4579115074832,
+            "residual": 35105.00144626006,
+            "trend_direction": "stable",
+            "meets_monthly_target": true,
+            "concerning_drop": false
+        },
+        {
+            "month": "February",
+            "total_updates": 2405,
+            "trend": 3336.1240960874647,
+            "seasonal": 741.8744576524787,
+            "residual": -1672.9985537399434,
+            "trend_direction": "stable",
+            "meets_monthly_target": true,
+            "concerning_drop": true
+        },
+        {
+            "month": "March",
+            "total_updates": 1182,
+            "trend": 3106.7075499424695,
+            "seasonal": -230.70899620252695,
+            "residual": -1693.9985537399425,
+            "trend_direction": "stable",
+            "meets_monthly_target": true,
+            "concerning_drop": true
+        },
+        {
+            "month": "April",
+            "total_updates": 936,
+            "trend": 2877.291003797473,
+            "seasonal": -1941.291003797473,
+            "residual": 0.0,
+            "trend_direction": "stable",
+            "meets_monthly_target": true,
+            "concerning_drop": false
+        },
+        {
+            "month": "May",
+            "total_updates": 1147,
+            "trend": 2647.87445765248,
+            "seasonal": -1500.8744576524796,
+            "residual": -4.547473508864641e-13,
+            "trend_direction": "stable",
+            "meets_monthly_target": true,
+            "concerning_drop": false
+        },
+        {
+            "month": "June",
+            "total_updates": 1627,
+            "trend": 2418.4579115074825,
+            "seasonal": -791.4579115074831,
+            "residual": 4.547473508864641e-13,
+            "trend_direction": "stable",
+            "meets_monthly_target": true,
+            "concerning_drop": false
+        },
+        {
+            "month": "July",
+            "total_updates": 784,
+            "trend": 2189.041365362488,
+            "seasonal": -1405.0413653624873,
+            "residual": -4.547473508864641e-13,
+            "trend_direction": "stable",
+            "meets_monthly_target": true,
+            "concerning_drop": true
+        },
+        {
+            "month": "August",
+            "total_updates": 1719,
+            "trend": 1959.624819217494,
+            "seasonal": -240.62481921749404,
+            "residual": 0.0,
+            "trend_direction": "stable",
+            "meets_monthly_target": true,
+            "concerning_drop": false
+        },
+        {
+            "month": "September",
+            "total_updates": 2686,
+            "trend": 1730.2082730724985,
+            "seasonal": 955.7917269275018,
+            "residual": -2.2737367544323206e-13,
+            "trend_direction": "stable",
+            "meets_monthly_target": true,
+            "concerning_drop": false
+        },
+        {
+            "month": "October",
+            "total_updates": 2845,
+            "trend": 1500.7917269275017,
+            "seasonal": 1344.2082730724985,
+            "residual": -2.2737367544323206e-13,
+            "trend_direction": "stable",
+            "meets_monthly_target": true,
+            "concerning_drop": false
+        },
+        {
+            "month": "November",
+            "total_updates": 2175,
+            "trend": 1271.375180782507,
+            "seasonal": 903.6248192174932,
+            "residual": 0.0,
+            "trend_direction": "stable",
+            "meets_monthly_target": true,
+            "concerning_drop": false
+        },
+        {
+            "month": "December",
+            "total_updates": 2205,
+            "trend": 1041.9586346375122,
+            "seasonal": 1163.0413653624878,
+            "residual": 0.0,
+            "trend_direction": "stable",
+            "meets_monthly_target": true,
+            "concerning_drop": false
+        },
+        {
+            "month": "January",
+            "total_updates": 1814,
+            "trend": 812.5420884925167,
+            "seasonal": 1001.4579115074832,
+            "residual": 1.1368683772161603e-13,
+            "trend_direction": "stable",
+            "meets_monthly_target": true,
+            "concerning_drop": false
+        },
+        {
+            "month": "February",
+            "total_updates": 1325,
+            "trend": 583.1255423475211,
+            "seasonal": 741.8744576524787,
+            "residual": 2.2737367544323206e-13,
+            "trend_direction": "stable",
+            "meets_monthly_target": true,
+            "concerning_drop": false
+        },
+        {
+            "month": "March",
+            "total_updates": 123,
+            "trend": 353.7089962025266,
+            "seasonal": -230.70899620252695,
+            "residual": 3.410605131648481e-13,
+            "trend_direction": "stable",
+            "meets_monthly_target": true,
+            "concerning_drop": true
+        }
+    ],
+    "change_point_detection": [
+        {
+            "month": "January",
+            "value": 39672,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "February",
+            "value": 2405,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "March",
+            "value": 1182,
+            "posterior_mean": 14419.666666666666,
+            "posterior_std": 21877.709805492286,
+            "z_score": -0.6050755213575151,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "April",
+            "value": 936,
+            "posterior_mean": 1507.6666666666667,
+            "posterior_std": 786.787349500101,
+            "z_score": -0.7265834498100219,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "May",
+            "value": 1147,
+            "posterior_mean": 1088.3333333333333,
+            "posterior_std": 133.08017633515334,
+            "z_score": 0.4408370073009127,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "June",
+            "value": 1627,
+            "posterior_mean": 1236.6666666666667,
+            "posterior_std": 354.1190948443687,
+            "z_score": 1.1022657038725356,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "July",
+            "value": 784,
+            "posterior_mean": 1186.0,
+            "posterior_std": 422.8510376007866,
+            "z_score": -0.9506894018302681,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "August",
+            "value": 1719,
+            "posterior_mean": 1376.6666666666667,
+            "posterior_std": 515.3215824447823,
+            "z_score": 0.6643101026532592,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "September",
+            "value": 2686,
+            "posterior_mean": 1729.6666666666667,
+            "posterior_std": 951.0448639961173,
+            "z_score": 1.0055606938614807,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "October",
+            "value": 2845,
+            "posterior_mean": 2416.6666666666665,
+            "posterior_std": 609.4049009758543,
+            "z_score": 0.702871494219087,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "November",
+            "value": 2175,
+            "posterior_mean": 2568.6666666666665,
+            "posterior_std": 350.07189737736763,
+            "z_score": -1.1245309024114694,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "December",
+            "value": 2205,
+            "posterior_mean": 2408.3333333333335,
+            "posterior_std": 378.46179904105355,
+            "z_score": -0.537262502711078,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "January",
+            "value": 1814,
+            "posterior_mean": 2064.6666666666665,
+            "posterior_std": 217.60131739810765,
+            "z_score": -1.1519538101327984,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "February",
+            "value": 1325,
+            "posterior_mean": 1781.3333333333333,
+            "posterior_std": 440.90853170855405,
+            "z_score": -1.0349841305293117,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "March",
+            "value": 123,
+            "posterior_mean": 1087.3333333333333,
+            "posterior_std": 870.1921243802403,
+            "z_score": -1.1081843955093724,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        }
+    ],
+    "matrix_stats": {
+        "row_sum_total_updates": {
+            "Central Delhi": 2715,
+            "East Delhi": 7628,
+            "Najafgarh": 16,
+            "New Delhi": 1530,
+            "North Delhi": 2759,
+            "North East": 778,
+            "North East Delhi": 8627,
+            "North West Delhi": 9066,
+            "Shahdara": 1468,
+            "South Delhi": 7281,
+            "South East Delhi": 28,
+            "South West Delhi": 5362,
+            "West Delhi": 15387
+        },
+        "row_mean_monthly_updates": {
+            "Central Delhi": 226.25,
+            "East Delhi": 635.6666666666666,
+            "Najafgarh": 1.3333333333333333,
+            "New Delhi": 127.5,
+            "North Delhi": 229.91666666666666,
+            "North East": 64.83333333333333,
+            "North East Delhi": 718.9166666666666,
+            "North West Delhi": 755.5,
+            "Shahdara": 122.33333333333333,
+            "South Delhi": 606.75,
+            "South East Delhi": 2.3333333333333335,
+            "South West Delhi": 446.8333333333333,
+            "West Delhi": 1282.25
+        },
+        "row_variance": {
+            "Central Delhi": 289815.11363636365,
+            "East Delhi": 2337048.424242424,
+            "Najafgarh": 1.5151515151515154,
+            "New Delhi": 176373.54545454544,
+            "North Delhi": 212282.26515151517,
+            "North East": 1231.969696969697,
+            "North East Delhi": 3212776.8106060605,
+            "North West Delhi": 1475858.0909090908,
+            "Shahdara": 133462.7878787879,
+            "South Delhi": 906226.0227272727,
+            "South East Delhi": 2.606060606060606,
+            "South West Delhi": 586053.2424242423,
+            "West Delhi": 11635341.477272727
+        },
+        "row_min": {
+            "Central Delhi": 25,
+            "East Delhi": 82,
+            "Najafgarh": 0,
+            "New Delhi": 1,
+            "North Delhi": 38,
+            "North East": 18,
+            "North East Delhi": 75,
+            "North West Delhi": 159,
+            "Shahdara": 2,
+            "South Delhi": 153,
+            "South East Delhi": 0,
+            "South West Delhi": 99,
+            "West Delhi": 98
+        },
+        "row_max": {
+            "Central Delhi": 1933,
+            "East Delhi": 5481,
+            "Najafgarh": 4,
+            "New Delhi": 1461,
+            "North Delhi": 1686,
+            "North East": 132,
+            "North East Delhi": 6404,
+            "North West Delhi": 4565,
+            "Shahdara": 1282,
+            "South Delhi": 3591,
+            "South East Delhi": 5,
+            "South West Delhi": 2856,
+            "West Delhi": 12103
+        },
+        "performance_category": {
+            "Central Delhi": "below_target",
+            "East Delhi": "on_track",
+            "Najafgarh": "critical",
+            "New Delhi": "below_target",
+            "North Delhi": "below_target",
+            "North East": "critical",
+            "North East Delhi": "on_track",
+            "North West Delhi": "on_track",
+            "Shahdara": "below_target",
+            "South Delhi": "on_track",
+            "South East Delhi": "critical",
+            "South West Delhi": "below_target",
+            "West Delhi": "excellent"
+        },
+        "needs_intervention": {
+            "Central Delhi": true,
+            "East Delhi": false,
+            "Najafgarh": true,
+            "New Delhi": true,
+            "North Delhi": true,
+            "North East": true,
+            "North East Delhi": false,
+            "North West Delhi": false,
+            "Shahdara": true,
+            "South Delhi": false,
+            "South East Delhi": true,
+            "South West Delhi": true,
+            "West Delhi": false
+        },
+        "consistency_score": {
+            "Central Delhi": 3.450463769777529e-06,
+            "East Delhi": 4.278899665650671e-07,
+            "Najafgarh": 0.3975903614457831,
+            "New Delhi": 5.669752386450323e-06,
+            "North Delhi": 4.710686917719395e-06,
+            "North East": 0.0008110499410145497,
+            "North East Delhi": 3.112571297955271e-07,
+            "North West Delhi": 6.775714606900757e-07,
+            "Shahdara": 7.492669104433048e-06,
+            "South Delhi": 1.1034762536549829e-06,
+            "South East Delhi": 0.2773109243697479,
+            "South West Delhi": 1.706326697446043e-06,
+            "West Delhi": 8.594504218103562e-08
+        },
+        "months_below_target": {
+            "Central Delhi": 4,
+            "East Delhi": 0,
+            "Najafgarh": 12,
+            "New Delhi": 11,
+            "North Delhi": 2,
+            "North East": 4,
+            "North East Delhi": 0,
+            "North West Delhi": 0,
+            "Shahdara": 11,
+            "South Delhi": 0,
+            "South East Delhi": 12,
+            "South West Delhi": 0,
+            "West Delhi": 0
+        }
+    },
+    "matrix_anomalies": [
+        {
+            "district": "Central Delhi",
+            "month": "April",
+            "z_score": -0.3738310530530548,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Central Delhi",
+            "month": "August",
+            "z_score": -0.2846688640018914,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Central Delhi",
+            "month": "December",
+            "z_score": -0.2660934079495657,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Central Delhi",
+            "month": "February",
+            "z_score": -0.18993403813503032,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Central Delhi",
+            "month": "January",
+            "z_score": 3.1703659617306896,
+            "is_anomaly": true,
+            "anomaly_type": "exceptional_performance",
+            "action_required": "Document best practices"
+        },
+        {
+            "district": "Central Delhi",
+            "month": "July",
+            "z_score": -0.36268577942165936,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Central Delhi",
+            "month": "June",
+            "z_score": -0.3051018656594497,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Central Delhi",
+            "month": "March",
+            "z_score": -0.3348225953431708,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Central Delhi",
+            "month": "May",
+            "z_score": -0.3348225953431708,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Central Delhi",
+            "month": "November",
+            "z_score": -0.24751795189724,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Central Delhi",
+            "month": "October",
+            "z_score": -0.22708495023968173,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Central Delhi",
+            "month": "September",
+            "z_score": -0.24380286068677487,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Delhi",
+            "month": "April",
+            "z_score": -0.34778077992640744,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Delhi",
+            "month": "August",
+            "z_score": -0.30722452596633737,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Delhi",
+            "month": "December",
+            "z_score": -0.28040506770242,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Delhi",
+            "month": "February",
+            "z_score": -0.1620069714641509,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Delhi",
+            "month": "January",
+            "z_score": 3.16949305141709,
+            "is_anomaly": true,
+            "anomaly_type": "exceptional_performance",
+            "action_required": "Document best practices"
+        },
+        {
+            "district": "East Delhi",
+            "month": "July",
+            "z_score": -0.36217170875094845,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Delhi",
+            "month": "June",
+            "z_score": -0.3248861204328195,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Delhi",
+            "month": "March",
+            "z_score": -0.3346981173586429,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Delhi",
+            "month": "May",
+            "z_score": -0.32096132166249014,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Delhi",
+            "month": "November",
+            "z_score": -0.2876005321146905,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Delhi",
+            "month": "October",
+            "z_score": -0.18882642972806823,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Delhi",
+            "month": "September",
+            "z_score": -0.2529314763101145,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Najafgarh",
+            "month": "April",
+            "z_score": -1.083205120618128,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Najafgarh",
+            "month": "August",
+            "z_score": -0.2708012801545319,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Najafgarh",
+            "month": "December",
+            "z_score": 0.5416025603090641,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Najafgarh",
+            "month": "February",
+            "z_score": 0.5416025603090641,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Najafgarh",
+            "month": "January",
+            "z_score": 1.35400640077266,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Najafgarh",
+            "month": "July",
+            "z_score": -0.2708012801545319,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Najafgarh",
+            "month": "June",
+            "z_score": 2.1664102412362563,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Najafgarh",
+            "month": "March",
+            "z_score": -0.2708012801545319,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Najafgarh",
+            "month": "May",
+            "z_score": -0.2708012801545319,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Najafgarh",
+            "month": "November",
+            "z_score": -1.083205120618128,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Najafgarh",
+            "month": "October",
+            "z_score": -0.2708012801545319,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Najafgarh",
+            "month": "September",
+            "z_score": -1.083205120618128,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "New Delhi",
+            "month": "April",
+            "z_score": -0.3012130633601305,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "New Delhi",
+            "month": "August",
+            "z_score": -0.29883193242447725,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "New Delhi",
+            "month": "December",
+            "z_score": -0.2821640158749048,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "New Delhi",
+            "month": "February",
+            "z_score": -0.27025836119663876,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "New Delhi",
+            "month": "January",
+            "z_score": 3.175238102693549,
+            "is_anomaly": true,
+            "anomaly_type": "exceptional_performance",
+            "action_required": "Document best practices"
+        },
+        {
+            "district": "New Delhi",
+            "month": "July",
+            "z_score": -0.29883193242447725,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "New Delhi",
+            "month": "June",
+            "z_score": -0.2916885396175176,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "New Delhi",
+            "month": "March",
+            "z_score": -0.3012130633601305,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "New Delhi",
+            "month": "May",
+            "z_score": -0.296450801488824,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "New Delhi",
+            "month": "November",
+            "z_score": -0.2774017540035984,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "New Delhi",
+            "month": "October",
+            "z_score": -0.2774017540035984,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "New Delhi",
+            "month": "September",
+            "z_score": -0.27978288493925163,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Delhi",
+            "month": "April",
+            "z_score": -0.4165391585357473,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Delhi",
+            "month": "August",
+            "z_score": -0.3557674879894984,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Delhi",
+            "month": "December",
+            "z_score": -0.2711212325857947,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Delhi",
+            "month": "February",
+            "z_score": -0.060590802479146895,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Delhi",
+            "month": "January",
+            "z_score": 3.160307736472042,
+            "is_anomaly": true,
+            "anomaly_type": "exceptional_performance",
+            "action_required": "Document best practices"
+        },
+        {
+            "district": "North Delhi",
+            "month": "July",
+            "z_score": -0.3991758240939619,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Delhi",
+            "month": "June",
+            "z_score": -0.2841437334171337,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Delhi",
+            "month": "March",
+            "z_score": -0.3362337367424899,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Delhi",
+            "month": "May",
+            "z_score": -0.35359707118427525,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Delhi",
+            "month": "November",
+            "z_score": -0.2298833132865544,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Delhi",
+            "month": "October",
+            "z_score": -0.19949747801342999,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Delhi",
+            "month": "September",
+            "z_score": -0.2537578981440093,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North East",
+            "month": "April",
+            "z_score": -1.0778903753231506,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North East",
+            "month": "August",
+            "z_score": -0.1092135622574116,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North East",
+            "month": "December",
+            "z_score": 0.09021989925612288,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North East",
+            "month": "February",
+            "z_score": 1.9136115473798667,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North East",
+            "month": "January",
+            "z_score": 1.5432351188547313,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North East",
+            "month": "July",
+            "z_score": -1.334304825840552,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North East",
+            "month": "June",
+            "z_score": -0.3656280127748131,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North East",
+            "month": "March",
+            "z_score": -0.935437902813483,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North East",
+            "month": "May",
+            "z_score": -0.6505329577941481,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North East",
+            "month": "November",
+            "z_score": -0.1092135622574116,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North East",
+            "month": "October",
+            "z_score": 0.43210583327932484,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North East",
+            "month": "September",
+            "z_score": 0.6030488002909259,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North East Delhi",
+            "month": "April",
+            "z_score": -0.3464120886910877,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North East Delhi",
+            "month": "August",
+            "z_score": -0.28783213542967706,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North East Delhi",
+            "month": "December",
+            "z_score": -0.2900637526967784,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North East Delhi",
+            "month": "February",
+            "z_score": -0.1756933677578339,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North East Delhi",
+            "month": "January",
+            "z_score": 3.171732532894201,
+            "is_anomaly": true,
+            "anomaly_type": "exceptional_performance",
+            "action_required": "Document best practices"
+        },
+        {
+            "district": "North East Delhi",
+            "month": "July",
+            "z_score": -0.35924388797692053,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North East Delhi",
+            "month": "June",
+            "z_score": -0.2962007001813072,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North East Delhi",
+            "month": "March",
+            "z_score": -0.3012218390322852,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North East Delhi",
+            "month": "May",
+            "z_score": -0.33023286350460285,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North East Delhi",
+            "month": "November",
+            "z_score": -0.2766740490941703,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North East Delhi",
+            "month": "October",
+            "z_score": -0.2510104505225047,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North East Delhi",
+            "month": "September",
+            "z_score": -0.2571473980070334,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North West Delhi",
+            "month": "April",
+            "z_score": -0.4506732938422153,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North West Delhi",
+            "month": "August",
+            "z_score": -0.3165002401503777,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North West Delhi",
+            "month": "December",
+            "z_score": -0.25064843465745124,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North West Delhi",
+            "month": "February",
+            "z_score": 0.044861542492056136,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North West Delhi",
+            "month": "January",
+            "z_score": 3.1357806628162908,
+            "is_anomaly": true,
+            "anomaly_type": "exceptional_performance",
+            "action_required": "Document best practices"
+        },
+        {
+            "district": "North West Delhi",
+            "month": "July",
+            "z_score": -0.4910075247066327,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North West Delhi",
+            "month": "June",
+            "z_score": -0.3280243061116398,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North West Delhi",
+            "month": "March",
+            "z_score": -0.4012844397225205,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North West Delhi",
+            "month": "May",
+            "z_score": -0.4391492278809532,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North West Delhi",
+            "month": "November",
+            "z_score": -0.22266141732295752,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North West Delhi",
+            "month": "October",
+            "z_score": -0.0802568879445041,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North West Delhi",
+            "month": "September",
+            "z_score": -0.20043643296909483,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Shahdara",
+            "month": "April",
+            "z_score": -0.32938654203202705,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Shahdara",
+            "month": "August",
+            "z_score": -0.2719035720929198,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Shahdara",
+            "month": "December",
+            "z_score": -0.2773781406585491,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Shahdara",
+            "month": "February",
+            "z_score": -0.2308443078507004,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Shahdara",
+            "month": "January",
+            "z_score": 3.1743373399706987,
+            "is_anomaly": true,
+            "anomaly_type": "exceptional_performance",
+            "action_required": "Document best practices"
+        },
+        {
+            "district": "Shahdara",
+            "month": "July",
+            "z_score": -0.3239119734663978,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Shahdara",
+            "month": "June",
+            "z_score": -0.30201369920388077,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Shahdara",
+            "month": "March",
+            "z_score": -0.30748826776951,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Shahdara",
+            "month": "May",
+            "z_score": -0.2938018463554369,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Shahdara",
+            "month": "November",
+            "z_score": -0.285589993506993,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Shahdara",
+            "month": "October",
+            "z_score": -0.2746408563757345,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Shahdara",
+            "month": "September",
+            "z_score": -0.2773781406585491,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Delhi",
+            "month": "April",
+            "z_score": -0.4766486568313779,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Delhi",
+            "month": "August",
+            "z_score": -0.30017047645083467,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Delhi",
+            "month": "December",
+            "z_score": -0.23714255488635497,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Delhi",
+            "month": "February",
+            "z_score": 0.08219891437367564,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Delhi",
+            "month": "January",
+            "z_score": 3.1348512488133102,
+            "is_anomaly": true,
+            "anomaly_type": "exceptional_performance",
+            "action_required": "Document best practices"
+        },
+        {
+            "district": "South Delhi",
+            "month": "July",
+            "z_score": -0.46509353787789,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Delhi",
+            "month": "June",
+            "z_score": -0.3631983980153144,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Delhi",
+            "month": "March",
+            "z_score": -0.4073179431104502,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Delhi",
+            "month": "May",
+            "z_score": -0.39891422023518625,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Delhi",
+            "month": "November",
+            "z_score": -0.26025279279333086,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Delhi",
+            "month": "October",
+            "z_score": -0.11003624639798752,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Delhi",
+            "month": "September",
+            "z_score": -0.19827533658825913,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South East Delhi",
+            "month": "April",
+            "z_score": -1.445388282373185,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South East Delhi",
+            "month": "August",
+            "z_score": -0.8259361613561057,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South East Delhi",
+            "month": "December",
+            "z_score": 1.6518723227122112,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South East Delhi",
+            "month": "February",
+            "z_score": 1.6518723227122112,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South East Delhi",
+            "month": "January",
+            "z_score": -0.2064840403390265,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South East Delhi",
+            "month": "July",
+            "z_score": -0.2064840403390265,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South East Delhi",
+            "month": "June",
+            "z_score": -0.2064840403390265,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South East Delhi",
+            "month": "March",
+            "z_score": 0.41296808067805274,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South East Delhi",
+            "month": "May",
+            "z_score": 1.032420201695132,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South East Delhi",
+            "month": "November",
+            "z_score": -0.8259361613561057,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South East Delhi",
+            "month": "October",
+            "z_score": -0.2064840403390265,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South East Delhi",
+            "month": "September",
+            "z_score": -0.8259361613561057,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Delhi",
+            "month": "April",
+            "z_score": -0.45436269007474145,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Delhi",
+            "month": "August",
+            "z_score": -0.3237361380647535,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Delhi",
+            "month": "December",
+            "z_score": -0.15784041701206877,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Delhi",
+            "month": "February",
+            "z_score": -0.0533391754040784,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Delhi",
+            "month": "January",
+            "z_score": 3.1470113488406266,
+            "is_anomaly": true,
+            "anomaly_type": "exceptional_performance",
+            "action_required": "Document best practices"
+        },
+        {
+            "district": "South West Delhi",
+            "month": "July",
+            "z_score": -0.4504438935144418,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Delhi",
+            "month": "June",
+            "z_score": -0.3211236070245537,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Delhi",
+            "month": "March",
+            "z_score": -0.3851306175094478,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Delhi",
+            "month": "May",
+            "z_score": -0.4439125659139424,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Delhi",
+            "month": "November",
+            "z_score": -0.22315369301706275,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Delhi",
+            "month": "October",
+            "z_score": -0.15392162045176913,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Delhi",
+            "month": "September",
+            "z_score": -0.18004693085376672,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Delhi",
+            "month": "April",
+            "z_score": -0.32284670224772394,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Delhi",
+            "month": "August",
+            "z_score": -0.30789534532183616,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Delhi",
+            "month": "December",
+            "z_score": -0.27388833741197377,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Delhi",
+            "month": "February",
+            "z_score": -0.223464153269764,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Delhi",
+            "month": "January",
+            "z_score": 3.1722528520745144,
+            "is_anomaly": true,
+            "anomaly_type": "exceptional_performance",
+            "action_required": "Document best practices"
+        },
+        {
+            "district": "West Delhi",
+            "month": "July",
+            "z_score": -0.3471793027349531,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Delhi",
+            "month": "June",
+            "z_score": -0.30408421512504125,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Delhi",
+            "month": "March",
+            "z_score": -0.3187424081896371,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Delhi",
+            "month": "May",
+            "z_score": -0.33457325669940063,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Delhi",
+            "month": "November",
+            "z_score": -0.2797516146378121,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Delhi",
+            "month": "October",
+            "z_score": -0.2639207661280486,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Delhi",
+            "month": "September",
+            "z_score": -0.19590675030832375,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        }
+    ],
+    "policy_insights": null
+}
