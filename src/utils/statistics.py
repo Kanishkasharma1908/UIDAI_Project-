@@ -545,6 +545,9 @@ def plot_district_performance_dashboard(district_agg: pd.DataFrame, output_dir: 
 def plot_month_wise_heatmap(monthly_summary: pd.DataFrame, output_dir: Path):
     """Create month-wise heatmap with district names."""
     district_col = monthly_summary.columns[0]
+
+    # Grouping to combine different years into a single month entry
+    seasonal_summary = monthly_summary.groupby('month')['monthly_updates'].sum().reset_index()
     
     # Pivot for heatmap
     pivot_data = monthly_summary.pivot_table(
@@ -697,66 +700,73 @@ def plot_univariate_stats(df: pd.DataFrame, columns: list[str], output_dir: Path
 
 
 def plot_stl_decomposition(stl_df: pd.DataFrame, month_col: str, value_col: str, output_dir: Path):
-    """STL decomposition plot with policy context."""
+    """STL decomposition plot with duplicate month fix."""
     fig, axes = plt.subplots(4, 1, figsize=(14, 12))
     fig.suptitle('Temporal Decomposition: Trend, Seasonality & Anomalies', fontsize=16, fontweight='bold')
-    
+
+    # 1. FIX: Aggregate data by month to ensure each label appears only once
+    # We take the mean for trend/seasonal/residual and sum for the raw values
+    plot_df = stl_df.groupby(month_col).agg({
+        value_col: 'sum',
+        'trend': 'mean',
+        'seasonal': 'mean',
+        'residual': 'mean',
+        'meets_monthly_target': 'max',  # If any district met target, mark as met
+        'concerning_drop': 'max',
+        'trend_direction': 'first'      # Keep the general trend label
+    }).reset_index()
+
+    # 2. Re-apply categorical ordering after aggregation
     month_order = ['January', 'February', 'March', 'April', 'May', 'June', 
                    'July', 'August', 'September', 'October', 'November', 'December']
-    stl_df[month_col] = pd.Categorical(stl_df[month_col], categories=month_order, ordered=True)
-    stl_df = stl_df.sort_values(month_col)
+    plot_df[month_col] = pd.Categorical(plot_df[month_col], categories=month_order, ordered=True)
+    plot_df = plot_df.sort_values(month_col).reset_index(drop=True)
     
-    x_pos = range(len(stl_df))
+    # 3. Use a clean range for x-axis positions
+    x_pos = np.arange(len(plot_df))
     
-    axes[0].plot(x_pos, stl_df[value_col], marker='o', linewidth=2, markersize=6)
+    # --- Subplot 0: Original ---
+    axes[0].plot(x_pos, plot_df[value_col], marker='o', linewidth=2, markersize=6)
     axes[0].axhline(y=POLICY_THRESHOLDS['monthly_target'], color='red', linestyle='--', linewidth=2, label='Monthly Target')
     
-    below_target = stl_df[~stl_df['meets_monthly_target']]
+    below_target = plot_df[plot_df[value_col] < POLICY_THRESHOLDS['monthly_target']]
     if not below_target.empty:
-        below_idx = [list(stl_df[month_col]).index(m) for m in below_target[month_col]]
-        axes[0].scatter(below_idx, below_target[value_col], color='red', s=100, zorder=5, label='Below Target')
+        axes[0].scatter(below_target.index, below_target[value_col], color='red', s=100, zorder=5, label='Below Target')
     
     axes[0].set_title('Original Series (Red dots = Below Target)', fontweight='bold')
-    axes[0].set_xticks(x_pos)
-    axes[0].set_xticklabels(stl_df[month_col], rotation=45, ha='right')
-    axes[0].legend()
-    axes[0].grid(True, alpha=0.3)
-    
-    axes[1].plot(x_pos, stl_df['trend'], marker='s', linewidth=2, markersize=6)
-    
-    for i, direction in enumerate(stl_df['trend_direction']):
-        if direction == 'increasing':
-            axes[1].scatter(i, stl_df['trend'].iloc[i], color='green', s=100, zorder=5)
-        elif direction == 'decreasing':
-            axes[1].scatter(i, stl_df['trend'].iloc[i], color='red', s=100, zorder=5)
-    
+
+    # --- Subplot 1: Trend ---
+    axes[1].plot(x_pos, plot_df['trend'], marker='s', linewidth=2, markersize=6)
+    for i, direction in enumerate(plot_df['trend_direction']):
+        color = 'green' if direction == 'increasing' else 'red' if direction == 'decreasing' else 'blue'
+        if direction in ['increasing', 'decreasing']:
+            axes[1].scatter(i, plot_df['trend'].iloc[i], color=color, s=100, zorder=5)
     axes[1].set_title('Trend (Green=Increasing, Red=Decreasing)', fontweight='bold')
-    axes[1].set_xticks(x_pos)
-    axes[1].set_xticklabels(stl_df[month_col], rotation=45, ha='right')
-    axes[1].grid(True, alpha=0.3)
-    
-    axes[2].plot(x_pos, stl_df['seasonal'], marker='^', linewidth=2, markersize=6, color='purple')
+
+    # --- Subplot 2: Seasonal ---
+    axes[2].plot(x_pos, plot_df['seasonal'], marker='^', linewidth=2, markersize=6, color='purple')
     axes[2].axhline(y=0, color='black', linestyle='-', linewidth=0.5)
-    axes[2].fill_between(x_pos, 0, stl_df['seasonal'], alpha=0.3, color='purple')
+    axes[2].fill_between(x_pos, 0, plot_df['seasonal'], alpha=0.3, color='purple')
     axes[2].set_title('Seasonal Pattern', fontweight='bold')
-    axes[2].set_xticks(x_pos)
-    axes[2].set_xticklabels(stl_df[month_col], rotation=45, ha='right')
-    axes[2].grid(True, alpha=0.3)
-    
-    axes[3].plot(x_pos, stl_df['residual'], marker='o', linewidth=2, markersize=6, color='gray')
+
+    # --- Subplot 3: Residual ---
+    axes[3].plot(x_pos, plot_df['residual'], marker='o', linewidth=2, markersize=6, color='gray')
     axes[3].axhline(y=0, color='black', linestyle='-', linewidth=0.5)
     
-    concerning = stl_df[stl_df['concerning_drop']]
+    concerning = plot_df[plot_df['concerning_drop'] == True]
     if not concerning.empty:
-        concerning_idx = [list(stl_df[month_col]).index(m) for m in concerning[month_col]]
-        axes[3].scatter(concerning_idx, concerning['residual'], color='red', s=150, zorder=5, 
-                       marker='v', label='Concerning Drop (>30%)')
-    
+        axes[3].scatter(concerning.index, concerning['residual'], color='red', s=150, zorder=5, 
+                       marker='v', label='Concerning Drop')
     axes[3].set_title('Residual (Unexpected Variations)', fontweight='bold')
-    axes[3].set_xticks(x_pos)
-    axes[3].set_xticklabels(stl_df[month_col], rotation=45, ha='right')
+
+    # 4. Apply unique month labels to all subplots
+    for ax in axes:
+        ax.set_xticks(x_pos)
+        ax.set_xticklabels(plot_df[month_col], rotation=45, ha='right')
+        ax.grid(True, alpha=0.3)
+    
+    axes[0].legend()
     axes[3].legend()
-    axes[3].grid(True, alpha=0.3)
     
     plt.tight_layout()
     plt.savefig(output_dir / 'stl_decomposition_policy.png', dpi=300, bbox_inches='tight')
@@ -765,49 +775,60 @@ def plot_stl_decomposition(stl_df: pd.DataFrame, month_col: str, value_col: str,
 
 
 def plot_change_point_detection(cpd_df: pd.DataFrame, output_dir: Path):
-    """Change point detection plot with policy context."""
+    """Change point detection plot with duplicate month fix."""
     fig, ax = plt.subplots(figsize=(14, 7))
     
+    # 1. AGGREGATE: Collapse multiple rows per month into state-wide totals
+    # We sum the values and take the 'max' for categorical/boolean flags
+    plot_df = cpd_df.groupby('month').agg({
+        'value': 'sum',
+        'change_type': 'max',  # Prioritizes 'sudden_improvement' or 'crisis_drop' over 'normal'
+    }).reset_index()
+    
+    # 2. SORT: Ensure chronological order
     month_order = ['January', 'February', 'March', 'April', 'May', 'June', 
                    'July', 'August', 'September', 'October', 'November', 'December']
-    cpd_df['month'] = pd.Categorical(cpd_df['month'], categories=month_order, ordered=True)
-    cpd_df = cpd_df.sort_values('month')
+    plot_df['month'] = pd.Categorical(plot_df['month'], categories=month_order, ordered=True)
+    plot_df = plot_df.sort_values('month').reset_index(drop=True)
     
-    x_pos = range(len(cpd_df))
+    # 3. PLOT: Use unique positions
+    x_pos = np.arange(len(plot_df))
+    ax.plot(x_pos, plot_df['value'], linewidth=2, marker='o', markersize=6, label='Monthly Updates')
     
-    ax.plot(x_pos, cpd_df['value'], linewidth=2, marker='o', markersize=6, label='Monthly Updates')
-    
-    crisis_points = cpd_df[cpd_df['change_type'] == 'crisis_drop']
-    improvement_points = cpd_df[cpd_df['change_type'] == 'sudden_improvement']
+    # Identify specific change points in the aggregated data
+    crisis_points = plot_df[plot_df['change_type'] == 'crisis_drop']
+    improvement_points = plot_df[plot_df['change_type'] == 'sudden_improvement']
     
     if not crisis_points.empty:
-        crisis_idx = [list(cpd_df['month']).index(m) for m in crisis_points['month']]
-        ax.scatter(crisis_idx, crisis_points['value'], color='red', s=200, zorder=5, 
-                  marker='v', label=' Crisis Drop', edgecolors='darkred', linewidths=2)
+        ax.scatter(crisis_points.index, crisis_points['value'], color='red', s=200, zorder=5, 
+                  marker='v', label='⚠️ Crisis Drop', edgecolors='darkred', linewidths=2)
         
-        for idx, row in zip(crisis_idx, crisis_points.itertuples()):
-            ax.annotate('INVESTIGATE', xy=(idx, row.value), xytext=(idx, row.value * 1.2),
+        for idx, row in crisis_points.iterrows():
+            ax.annotate('INVESTIGATE', xy=(idx, row['value']), xytext=(idx, row['value'] * 1.2),
                        arrowprops=dict(arrowstyle='->', color='red', lw=2),
                        fontsize=9, color='red', fontweight='bold', ha='center')
     
     if not improvement_points.empty:
-        improve_idx = [list(cpd_df['month']).index(m) for m in improvement_points['month']]
-        ax.scatter(improve_idx, improvement_points['value'], color='green', s=200, zorder=5, 
-                  marker='^', label=' Improvement', edgecolors='darkgreen', linewidths=2)
+        ax.scatter(improvement_points.index, improvement_points['value'], color='green', s=200, zorder=5, 
+                  marker='^', label='✅ Success!', edgecolors='darkgreen', linewidths=2)
         
-        for idx, row in zip(improve_idx, improvement_points.itertuples()):
-            ax.annotate('SUCCESS!', xy=(idx, row.value), xytext=(idx, row.value * 0.8),
+        for idx, row in improvement_points.iterrows():
+            ax.annotate('SUCCESS!', xy=(idx, row['value']), xytext=(idx, row['value'] * 0.8),
                        arrowprops=dict(arrowstyle='->', color='green', lw=2),
                        fontsize=9, color='green', fontweight='bold', ha='center')
     
+    # Target line using POLICY_THRESHOLDS
     ax.axhline(y=POLICY_THRESHOLDS['monthly_target'], color='orange', linestyle='--', 
               linewidth=2, label=f'Target ({POLICY_THRESHOLDS["monthly_target"]})')
     
-    ax.set_title('Change Point Detection: Crisis Events & Success Stories', fontsize=14, fontweight='bold')
+    ax.set_title('Change Point Detection: State-Wide Trends & Anomalies', fontsize=14, fontweight='bold')
     ax.set_xlabel('Month', fontweight='bold')
     ax.set_ylabel('Total Updates', fontweight='bold')
+    
+    # Apply unique month labels
     ax.set_xticks(x_pos)
-    ax.set_xticklabels(cpd_df['month'], rotation=45, ha='right')
+    ax.set_xticklabels(plot_df['month'], rotation=45, ha='right')
+    
     ax.legend(loc='best', fontsize=10)
     ax.grid(True, alpha=0.3)
     
@@ -956,88 +977,13 @@ def process_statistics_for_state(state: str, data_dir: str = 'Data/Processed/enr
     with open(state_reports_dir / 'statistics_results.json', 'w') as f:
         json.dump(results, f, indent=4, default=str)
     
-    # Enhanced policy brief
-    with open(state_reports_dir / 'policy_brief.txt', 'w') as f:
-        f.write(f"{'='*80}\n")
-        f.write(f"POLICY BRIEF: {state.upper()}\n")
-        f.write(f"{'='*80}\n\n")
-        
-        f.write("EXECUTIVE SUMMARY\n")
-        f.write("-" * 80 + "\n")
-        for line in policy_insights['executive_summary']:
-            f.write(f"{line}\n")
-        f.write("\n")
-        
-        f.write("CRITICAL DISTRICTS - IMMEDIATE ACTION REQUIRED\n")
-        f.write("-" * 80 + "\n")
-        for i, district in enumerate(policy_insights['critical_districts'][:15], 1):
-            f.write(f"\n{i}. {district['district_name']}\n")
-            f.write(f"   Total Updates: {district['total_updates']}\n")
-            f.write(f"   Daily Average: {district['average_daily']:.2f}\n")
-            f.write(f"   Gap from Target: {district['performance_gap']:.0f}\n")
-            f.write(f"   Priority: {district['priority']}\n")
-        f.write("\n")
-        
-        f.write("MONTH-WISE ANOMALIES - INVESTIGATION REQUIRED\n")
-        f.write("-" * 80 + "\n")
-        for i, anomaly in enumerate(policy_insights['month_wise_anomalies'][:15], 1):
-            f.write(f"\n{i}. {anomaly['district_name']} - {anomaly['month']}\n")
-            f.write(f"   Z-Score: {anomaly['z_score']:.2f}\n")
-            f.write(f"   Severity: {anomaly['severity']}\n")
-            f.write(f"   Action: {anomaly['action']}\n")
-        f.write("\n")
-        
-        f.write("SUCCESS STORIES - REPLICATE BEST PRACTICES\n")
-        f.write("-" * 80 + "\n")
-        for i, success in enumerate(policy_insights['success_stories'][:10], 1):
-            f.write(f"\n{i}. {success['district_name']}\n")
-            f.write(f"   Total Updates: {success['total_updates']}\n")
-            f.write(f"   Consistency: {success['consistency']}\n")
-            f.write(f"   Action: {success['action']}\n")
-        f.write("\n")
-        
-        f.write("PRIORITY ACTIONS\n")
-        f.write("-" * 80 + "\n")
-        for i, action in enumerate(policy_insights['priority_actions'], 1):
-            f.write(f"\n{i}. [{action['priority']}] {action['action']}\n")
-            for key, value in action.items():
-                if key not in ['priority', 'action']:
-                    f.write(f"   - {key.replace('_', ' ').title()}: {value}\n")
-        f.write("\n")
-        
-        f.write("RESOURCE ALLOCATION RECOMMENDATION\n")
-        f.write("-" * 80 + "\n")
-        f.write("\nTRAINING INVESTMENT EXPLAINED:\n")
-        f.write("Training includes: Staff capacity building, system training, process optimization,\n")
-        f.write("field support, and performance monitoring for 3 months.\n\n")
 
-    for key, value in policy_insights['resource_allocation'].items():
-        if isinstance(value, float):
-            f.write(f"- {key.replace('_', ' ').title()}: {value:.1f}\n")
-        else:
-            f.write(f"- {key.replace('_', ' ').title()}: {value}\n")
-
-# Add investment summary
-    if 'roi_percentage' in policy_insights['resource_allocation']:
-        roi = policy_insights['resource_allocation']['roi_percentage']
-        viable = policy_insights['resource_allocation']['investment_viable']
-        f.write(f"\n{'='*40}\n")
-        f.write(f"INVESTMENT SUMMARY: {viable}\n")
-        f.write(f"ROI: {roi:.1f}%\n")
-        if roi > 0:
-            f.write(f"Payback: {policy_insights['resource_allocation']['payback_period_months']:.1f} months\n")
-            f.write(f"This is a {'GOOD' if roi > 100 else 'ACCEPTABLE' if roi > 50 else 'MARGINAL'} investment.\n")
-        else:
-            f.write(f"WARNING: Negative ROI - Consider alternative strategies.\n")
-        f.write(f"{'='*40}\n")
-    
     print(f"   ✓ Results saved\n")
     
     print(f"{'='*80}")
     print(f" STATISTICS PROCESSING COMPLETED FOR {state.upper()}")
     print(f"{'='*80}\n")
     print(f" Output directory: {state_reports_dir}")
-    print(f" Policy brief: {state_reports_dir / 'policy_brief.txt'}")
     print(f" Visualizations: {len(list(state_reports_dir.glob('*.png')))} images created\n")
     
     # Clear memory
