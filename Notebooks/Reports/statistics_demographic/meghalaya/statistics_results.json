@@ -1,0 +1,2695 @@
+{
+    "district_summary": [
+        {
+            "district": "East Khasi Hills",
+            "total_updates": 16420,
+            "mean_daily_updates": 18.470191226096738,
+            "median_daily_updates": 3.0,
+            "std_updates": 79.46313001390982,
+            "days_active": 889,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "West Khasi Hills",
+            "total_updates": 12549,
+            "mean_daily_updates": 111.05309734513274,
+            "median_daily_updates": 8.0,
+            "std_updates": 433.1966280848349,
+            "days_active": 113,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "West Garo Hills",
+            "total_updates": 9403,
+            "mean_daily_updates": 30.82950819672131,
+            "median_daily_updates": 4.0,
+            "std_updates": 116.65949572234378,
+            "days_active": 305,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "West Jaintia Hills",
+            "total_updates": 6997,
+            "mean_daily_updates": 46.64666666666667,
+            "median_daily_updates": 6.5,
+            "std_updates": 166.34278252313547,
+            "days_active": 150,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Ri Bhoi",
+            "total_updates": 6137,
+            "mean_daily_updates": 25.359504132231404,
+            "median_daily_updates": 3.0,
+            "std_updates": 106.46378854001257,
+            "days_active": 242,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "East Garo Hills",
+            "total_updates": 5128,
+            "mean_daily_updates": 46.1981981981982,
+            "median_daily_updates": 5.0,
+            "std_updates": 161.40039539321964,
+            "days_active": 111,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "South West Garo Hills",
+            "total_updates": 3277,
+            "mean_daily_updates": 24.455223880597014,
+            "median_daily_updates": 5.0,
+            "std_updates": 107.14789271075522,
+            "days_active": 134,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "East Jaintia Hills",
+            "total_updates": 3078,
+            "mean_daily_updates": 34.97727272727273,
+            "median_daily_updates": 6.5,
+            "std_updates": 138.2377576440442,
+            "days_active": 88,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "South West Khasi Hills",
+            "total_updates": 2527,
+            "mean_daily_updates": 21.973913043478262,
+            "median_daily_updates": 4.0,
+            "std_updates": 71.38915599867322,
+            "days_active": 115,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "South Garo Hills",
+            "total_updates": 2413,
+            "mean_daily_updates": 16.992957746478872,
+            "median_daily_updates": 4.0,
+            "std_updates": 48.97654620034485,
+            "days_active": 142,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "North Garo Hills",
+            "total_updates": 2348,
+            "mean_daily_updates": 15.246753246753247,
+            "median_daily_updates": 3.0,
+            "std_updates": 65.7082392231598,
+            "days_active": 154,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Eastern West Khasi Hills",
+            "total_updates": 104,
+            "mean_daily_updates": 3.7142857142857144,
+            "median_daily_updates": 2.5,
+            "std_updates": 2.865595960989653,
+            "days_active": 28,
+            "performance_category": "Below Target",
+            "needs_intervention": true
+        },
+        {
+            "district": "Jaintia Hills",
+            "total_updates": 3,
+            "mean_daily_updates": 1.0,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.0,
+            "days_active": 3,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        }
+    ],
+    "monthly_district_summary": [
+        {
+            "district": "East Garo Hills",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 1908,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Garo Hills",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 895,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5309224318658281,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Garo Hills",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 967,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.08044692737430159,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Garo Hills",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 608,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.3712512926577043,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Garo Hills",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 539,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.11348684210526316,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Garo Hills",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 118,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.7810760667903525,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Garo Hills",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 69,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.4152542372881356,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Garo Hills",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 24,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.6521739130434783,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Jaintia Hills",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 907,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Jaintia Hills",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 365,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.597574421168688,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Jaintia Hills",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 1287,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 2.526027397260274,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "East Jaintia Hills",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 226,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.8243978243978244,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Jaintia Hills",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 106,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5309734513274336,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Jaintia Hills",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 148,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.39622641509433953,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Jaintia Hills",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 39,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7364864864864865,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Khasi Hills",
+            "month": "March",
+            "year_month": "2025-03",
+            "monthly_updates": 137,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Khasi Hills",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 3913,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 27.562043795620436,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "East Khasi Hills",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 3058,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.21850242780475337,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Khasi Hills",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 2976,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.026814911706998013,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Khasi Hills",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 2943,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.011088709677419373,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Khasi Hills",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 1389,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.528032619775739,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Khasi Hills",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 866,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.3765298776097912,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Khasi Hills",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 902,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.04157043879907629,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Khasi Hills",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 200,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.7782705099778271,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Khasi Hills",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 36,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8200000000000001,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Eastern West Khasi Hills",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Eastern West Khasi Hills",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 39,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 18.5,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Eastern West Khasi Hills",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 39,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Eastern West Khasi Hills",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 17,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5641025641025641,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Eastern West Khasi Hills",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 5,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7058823529411764,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Eastern West Khasi Hills",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.6,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Jaintia Hills",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Jaintia Hills",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Garo Hills",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 1313,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Garo Hills",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 324,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.7532368621477532,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Garo Hills",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 93,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.712962962962963,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Garo Hills",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 329,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 2.5376344086021505,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "North Garo Hills",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 80,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.756838905775076,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Garo Hills",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 148,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.8500000000000001,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Garo Hills",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 55,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.6283783783783784,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Garo Hills",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 6,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8909090909090909,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ri Bhoi",
+            "month": "March",
+            "year_month": "2025-03",
+            "monthly_updates": 67,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ri Bhoi",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 2333,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 33.82089552238806,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Ri Bhoi",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 1222,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.4762108872696099,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ri Bhoi",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 522,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5728314238952537,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ri Bhoi",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 831,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.5919540229885059,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ri Bhoi",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 449,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.4596871239470517,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ri Bhoi",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 246,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.4521158129175946,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ri Bhoi",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 342,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.3902439024390243,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ri Bhoi",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 119,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.652046783625731,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ri Bhoi",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 6,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9495798319327731,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Garo Hills",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 636,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Garo Hills",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 515,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.19025157232704404,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Garo Hills",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 315,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.38834951456310685,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Garo Hills",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 89,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.7174603174603175,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Garo Hills",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 520,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 4.842696629213483,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "South Garo Hills",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 98,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.8115384615384615,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Garo Hills",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 231,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.3571428571428572,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "South Garo Hills",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 5,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9783549783549783,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Garo Hills",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 4,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.19999999999999996,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South West Garo Hills",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 1775,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South West Garo Hills",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 105,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.9408450704225352,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South West Garo Hills",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 217,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.0666666666666669,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "South West Garo Hills",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 536,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.4700460829493087,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "South West Garo Hills",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 324,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.3955223880597015,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South West Garo Hills",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 123,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.6203703703703703,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South West Garo Hills",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 158,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.2845528455284554,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South West Garo Hills",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 39,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7531645569620253,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South West Khasi Hills",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 795,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South West Khasi Hills",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 425,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.46540880503144655,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South West Khasi Hills",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 471,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.10823529411764699,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South West Khasi Hills",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 221,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5307855626326964,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South West Khasi Hills",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 171,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.2262443438914027,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South West Khasi Hills",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 46,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7309941520467836,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South West Khasi Hills",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 361,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 6.8478260869565215,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "South West Khasi Hills",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 37,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8975069252077562,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Garo Hills",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 2462,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Garo Hills",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 1273,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.4829406986190089,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Garo Hills",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 1366,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.07305577376276506,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Garo Hills",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 2638,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.9311859443631039,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Garo Hills",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 562,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.7869598180439727,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Garo Hills",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 333,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.4074733096085409,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Garo Hills",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 653,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.9609609609609611,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Garo Hills",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 114,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.8254211332312404,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Garo Hills",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9824561403508771,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Jaintia Hills",
+            "month": "March",
+            "year_month": "2025-03",
+            "monthly_updates": 299,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Jaintia Hills",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 1210,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 3.046822742474917,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "West Jaintia Hills",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 1059,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.12479338842975207,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Jaintia Hills",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 1963,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.8536355051935789,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Jaintia Hills",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 1234,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.37137035150280184,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Jaintia Hills",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 517,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5810372771474879,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Jaintia Hills",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 129,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.7504835589941973,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Jaintia Hills",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 412,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 2.193798449612403,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "West Jaintia Hills",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 172,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5825242718446602,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Jaintia Hills",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9883720930232558,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Khasi Hills",
+            "month": "March",
+            "year_month": "2025-03",
+            "monthly_updates": 570,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Khasi Hills",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 3027,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 4.310526315789474,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "West Khasi Hills",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 1671,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.4479682854311199,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Khasi Hills",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 2456,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.46977857570317183,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Khasi Hills",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 3619,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.4735342019543973,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Khasi Hills",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 445,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.87703785576126,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Khasi Hills",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 374,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.15955056179775284,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Khasi Hills",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 316,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.15508021390374327,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Khasi Hills",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 67,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.7879746835443038,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Khasi Hills",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 4,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9402985074626866,
+            "concerning_drop": true,
+            "sudden_spike": false
+        }
+    ],
+    "univariate_stats": {
+        "mean": {
+            "total_updates": 5414.153846153846
+        },
+        "median": {
+            "total_updates": 3277.0
+        },
+        "variance": {
+            "total_updates": 23775217.307692304
+        },
+        "std_dev": {
+            "total_updates": 4875.983727176733
+        },
+        "iqr": {
+            "total_updates": 4584.0
+        },
+        "mad": {
+            "total_updates": 2860.0
+        },
+        "skewness": {
+            "total_updates": 1.149854009785649
+        },
+        "excess_kurtosis": {
+            "total_updates": 0.8207369926925581
+        },
+        "min": {
+            "total_updates": 3.0
+        },
+        "max": {
+            "total_updates": 16420.0
+        },
+        "count": {
+            "total_updates": 13
+        },
+        "p10_bottom_10pct": {
+            "total_updates": 552.8000000000004
+        },
+        "q1_25th_percentile": {
+            "total_updates": 2413.0
+        },
+        "q3_75th_percentile": {
+            "total_updates": 6997.0
+        },
+        "p90_top_10pct": {
+            "total_updates": 11919.800000000003
+        },
+        "p95_top_5pct": {
+            "total_updates": 14097.399999999994
+        },
+        "critical_count": {
+            "total_updates": 1
+        },
+        "critical_percentage": {
+            "total_updates": 7.6923076923076925
+        },
+        "below_target_count": {
+            "total_updates": 1
+        },
+        "below_target_percentage": {
+            "total_updates": 7.6923076923076925
+        },
+        "on_track_count": {
+            "total_updates": 0
+        },
+        "on_track_percentage": {
+            "total_updates": 0.0
+        },
+        "excellent_count": {
+            "total_updates": 11
+        },
+        "excellent_percentage": {
+            "total_updates": 84.61538461538461
+        },
+        "gini_coefficient": {
+            "total_updates": -0.38640119257873295
+        },
+        "inequality_interpretation": {
+            "total_updates": "LOW"
+        },
+        "top_10pct_contribution": {
+            "total_updates": 23.3291657194817
+        },
+        "bottom_50pct_contribution": {
+            "total_updates": 14.87980222777904
+        },
+        "median_mean_gap": {
+            "total_updates": 2137.1538461538457
+        },
+        "gap_interpretation": {
+            "total_updates": "Moderate inequality"
+        },
+        "districts_needing_intervention": {
+            "total_updates": 2
+        },
+        "intervention_percentage": {
+            "total_updates": 15.384615384615385
+        },
+        "estimated_training_cost_lakhs": {
+            "total_updates": 4.0
+        }
+    },
+    "change_point_detection": [
+        {
+            "month": "March",
+            "value": 1073,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "April",
+            "value": 20279,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "May",
+            "value": 10547,
+            "posterior_mean": 10633.0,
+            "posterior_std": 9603.288811651975,
+            "z_score": -0.008955265397793042,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "June",
+            "value": 11715,
+            "posterior_mean": 14180.333333333334,
+            "posterior_std": 5313.789357260347,
+            "z_score": -0.4639501432183974,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "July",
+            "value": 14006,
+            "posterior_mean": 12089.333333333334,
+            "posterior_std": 1759.6205083293773,
+            "z_score": 1.089250015894843,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "August",
+            "value": 0,
+            "posterior_mean": 8573.666666666666,
+            "posterior_std": 7512.855005477834,
+            "z_score": -1.141199538712695,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "September",
+            "value": 5510,
+            "posterior_mean": 6505.333333333333,
+            "posterior_std": 7055.850433033098,
+            "z_score": -0.14106497052056546,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "October",
+            "value": 2559,
+            "posterior_mean": 2689.6666666666665,
+            "posterior_std": 2757.3230375371986,
+            "z_score": -0.04738895838021798,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "November",
+            "value": 3757,
+            "posterior_mean": 3942.0,
+            "posterior_std": 1484.1728336012702,
+            "z_score": -0.12464855562078095,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "December",
+            "value": 876,
+            "posterior_mean": 2397.3333333333335,
+            "posterior_std": 1447.287923439343,
+            "z_score": -1.0511614922606611,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "January",
+            "value": 62,
+            "posterior_mean": 1565.0,
+            "posterior_std": 1941.467743744417,
+            "z_score": -0.7741565652289618,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        }
+    ],
+    "matrix_stats": {
+        "row_sum_total_updates": {
+            "East Garo Hills": 5128,
+            "East Jaintia Hills": 3078,
+            "East Khasi Hills": 16420,
+            "Eastern West Khasi Hills": 104,
+            "Jaintia Hills": 3,
+            "North Garo Hills": 2348,
+            "Ri Bhoi": 6137,
+            "South Garo Hills": 2413,
+            "South West Garo Hills": 3277,
+            "South West Khasi Hills": 2527,
+            "West Garo Hills": 9403,
+            "West Jaintia Hills": 6997,
+            "West Khasi Hills": 12549
+        },
+        "row_mean_monthly_updates": {
+            "East Garo Hills": 512.8,
+            "East Jaintia Hills": 307.8,
+            "East Khasi Hills": 1642.0,
+            "Eastern West Khasi Hills": 10.4,
+            "Jaintia Hills": 0.3,
+            "North Garo Hills": 234.8,
+            "Ri Bhoi": 613.7,
+            "South Garo Hills": 241.3,
+            "South West Garo Hills": 327.7,
+            "South West Khasi Hills": 252.7,
+            "West Garo Hills": 940.3,
+            "West Jaintia Hills": 699.7,
+            "West Khasi Hills": 1254.9
+        },
+        "row_variance": {
+            "East Garo Hills": 380709.51111111115,
+            "East Jaintia Hills": 194507.95555555559,
+            "East Khasi Hills": 2085784.888888889,
+            "Eastern West Khasi Hills": 253.60000000000002,
+            "Jaintia Hills": 0.4555555555555555,
+            "North Garo Hills": 158432.17777777778,
+            "Ri Bhoi": 503412.0111111111,
+            "South Garo Hills": 58668.455555555556,
+            "South West Garo Hills": 285416.9,
+            "South West Khasi Hills": 67534.0111111111,
+            "West Garo Hills": 947941.5666666667,
+            "West Jaintia Hills": 404285.3444444445,
+            "West Khasi Hills": 1789276.5444444446
+        },
+        "row_min": {
+            "East Garo Hills": 0,
+            "East Jaintia Hills": 0,
+            "East Khasi Hills": 36,
+            "Eastern West Khasi Hills": 0,
+            "Jaintia Hills": 0,
+            "North Garo Hills": 0,
+            "Ri Bhoi": 6,
+            "South Garo Hills": 0,
+            "South West Garo Hills": 0,
+            "South West Khasi Hills": 0,
+            "West Garo Hills": 0,
+            "West Jaintia Hills": 2,
+            "West Khasi Hills": 4
+        },
+        "row_max": {
+            "East Garo Hills": 1908,
+            "East Jaintia Hills": 1287,
+            "East Khasi Hills": 3913,
+            "Eastern West Khasi Hills": 39,
+            "Jaintia Hills": 2,
+            "North Garo Hills": 1313,
+            "Ri Bhoi": 2333,
+            "South Garo Hills": 636,
+            "South West Garo Hills": 1775,
+            "South West Khasi Hills": 795,
+            "West Garo Hills": 2638,
+            "West Jaintia Hills": 1963,
+            "West Khasi Hills": 3619
+        },
+        "performance_category": {
+            "East Garo Hills": "on_track",
+            "East Jaintia Hills": "below_target",
+            "East Khasi Hills": "excellent",
+            "Eastern West Khasi Hills": "critical",
+            "Jaintia Hills": "critical",
+            "North Garo Hills": "below_target",
+            "Ri Bhoi": "on_track",
+            "South Garo Hills": "below_target",
+            "South West Garo Hills": "below_target",
+            "South West Khasi Hills": "below_target",
+            "West Garo Hills": "on_track",
+            "West Jaintia Hills": "on_track",
+            "West Khasi Hills": "excellent"
+        },
+        "needs_intervention": {
+            "East Garo Hills": false,
+            "East Jaintia Hills": true,
+            "East Khasi Hills": false,
+            "Eastern West Khasi Hills": true,
+            "Jaintia Hills": true,
+            "North Garo Hills": true,
+            "Ri Bhoi": false,
+            "South Garo Hills": true,
+            "South West Garo Hills": true,
+            "South West Khasi Hills": true,
+            "West Garo Hills": false,
+            "West Jaintia Hills": false,
+            "West Khasi Hills": false
+        },
+        "consistency_score": {
+            "East Garo Hills": 2.6266676932073145e-06,
+            "East Jaintia Hills": 5.141151455694184e-06,
+            "East Khasi Hills": 4.794355956318729e-07,
+            "Eastern West Khasi Hills": 0.003927729772191673,
+            "Jaintia Hills": 0.6870229007633588,
+            "North Garo Hills": 6.311809268905938e-06,
+            "Ri Bhoi": 1.9864405129157148e-06,
+            "South Garo Hills": 1.7044644279220816e-05,
+            "South West Garo Hills": 3.5036344952436407e-06,
+            "South West Khasi Hills": 1.4807134603928071e-05,
+            "West Garo Hills": 1.0549162313877174e-06,
+            "West Jaintia Hills": 2.4734943777885038e-06,
+            "West Khasi Hills": 5.588847873852301e-07
+        },
+        "months_below_target": {
+            "East Garo Hills": 3,
+            "East Jaintia Hills": 4,
+            "East Khasi Hills": 1,
+            "Eastern West Khasi Hills": 10,
+            "Jaintia Hills": 10,
+            "North Garo Hills": 3,
+            "Ri Bhoi": 1,
+            "South Garo Hills": 3,
+            "South West Garo Hills": 3,
+            "South West Khasi Hills": 4,
+            "West Garo Hills": 2,
+            "West Jaintia Hills": 1,
+            "West Khasi Hills": 1
+        }
+    },
+    "matrix_anomalies": [
+        {
+            "district": "East Garo Hills",
+            "month": "April",
+            "z_score": 2.2612032667522013,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Garo Hills",
+            "month": "December",
+            "z_score": -0.7921990802669694,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Garo Hills",
+            "month": "January",
+            "z_score": -0.831095925451927,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Garo Hills",
+            "month": "July",
+            "z_score": 0.15429081923366517,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Garo Hills",
+            "month": "June",
+            "z_score": 0.7361227951253224,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Garo Hills",
+            "month": "March",
+            "z_score": -0.831095925451927,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Garo Hills",
+            "month": "May",
+            "z_score": 0.6194322595704497,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Garo Hills",
+            "month": "November",
+            "z_score": -0.719267495545174,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Garo Hills",
+            "month": "October",
+            "z_score": -0.6398531032925522,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Garo Hills",
+            "month": "September",
+            "z_score": 0.042462389326912105,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Jaintia Hills",
+            "month": "April",
+            "z_score": 1.3586360068092855,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Jaintia Hills",
+            "month": "December",
+            "z_score": -0.6094815731480907,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Jaintia Hills",
+            "month": "January",
+            "z_score": -0.6979108192521664,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Jaintia Hills",
+            "month": "July",
+            "z_score": 2.2202543021823304,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Jaintia Hills",
+            "month": "June",
+            "z_score": 0.12969622761931093,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Jaintia Hills",
+            "month": "March",
+            "z_score": -0.6979108192521664,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Jaintia Hills",
+            "month": "May",
+            "z_score": -0.6979108192521664,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Jaintia Hills",
+            "month": "November",
+            "z_score": -0.3623331673700331,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Jaintia Hills",
+            "month": "October",
+            "z_score": -0.4575646631744223,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Jaintia Hills",
+            "month": "September",
+            "z_score": -0.1854746751618818,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Khasi Hills",
+            "month": "April",
+            "z_score": 1.5724700261860043,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Khasi Hills",
+            "month": "December",
+            "z_score": -0.9984596115192506,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Khasi Hills",
+            "month": "January",
+            "z_score": -1.1120153509708157,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Khasi Hills",
+            "month": "July",
+            "z_score": 0.900829372112722,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Khasi Hills",
+            "month": "June",
+            "z_score": 0.9236790026121222,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Khasi Hills",
+            "month": "March",
+            "z_score": -1.0420816333817422,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Khasi Hills",
+            "month": "May",
+            "z_score": 0.9804568723379049,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Khasi Hills",
+            "month": "November",
+            "z_score": -0.5123856536229163,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Khasi Hills",
+            "month": "October",
+            "z_score": -0.5373125232586258,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Khasi Hills",
+            "month": "September",
+            "z_score": -0.17518050049540249,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Eastern West Khasi Hills",
+            "month": "April",
+            "z_score": -0.6530684670943268,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Eastern West Khasi Hills",
+            "month": "December",
+            "z_score": -0.3390932425297466,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Eastern West Khasi Hills",
+            "month": "January",
+            "z_score": -0.5274783772684947,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Eastern West Khasi Hills",
+            "month": "July",
+            "z_score": -0.6530684670943268,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Eastern West Khasi Hills",
+            "month": "June",
+            "z_score": -0.5274783772684947,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Eastern West Khasi Hills",
+            "month": "March",
+            "z_score": -0.6530684670943268,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Eastern West Khasi Hills",
+            "month": "May",
+            "z_score": -0.6530684670943268,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Eastern West Khasi Hills",
+            "month": "November",
+            "z_score": 0.41444729642524575,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Eastern West Khasi Hills",
+            "month": "October",
+            "z_score": 1.7959382845093985,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Eastern West Khasi Hills",
+            "month": "September",
+            "z_score": 1.7959382845093985,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jaintia Hills",
+            "month": "April",
+            "z_score": -0.44447831849231534,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jaintia Hills",
+            "month": "December",
+            "z_score": -0.44447831849231534,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jaintia Hills",
+            "month": "January",
+            "z_score": -0.44447831849231534,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jaintia Hills",
+            "month": "July",
+            "z_score": -0.44447831849231534,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jaintia Hills",
+            "month": "June",
+            "z_score": 2.5187104714564534,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jaintia Hills",
+            "month": "March",
+            "z_score": -0.44447831849231534,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jaintia Hills",
+            "month": "May",
+            "z_score": -0.44447831849231534,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jaintia Hills",
+            "month": "November",
+            "z_score": -0.44447831849231534,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jaintia Hills",
+            "month": "October",
+            "z_score": 1.037116076482069,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jaintia Hills",
+            "month": "September",
+            "z_score": -0.44447831849231534,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Garo Hills",
+            "month": "April",
+            "z_score": 2.7088043083137743,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Garo Hills",
+            "month": "December",
+            "z_score": -0.45171861865592344,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Garo Hills",
+            "month": "January",
+            "z_score": -0.5748232477668258,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Garo Hills",
+            "month": "July",
+            "z_score": -0.5898972839844874,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Garo Hills",
+            "month": "June",
+            "z_score": -0.35624972261073384,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Garo Hills",
+            "month": "March",
+            "z_score": -0.5898972839844874,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Garo Hills",
+            "month": "May",
+            "z_score": 0.2241006717692345,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Garo Hills",
+            "month": "November",
+            "z_score": -0.21807105728216994,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Garo Hills",
+            "month": "October",
+            "z_score": -0.38891013441566713,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Garo Hills",
+            "month": "September",
+            "z_score": 0.23666236861728576,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ri Bhoi",
+            "month": "April",
+            "z_score": 2.4232034380588545,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ri Bhoi",
+            "month": "December",
+            "z_score": -0.6972365153304922,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ri Bhoi",
+            "month": "January",
+            "z_score": -0.8565001624547002,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ri Bhoi",
+            "month": "July",
+            "z_score": 0.306265402832658,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ri Bhoi",
+            "month": "June",
+            "z_score": -0.12924315434769792,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ri Bhoi",
+            "month": "March",
+            "z_score": -0.770525981263756,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ri Bhoi",
+            "month": "May",
+            "z_score": 0.8573458101385454,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ri Bhoi",
+            "month": "November",
+            "z_score": -0.38293745950130337,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ri Bhoi",
+            "month": "October",
+            "z_score": -0.5182410889165596,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ri Bhoi",
+            "month": "September",
+            "z_score": -0.232130289215549,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Garo Hills",
+            "month": "April",
+            "z_score": 1.6295391487475208,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Garo Hills",
+            "month": "December",
+            "z_score": -0.9755766426375454,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Garo Hills",
+            "month": "January",
+            "z_score": -0.9797051938124821,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Garo Hills",
+            "month": "July",
+            "z_score": -0.6287783439428615,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Garo Hills",
+            "month": "June",
+            "z_score": 0.30427422159283574,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Garo Hills",
+            "month": "March",
+            "z_score": -0.996219398512229,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Garo Hills",
+            "month": "May",
+            "z_score": 1.1299844565801784,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Garo Hills",
+            "month": "November",
+            "z_score": -0.0425240771018482,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Garo Hills",
+            "month": "October",
+            "z_score": -0.5916213833684311,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Garo Hills",
+            "month": "September",
+            "z_score": 1.150627212454862,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Garo Hills",
+            "month": "April",
+            "z_score": 2.709060597855591,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Garo Hills",
+            "month": "December",
+            "z_score": -0.5403895492302281,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Garo Hills",
+            "month": "January",
+            "z_score": -0.6133898693548518,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Garo Hills",
+            "month": "July",
+            "z_score": 0.38989658158869595,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Garo Hills",
+            "month": "June",
+            "z_score": -0.2072086009691245,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Garo Hills",
+            "month": "March",
+            "z_score": -0.6133898693548518,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Garo Hills",
+            "month": "May",
+            "z_score": -0.4168505459424032,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Garo Hills",
+            "month": "November",
+            "z_score": -0.3176449826961195,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Garo Hills",
+            "month": "October",
+            "z_score": -0.38315809050026906,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Garo Hills",
+            "month": "September",
+            "z_score": -0.006925671396438648,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Khasi Hills",
+            "month": "April",
+            "z_score": 2.086788006242726,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Khasi Hills",
+            "month": "December",
+            "z_score": -0.8300206028887258,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Khasi Hills",
+            "month": "January",
+            "z_score": -0.9723978041260131,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Khasi Hills",
+            "month": "July",
+            "z_score": -0.12198262916816227,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Khasi Hills",
+            "month": "June",
+            "z_score": 0.8400254872999947,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Khasi Hills",
+            "month": "March",
+            "z_score": -0.9723978041260131,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Khasi Hills",
+            "month": "May",
+            "z_score": 0.6630159938698539,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Khasi Hills",
+            "month": "November",
+            "z_score": 0.4167419160540057,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Khasi Hills",
+            "month": "October",
+            "z_score": -0.7953883106958721,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South West Khasi Hills",
+            "month": "September",
+            "z_score": -0.3143842524617937,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Garo Hills",
+            "month": "April",
+            "z_score": 1.5629254280584362,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Garo Hills",
+            "month": "December",
+            "z_score": -0.8486858652853294,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Garo Hills",
+            "month": "January",
+            "z_score": -0.9637201348145039,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Garo Hills",
+            "month": "July",
+            "z_score": 1.7436935658899961,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Garo Hills",
+            "month": "June",
+            "z_score": 0.4372329333800857,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Garo Hills",
+            "month": "March",
+            "z_score": -0.9657743181989534,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Garo Hills",
+            "month": "May",
+            "z_score": 0.34171340600318184,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Garo Hills",
+            "month": "November",
+            "z_score": -0.2950834431761771,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Garo Hills",
+            "month": "October",
+            "z_score": -0.6237527846881042,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Garo Hills",
+            "month": "September",
+            "z_score": -0.38854878716863134,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Jaintia Hills",
+            "month": "April",
+            "z_score": 0.8025675004451095,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Jaintia Hills",
+            "month": "December",
+            "z_score": -0.8299331177442374,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Jaintia Hills",
+            "month": "January",
+            "z_score": -1.0972983442299686,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Jaintia Hills",
+            "month": "July",
+            "z_score": 0.8403131794783891,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Jaintia Hills",
+            "month": "June",
+            "z_score": 1.9868381801142598,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Jaintia Hills",
+            "month": "March",
+            "z_score": -0.6301955661931323,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Jaintia Hills",
+            "month": "May",
+            "z_score": 0.5650842698607247,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Jaintia Hills",
+            "month": "November",
+            "z_score": -0.4524763274114404,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Jaintia Hills",
+            "month": "October",
+            "z_score": -0.8975607926788635,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Jaintia Hills",
+            "month": "September",
+            "z_score": -0.28733898164084176,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Khasi Hills",
+            "month": "April",
+            "z_score": 1.3247974733832708,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Khasi Hills",
+            "month": "December",
+            "z_score": -0.8880576257728049,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Khasi Hills",
+            "month": "January",
+            "z_score": -0.9351555552480862,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Khasi Hills",
+            "month": "July",
+            "z_score": 1.767368493214486,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Khasi Hills",
+            "month": "June",
+            "z_score": 0.8979257633771495,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Khasi Hills",
+            "month": "March",
+            "z_score": -0.5120217761527015,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Khasi Hills",
+            "month": "May",
+            "z_score": 0.31107061039150097,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Khasi Hills",
+            "month": "November",
+            "z_score": -0.7019086664181216,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Khasi Hills",
+            "month": "October",
+            "z_score": -0.6585486678535768,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Khasi Hills",
+            "month": "September",
+            "z_score": -0.6054700489211169,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        }
+    ],
+    "policy_insights": null
+}

@@ -1,0 +1,353 @@
+{
+    "district_summary": [
+        {
+            "district": "Dadra and Nagar Haveli",
+            "total_updates": 519,
+            "mean_daily_updates": 4.761467889908257,
+            "median_daily_updates": 3.0,
+            "std_updates": 4.5763058904673395,
+            "days_active": 109,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        }
+    ],
+    "monthly_district_summary": [
+        {
+            "district": "Dadra and Nagar Haveli",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 95,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Dadra and Nagar Haveli",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 218,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.2947368421052632,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Dadra and Nagar Haveli",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 43,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8027522935779816,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Dadra and Nagar Haveli",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 83,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 0.930232558139535,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Dadra and Nagar Haveli",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 71,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.14457831325301207,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Dadra and Nagar Haveli",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 9,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8732394366197183,
+            "concerning_drop": true,
+            "sudden_spike": false
+        }
+    ],
+    "univariate_stats": {
+        "mean": {
+            "total_updates": 519.0
+        },
+        "median": {
+            "total_updates": 519.0
+        },
+        "variance": {
+            "total_updates": NaN
+        },
+        "std_dev": {
+            "total_updates": NaN
+        },
+        "iqr": {
+            "total_updates": 0.0
+        },
+        "mad": {
+            "total_updates": 0.0
+        },
+        "skewness": {
+            "total_updates": NaN
+        },
+        "excess_kurtosis": {
+            "total_updates": NaN
+        },
+        "min": {
+            "total_updates": 519.0
+        },
+        "max": {
+            "total_updates": 519.0
+        },
+        "count": {
+            "total_updates": 1
+        },
+        "p10_bottom_10pct": {
+            "total_updates": 519.0
+        },
+        "q1_25th_percentile": {
+            "total_updates": 519.0
+        },
+        "q3_75th_percentile": {
+            "total_updates": 519.0
+        },
+        "p90_top_10pct": {
+            "total_updates": 519.0
+        },
+        "p95_top_5pct": {
+            "total_updates": 519.0
+        },
+        "critical_count": {
+            "total_updates": 0
+        },
+        "critical_percentage": {
+            "total_updates": 0.0
+        },
+        "below_target_count": {
+            "total_updates": 0
+        },
+        "below_target_percentage": {
+            "total_updates": 0.0
+        },
+        "on_track_count": {
+            "total_updates": 1
+        },
+        "on_track_percentage": {
+            "total_updates": 100.0
+        },
+        "excellent_count": {
+            "total_updates": 0
+        },
+        "excellent_percentage": {
+            "total_updates": 0.0
+        },
+        "gini_coefficient": {
+            "total_updates": 1.0
+        },
+        "inequality_interpretation": {
+            "total_updates": "HIGH"
+        },
+        "top_10pct_contribution": {
+            "total_updates": 100.0
+        },
+        "bottom_50pct_contribution": {
+            "total_updates": 0.0
+        },
+        "median_mean_gap": {
+            "total_updates": 0.0
+        },
+        "gap_interpretation": {
+            "total_updates": "Moderate inequality"
+        },
+        "districts_needing_intervention": {
+            "total_updates": 0
+        },
+        "intervention_percentage": {
+            "total_updates": 0.0
+        },
+        "estimated_training_cost_lakhs": {
+            "total_updates": 0.0
+        }
+    },
+    "change_point_detection": [
+        {
+            "month": "June",
+            "value": 95,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "July",
+            "value": 0,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "August",
+            "value": 0,
+            "posterior_mean": 31.666666666666668,
+            "posterior_std": 54.84827557301445,
+            "z_score": -0.5773502691896258,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "September",
+            "value": 218,
+            "posterior_mean": 72.66666666666667,
+            "posterior_std": 125.86235868333841,
+            "z_score": 1.1547005383792515,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "October",
+            "value": 43,
+            "posterior_mean": 87.0,
+            "posterior_std": 115.46861045323097,
+            "z_score": -0.38105594089418454,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "November",
+            "value": 83,
+            "posterior_mean": 114.66666666666667,
+            "posterior_std": 91.69696468985946,
+            "z_score": -0.3453404022016512,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "December",
+            "value": 71,
+            "posterior_mean": 65.66666666666667,
+            "posterior_std": 20.526405757787515,
+            "z_score": 0.2598279209846524,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "January",
+            "value": 9,
+            "posterior_mean": 54.333333333333336,
+            "posterior_std": 39.7156560229506,
+            "z_score": -1.1414474258498069,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        }
+    ],
+    "matrix_stats": {
+        "row_sum_total_updates": {
+            "Dadra and Nagar Haveli": 519
+        },
+        "row_mean_monthly_updates": {
+            "Dadra and Nagar Haveli": 86.5
+        },
+        "row_variance": {
+            "Dadra and Nagar Haveli": 5103.1
+        },
+        "row_min": {
+            "Dadra and Nagar Haveli": 9
+        },
+        "row_max": {
+            "Dadra and Nagar Haveli": 218
+        },
+        "performance_category": {
+            "Dadra and Nagar Haveli": "critical"
+        },
+        "needs_intervention": {
+            "Dadra and Nagar Haveli": true
+        },
+        "consistency_score": {
+            "Dadra and Nagar Haveli": 0.0001959209263141396
+        },
+        "months_below_target": {
+            "Dadra and Nagar Haveli": 2
+        }
+    },
+    "matrix_anomalies": [
+        {
+            "district": "Dadra and Nagar Haveli",
+            "month": "December",
+            "z_score": -0.2169774789064736,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Dadra and Nagar Haveli",
+            "month": "January",
+            "z_score": -1.084887394532368,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Dadra and Nagar Haveli",
+            "month": "June",
+            "z_score": 0.11898764972290488,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Dadra and Nagar Haveli",
+            "month": "November",
+            "z_score": -0.04899491459178436,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Dadra and Nagar Haveli",
+            "month": "October",
+            "z_score": -0.6089367956407484,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Dadra and Nagar Haveli",
+            "month": "September",
+            "z_score": 1.8408089339484695,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        }
+    ],
+    "policy_insights": null
+}

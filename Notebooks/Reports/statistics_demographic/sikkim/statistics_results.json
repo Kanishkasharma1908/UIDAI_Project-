@@ -1,0 +1,1564 @@
+{
+    "district_summary": [
+        {
+            "district": "West Sikkim",
+            "total_updates": 250,
+            "mean_daily_updates": 3.90625,
+            "median_daily_updates": 1.0,
+            "std_updates": 15.71342439919467,
+            "days_active": 64,
+            "performance_category": "Below Target",
+            "needs_intervention": true
+        },
+        {
+            "district": "East",
+            "total_updates": 244,
+            "mean_daily_updates": 1.6266666666666667,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.886488182402422,
+            "days_active": 150,
+            "performance_category": "Below Target",
+            "needs_intervention": true
+        },
+        {
+            "district": "East Sikkim",
+            "total_updates": 242,
+            "mean_daily_updates": 1.5414012738853504,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.7802896064913122,
+            "days_active": 157,
+            "performance_category": "Below Target",
+            "needs_intervention": true
+        },
+        {
+            "district": "South Sikkim",
+            "total_updates": 161,
+            "mean_daily_updates": 2.3,
+            "median_daily_updates": 1.0,
+            "std_updates": 5.749228051521856,
+            "days_active": 70,
+            "performance_category": "Below Target",
+            "needs_intervention": true
+        },
+        {
+            "district": "West",
+            "total_updates": 143,
+            "mean_daily_updates": 1.9589041095890412,
+            "median_daily_updates": 1.0,
+            "std_updates": 1.5849847192076538,
+            "days_active": 73,
+            "performance_category": "Below Target",
+            "needs_intervention": true
+        },
+        {
+            "district": "South",
+            "total_updates": 118,
+            "mean_daily_updates": 1.5128205128205128,
+            "median_daily_updates": 1.0,
+            "std_updates": 1.0287249672653316,
+            "days_active": 78,
+            "performance_category": "Below Target",
+            "needs_intervention": true
+        },
+        {
+            "district": "North Sikkim",
+            "total_updates": 57,
+            "mean_daily_updates": 1.4615384615384615,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.8536655898367083,
+            "days_active": 39,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "North",
+            "total_updates": 33,
+            "mean_daily_updates": 1.32,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.4760952285695233,
+            "days_active": 25,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Namchi",
+            "total_updates": 18,
+            "mean_daily_updates": 1.125,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.3415650255319866,
+            "days_active": 16,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Mangan",
+            "total_updates": 3,
+            "mean_daily_updates": 1.0,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.0,
+            "days_active": 3,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        }
+    ],
+    "monthly_district_summary": [
+        {
+            "district": "East",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 29,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "East",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 95,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 2.2758620689655173,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "East",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 33,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.6526315789473685,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "East",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 70,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 1.121212121212121,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "East",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 14,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "East",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 3,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7857142857142857,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Sikkim",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 23,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Sikkim",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 96,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 3.1739130434782608,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "East Sikkim",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 49,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.48958333333333337,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Sikkim",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 43,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.12244897959183676,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Sikkim",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 22,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.4883720930232558,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Sikkim",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 9,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5909090909090908,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Mangan",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Mangan",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Namchi",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 5,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Namchi",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 3,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.4,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Namchi",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 3,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Namchi",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 6,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 1.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Namchi",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8333333333333334,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 8,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 7,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.125,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 7,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 7,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 4,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.4285714285714286,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Sikkim",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Sikkim",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 14,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 6.0,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "North Sikkim",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 27,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.9285714285714286,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Sikkim",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 12,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5555555555555556,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Sikkim",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8333333333333334,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 10,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 58,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 4.8,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "South",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 13,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7758620689655172,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 30,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 1.3076923076923075,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "South",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 7,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7666666666666666,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Sikkim",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 49,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Sikkim",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 17,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.653061224489796,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Sikkim",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 41,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 1.4117647058823528,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "South Sikkim",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 19,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5365853658536586,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Sikkim",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 29,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.5263157894736843,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Sikkim",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 6,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7931034482758621,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 19,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "West",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 64,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 2.3684210526315788,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "West",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 37,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.421875,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 12,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.6756756756756757,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 8,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.33333333333333337,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 3,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.625,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Sikkim",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 127,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Sikkim",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 15,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8818897637795275,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Sikkim",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 36,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 1.4,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "West Sikkim",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 42,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.16666666666666674,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Sikkim",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 20,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5238095238095238,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Sikkim",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 10,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5,
+            "concerning_drop": true,
+            "sudden_spike": false
+        }
+    ],
+    "univariate_stats": {
+        "mean": {
+            "total_updates": 126.9
+        },
+        "median": {
+            "total_updates": 130.5
+        },
+        "variance": {
+            "total_updates": 9392.1
+        },
+        "std_dev": {
+            "total_updates": 96.91284744552706
+        },
+        "iqr": {
+            "total_updates": 182.75
+        },
+        "mad": {
+            "total_updates": 104.5
+        },
+        "skewness": {
+            "total_updates": 0.10317274936198403
+        },
+        "excess_kurtosis": {
+            "total_updates": -1.6856591868812454
+        },
+        "min": {
+            "total_updates": 3.0
+        },
+        "max": {
+            "total_updates": 250.0
+        },
+        "count": {
+            "total_updates": 10
+        },
+        "p10_bottom_10pct": {
+            "total_updates": 16.5
+        },
+        "q1_25th_percentile": {
+            "total_updates": 39.0
+        },
+        "q3_75th_percentile": {
+            "total_updates": 221.75
+        },
+        "p90_top_10pct": {
+            "total_updates": 244.6
+        },
+        "p95_top_5pct": {
+            "total_updates": 247.29999999999998
+        },
+        "critical_count": {
+            "total_updates": 4
+        },
+        "critical_percentage": {
+            "total_updates": 40.0
+        },
+        "below_target_count": {
+            "total_updates": 6
+        },
+        "below_target_percentage": {
+            "total_updates": 60.0
+        },
+        "on_track_count": {
+            "total_updates": 0
+        },
+        "on_track_percentage": {
+            "total_updates": 0.0
+        },
+        "excellent_count": {
+            "total_updates": 0
+        },
+        "excellent_percentage": {
+            "total_updates": 0.0
+        },
+        "gini_coefficient": {
+            "total_updates": -0.3087470449172577
+        },
+        "inequality_interpretation": {
+            "total_updates": "LOW"
+        },
+        "top_10pct_contribution": {
+            "total_updates": 19.70055161544523
+        },
+        "bottom_50pct_contribution": {
+            "total_updates": 18.045705279747835
+        },
+        "median_mean_gap": {
+            "total_updates": -3.5999999999999943
+        },
+        "gap_interpretation": {
+            "total_updates": "Moderate inequality"
+        },
+        "districts_needing_intervention": {
+            "total_updates": 10
+        },
+        "intervention_percentage": {
+            "total_updates": 100.0
+        },
+        "estimated_training_cost_lakhs": {
+            "total_updates": 20.0
+        }
+    },
+    "change_point_detection": [
+        {
+            "month": "April",
+            "value": 176,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "May",
+            "value": 0,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "June",
+            "value": 123,
+            "posterior_mean": 99.66666666666667,
+            "posterior_std": 90.29027263960018,
+            "z_score": 0.25842577114004217,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "July",
+            "value": 0,
+            "posterior_mean": 41.0,
+            "posterior_std": 71.01408311032397,
+            "z_score": -0.5773502691896258,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "August",
+            "value": 0,
+            "posterior_mean": 41.0,
+            "posterior_std": 71.01408311032397,
+            "z_score": -0.5773502691896258,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "September",
+            "value": 416,
+            "posterior_mean": 138.66666666666666,
+            "posterior_std": 240.17771198288435,
+            "z_score": 1.1547005383792515,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "October",
+            "value": 230,
+            "posterior_mean": 215.33333333333334,
+            "posterior_std": 208.3874596354909,
+            "z_score": 0.07038171439069046,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "November",
+            "value": 228,
+            "posterior_mean": 291.3333333333333,
+            "posterior_std": 107.9691313910293,
+            "z_score": -0.5865874117664285,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "December",
+            "value": 79,
+            "posterior_mean": 179.0,
+            "posterior_std": 86.60831368869853,
+            "z_score": -1.1546235660405075,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "January",
+            "value": 17,
+            "posterior_mean": 108.0,
+            "posterior_std": 108.44814429025514,
+            "z_score": -0.8391107159606512,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        }
+    ],
+    "matrix_stats": {
+        "row_sum_total_updates": {
+            "East": 244,
+            "East Sikkim": 242,
+            "Mangan": 3,
+            "Namchi": 18,
+            "North": 33,
+            "North Sikkim": 57,
+            "South": 118,
+            "South Sikkim": 161,
+            "West": 143,
+            "West Sikkim": 250
+        },
+        "row_mean_monthly_updates": {
+            "East": 34.857142857142854,
+            "East Sikkim": 34.57142857142857,
+            "Mangan": 0.42857142857142855,
+            "Namchi": 2.5714285714285716,
+            "North": 4.714285714285714,
+            "North Sikkim": 8.142857142857142,
+            "South": 16.857142857142858,
+            "South Sikkim": 23.0,
+            "West": 20.428571428571427,
+            "West Sikkim": 35.714285714285715
+        },
+        "row_variance": {
+            "East": 1259.142857142857,
+            "East Sikkim": 1032.2857142857144,
+            "Mangan": 0.619047619047619,
+            "Namchi": 5.61904761904762,
+            "North": 11.904761904761907,
+            "North Sikkim": 102.14285714285715,
+            "South": 432.1428571428571,
+            "South Sikkim": 317.6666666666667,
+            "West": 520.2857142857142,
+            "West Sikkim": 1830.9047619047622
+        },
+        "row_min": {
+            "East": 0,
+            "East Sikkim": 0,
+            "Mangan": 0,
+            "Namchi": 0,
+            "North": 0,
+            "North Sikkim": 0,
+            "South": 0,
+            "South Sikkim": 0,
+            "West": 0,
+            "West Sikkim": 0
+        },
+        "row_max": {
+            "East": 95,
+            "East Sikkim": 96,
+            "Mangan": 2,
+            "Namchi": 6,
+            "North": 8,
+            "North Sikkim": 27,
+            "South": 58,
+            "South Sikkim": 49,
+            "West": 64,
+            "West Sikkim": 127
+        },
+        "performance_category": {
+            "East": "critical",
+            "East Sikkim": "critical",
+            "Mangan": "critical",
+            "Namchi": "critical",
+            "North": "critical",
+            "North Sikkim": "critical",
+            "South": "critical",
+            "South Sikkim": "critical",
+            "West": "critical",
+            "West Sikkim": "critical"
+        },
+        "needs_intervention": {
+            "East": true,
+            "East Sikkim": true,
+            "Mangan": true,
+            "Namchi": true,
+            "North": true,
+            "North Sikkim": true,
+            "South": true,
+            "South Sikkim": true,
+            "West": true,
+            "West Sikkim": true
+        },
+        "consistency_score": {
+            "East": 0.0007935608207686204,
+            "East Sikkim": 0.0009677865339416562,
+            "Mangan": 0.6176470588235294,
+            "Namchi": 0.15107913669064746,
+            "North": 0.07749077490774907,
+            "North Sikkim": 0.009695290858725761,
+            "South": 0.002308707124010554,
+            "South Sikkim": 0.0031380753138075313,
+            "West": 0.001918333790079474,
+            "West Sikkim": 0.0005458799064205874
+        },
+        "months_below_target": {
+            "East": 5,
+            "East Sikkim": 6,
+            "Mangan": 7,
+            "Namchi": 7,
+            "North": 7,
+            "North Sikkim": 7,
+            "South": 6,
+            "South Sikkim": 7,
+            "West": 6,
+            "West Sikkim": 6
+        }
+    },
+    "matrix_anomalies": [
+        {
+            "district": "East",
+            "month": "April",
+            "z_score": -0.9823229334029205,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East",
+            "month": "December",
+            "z_score": -0.5877833945771573,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East",
+            "month": "January",
+            "z_score": -0.8977787465116857,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East",
+            "month": "June",
+            "z_score": -0.1650624601209825,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East",
+            "month": "November",
+            "z_score": 0.9903747607258955,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East",
+            "month": "October",
+            "z_score": -0.05233687759933585,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East",
+            "month": "September",
+            "z_score": 1.694909651486187,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Sikkim",
+            "month": "April",
+            "z_score": -1.0760126258964293,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Sikkim",
+            "month": "December",
+            "z_score": -0.39127731850779246,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Sikkim",
+            "month": "January",
+            "z_score": -0.7958936365101689,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Sikkim",
+            "month": "June",
+            "z_score": -0.3601529863537635,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Sikkim",
+            "month": "November",
+            "z_score": 0.2623336567268155,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Sikkim",
+            "month": "October",
+            "z_score": 0.44907964965098923,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Sikkim",
+            "month": "September",
+            "z_score": 1.91192326089035,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mangan",
+            "month": "April",
+            "z_score": -0.5447047794019222,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mangan",
+            "month": "December",
+            "z_score": -0.5447047794019222,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mangan",
+            "month": "January",
+            "z_score": 0.7262730392025629,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mangan",
+            "month": "June",
+            "z_score": -0.5447047794019222,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mangan",
+            "month": "November",
+            "z_score": 1.997250857807048,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mangan",
+            "month": "October",
+            "z_score": -0.5447047794019222,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mangan",
+            "month": "September",
+            "z_score": -0.5447047794019222,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Namchi",
+            "month": "April",
+            "z_score": -1.0847835949819156,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Namchi",
+            "month": "December",
+            "z_score": 1.4463781266425537,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Namchi",
+            "month": "January",
+            "z_score": -0.662923308044504,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Namchi",
+            "month": "June",
+            "z_score": -1.0847835949819156,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Namchi",
+            "month": "November",
+            "z_score": 0.18079726583031916,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Namchi",
+            "month": "October",
+            "z_score": 0.18079726583031916,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Namchi",
+            "month": "September",
+            "z_score": 1.0245178397051422,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North",
+            "month": "April",
+            "z_score": -1.3663298074978614,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North",
+            "month": "December",
+            "z_score": -0.20701966780270628,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North",
+            "month": "January",
+            "z_score": -1.3663298074978614,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North",
+            "month": "June",
+            "z_score": 0.9522904718924488,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North",
+            "month": "November",
+            "z_score": 0.66246293696866,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North",
+            "month": "October",
+            "z_score": 0.66246293696866,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North",
+            "month": "September",
+            "z_score": 0.66246293696866,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Sikkim",
+            "month": "April",
+            "z_score": -0.8056989817238501,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Sikkim",
+            "month": "December",
+            "z_score": -0.6078080037565887,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Sikkim",
+            "month": "January",
+            "z_score": -0.8056989817238501,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Sikkim",
+            "month": "June",
+            "z_score": -0.6078080037565887,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Sikkim",
+            "month": "November",
+            "z_score": 0.3816468860797186,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Sikkim",
+            "month": "October",
+            "z_score": 1.8658292208341796,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Sikkim",
+            "month": "September",
+            "z_score": 0.57953786404698,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South",
+            "month": "April",
+            "z_score": -0.8109055966379785,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South",
+            "month": "December",
+            "z_score": -0.4741736115933942,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South",
+            "month": "January",
+            "z_score": -0.8109055966379785,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South",
+            "month": "June",
+            "z_score": -0.3298599037171438,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South",
+            "month": "November",
+            "z_score": 0.6322314821245255,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South",
+            "month": "October",
+            "z_score": -0.1855461958408934,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South",
+            "month": "September",
+            "z_score": 1.9791594223028623,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Sikkim",
+            "month": "April",
+            "z_score": 1.4587723568422504,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Sikkim",
+            "month": "December",
+            "z_score": -0.9538126948583944,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Sikkim",
+            "month": "January",
+            "z_score": -1.2904524695142983,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Sikkim",
+            "month": "June",
+            "z_score": -0.3366397746559039,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Sikkim",
+            "month": "November",
+            "z_score": 0.3366397746559039,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Sikkim",
+            "month": "October",
+            "z_score": -0.22442651643726927,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Sikkim",
+            "month": "September",
+            "z_score": 1.0099193239677118,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West",
+            "month": "April",
+            "z_score": -0.8956061078749151,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West",
+            "month": "December",
+            "z_score": -0.5448792404553678,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West",
+            "month": "January",
+            "z_score": -0.7640835325925849,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West",
+            "month": "June",
+            "z_score": -0.06262979775349051,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West",
+            "month": "November",
+            "z_score": -0.3695158067455943,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West",
+            "month": "October",
+            "z_score": 0.7265056539404907,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West",
+            "month": "September",
+            "z_score": 1.9102088314814623,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Sikkim",
+            "month": "April",
+            "z_score": 2.1333884574370736,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Sikkim",
+            "month": "December",
+            "z_score": -0.6009544950526968,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Sikkim",
+            "month": "January",
+            "z_score": -0.8346590209065233,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Sikkim",
+            "month": "June",
+            "z_score": -0.48410223212578357,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Sikkim",
+            "month": "November",
+            "z_score": -0.36724996919887026,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Sikkim",
+            "month": "October",
+            "z_score": 0.1468999876795481,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Sikkim",
+            "month": "September",
+            "z_score": 0.006677272167252163,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        }
+    ],
+    "policy_insights": null
+}

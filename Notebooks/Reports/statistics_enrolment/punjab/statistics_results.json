@@ -1,0 +1,4972 @@
+{
+    "district_summary": [
+        {
+            "district": "Ludhiana",
+            "total_updates": 11969,
+            "mean_daily_updates": 7.3882716049382715,
+            "median_daily_updates": 2.0,
+            "std_updates": 42.43029947166767,
+            "days_active": 1620,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Amritsar",
+            "total_updates": 5926,
+            "mean_daily_updates": 5.692603266090297,
+            "median_daily_updates": 2.0,
+            "std_updates": 46.15127334943399,
+            "days_active": 1041,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Patiala",
+            "total_updates": 3311,
+            "mean_daily_updates": 5.197802197802198,
+            "median_daily_updates": 2.0,
+            "std_updates": 24.402516783126078,
+            "days_active": 637,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Jalandhar",
+            "total_updates": 2843,
+            "mean_daily_updates": 2.2280564263322886,
+            "median_daily_updates": 2.0,
+            "std_updates": 1.8833919296670936,
+            "days_active": 1276,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Gurdaspur",
+            "total_updates": 2829,
+            "mean_daily_updates": 3.1468298109010013,
+            "median_daily_updates": 2.0,
+            "std_updates": 10.923229699391026,
+            "days_active": 899,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Hoshiarpur",
+            "total_updates": 2693,
+            "mean_daily_updates": 2.834736842105263,
+            "median_daily_updates": 1.0,
+            "std_updates": 16.155104817978884,
+            "days_active": 950,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "SAS Nagar (Mohali)",
+            "total_updates": 2387,
+            "mean_daily_updates": 3.260928961748634,
+            "median_daily_updates": 2.0,
+            "std_updates": 10.695202816895817,
+            "days_active": 732,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Tarn Taran",
+            "total_updates": 2153,
+            "mean_daily_updates": 3.1067821067821066,
+            "median_daily_updates": 2.0,
+            "std_updates": 14.748473915571488,
+            "days_active": 693,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Bathinda",
+            "total_updates": 1768,
+            "mean_daily_updates": 3.304672897196262,
+            "median_daily_updates": 2.0,
+            "std_updates": 3.582452635721149,
+            "days_active": 535,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Sangrur",
+            "total_updates": 1638,
+            "mean_daily_updates": 3.295774647887324,
+            "median_daily_updates": 2.0,
+            "std_updates": 7.673729947291132,
+            "days_active": 497,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Kapurthala",
+            "total_updates": 1597,
+            "mean_daily_updates": 3.7843601895734595,
+            "median_daily_updates": 1.0,
+            "std_updates": 21.871867025173394,
+            "days_active": 422,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Fazilka",
+            "total_updates": 1221,
+            "mean_daily_updates": 4.00327868852459,
+            "median_daily_updates": 2.0,
+            "std_updates": 4.180545765692666,
+            "days_active": 305,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Moga",
+            "total_updates": 1076,
+            "mean_daily_updates": 2.1056751467710373,
+            "median_daily_updates": 1.0,
+            "std_updates": 1.719720418496236,
+            "days_active": 511,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Sri Muktsar Sahib",
+            "total_updates": 995,
+            "mean_daily_updates": 2.557840616966581,
+            "median_daily_updates": 2.0,
+            "std_updates": 2.345179628513665,
+            "days_active": 389,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Ferozepur",
+            "total_updates": 881,
+            "mean_daily_updates": 2.1646191646191646,
+            "median_daily_updates": 2.0,
+            "std_updates": 1.8476256338030157,
+            "days_active": 407,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Rupnagar",
+            "total_updates": 876,
+            "mean_daily_updates": 1.8099173553719008,
+            "median_daily_updates": 1.0,
+            "std_updates": 1.2728348210858162,
+            "days_active": 484,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Mansa",
+            "total_updates": 804,
+            "mean_daily_updates": 2.458715596330275,
+            "median_daily_updates": 2.0,
+            "std_updates": 2.037375206423665,
+            "days_active": 327,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Pathankot",
+            "total_updates": 800,
+            "mean_daily_updates": 2.5559105431309903,
+            "median_daily_updates": 1.0,
+            "std_updates": 3.1425897604091166,
+            "days_active": 313,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Fatehgarh Sahib",
+            "total_updates": 768,
+            "mean_daily_updates": 2.501628664495114,
+            "median_daily_updates": 1.0,
+            "std_updates": 2.49492896520079,
+            "days_active": 307,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Malerkotla",
+            "total_updates": 729,
+            "mean_daily_updates": 3.7193877551020407,
+            "median_daily_updates": 2.0,
+            "std_updates": 4.595184952908755,
+            "days_active": 196,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Shaheed Bhagat Singh Nagar",
+            "total_updates": 639,
+            "mean_daily_updates": 1.6384615384615384,
+            "median_daily_updates": 1.0,
+            "std_updates": 1.2210904529983833,
+            "days_active": 390,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Barnala",
+            "total_updates": 622,
+            "mean_daily_updates": 2.197879858657244,
+            "median_daily_updates": 2.0,
+            "std_updates": 2.1229234559209313,
+            "days_active": 283,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Faridkot",
+            "total_updates": 593,
+            "mean_daily_updates": 2.6123348017621146,
+            "median_daily_updates": 2.0,
+            "std_updates": 2.379749989243744,
+            "days_active": 227,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Firozpur",
+            "total_updates": 294,
+            "mean_daily_updates": 1.3867924528301887,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.7977546061893499,
+            "days_active": 212,
+            "performance_category": "Below Target",
+            "needs_intervention": true
+        },
+        {
+            "district": "S.A.S Nagar",
+            "total_updates": 282,
+            "mean_daily_updates": 282.0,
+            "median_daily_updates": 282.0,
+            "std_updates": NaN,
+            "days_active": 1,
+            "performance_category": "Below Target",
+            "needs_intervention": true
+        },
+        {
+            "district": "Muktsar",
+            "total_updates": 239,
+            "mean_daily_updates": 1.707142857142857,
+            "median_daily_updates": 1.0,
+            "std_updates": 1.0422473544175297,
+            "days_active": 140,
+            "performance_category": "Below Target",
+            "needs_intervention": true
+        },
+        {
+            "district": "S.A.S Nagar(Mohali)",
+            "total_updates": 177,
+            "mean_daily_updates": 1.2553191489361701,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.539897547412588,
+            "days_active": 141,
+            "performance_category": "Below Target",
+            "needs_intervention": true
+        },
+        {
+            "district": "Nawanshahr",
+            "total_updates": 125,
+            "mean_daily_updates": 1.1160714285714286,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.3969599728904921,
+            "days_active": 112,
+            "performance_category": "Below Target",
+            "needs_intervention": true
+        }
+    ],
+    "monthly_district_summary": [
+        {
+            "district": "Amritsar",
+            "month": "March",
+            "year_month": "2025-03",
+            "monthly_updates": 49,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Amritsar",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 1114,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 21.73469387755102,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Amritsar",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 974,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.125673249551167,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Amritsar",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 525,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.4609856262833676,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Amritsar",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 1300,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.4761904761904763,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Amritsar",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 561,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5684615384615385,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Amritsar",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 909,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.6203208556149733,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Amritsar",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 397,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5632563256325633,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Amritsar",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 97,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.7556675062972292,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Barnala",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 44,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Barnala",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 226,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 4.136363636363637,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Barnala",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 99,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.5619469026548672,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Barnala",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 158,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.595959595959596,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Barnala",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 70,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.5569620253164558,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Barnala",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 25,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.6428571428571428,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Bathinda",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 144,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Bathinda",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 688,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 3.7777777777777777,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Bathinda",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 233,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.6613372093023255,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Bathinda",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 406,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.742489270386266,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Bathinda",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 258,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.3645320197044335,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Bathinda",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 39,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8488372093023255,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Faridkot",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 90,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Faridkot",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 207,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.2999999999999998,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Faridkot",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 77,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.6280193236714976,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Faridkot",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 100,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.2987012987012987,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Faridkot",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 97,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.030000000000000027,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Faridkot",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 22,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7731958762886598,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Fatehgarh Sahib",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 91,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Fatehgarh Sahib",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 238,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.6153846153846154,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Fatehgarh Sahib",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 128,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.46218487394957986,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Fatehgarh Sahib",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 201,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.5703125,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Fatehgarh Sahib",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 96,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.5223880597014925,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Fatehgarh Sahib",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 14,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8541666666666666,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Fazilka",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 105,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Fazilka",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 488,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 3.647619047619048,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Fazilka",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 160,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.6721311475409837,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Fazilka",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 179,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.11874999999999991,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Fazilka",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 262,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.4636871508379887,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Fazilka",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 27,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8969465648854962,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ferozepur",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 102,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ferozepur",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 370,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 2.627450980392157,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Ferozepur",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 126,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.6594594594594594,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ferozepur",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 186,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.4761904761904763,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ferozepur",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 78,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.5806451612903225,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ferozepur",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 19,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7564102564102564,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Firozpur",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 44,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Firozpur",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 136,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 2.090909090909091,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Firozpur",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 27,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8014705882352942,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Firozpur",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 49,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.8148148148148149,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Firozpur",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 35,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.2857142857142857,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Firozpur",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 3,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9142857142857143,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Gurdaspur",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 318,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Gurdaspur",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 327,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.028301886792452935,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Gurdaspur",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 879,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.688073394495413,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Gurdaspur",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 419,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5233219567690557,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Gurdaspur",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 487,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.16229116945107402,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Gurdaspur",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 309,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.3655030800821355,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Gurdaspur",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 90,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.7087378640776699,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Hoshiarpur",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 336,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Hoshiarpur",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 175,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.47916666666666663,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Hoshiarpur",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 365,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.0857142857142859,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Hoshiarpur",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 670,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.8356164383561644,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Hoshiarpur",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 249,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.6283582089552239,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Hoshiarpur",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 485,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.9477911646586346,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Hoshiarpur",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 333,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.3134020618556701,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Hoshiarpur",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 80,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.7597597597597597,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Jalandhar",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 286,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Jalandhar",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 921,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 2.2202797202797204,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Jalandhar",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 380,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5874049945711184,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Jalandhar",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 713,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.8763157894736842,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Jalandhar",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 333,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5329593267882188,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Jalandhar",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 210,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.36936936936936937,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kapurthala",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 446,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kapurthala",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 90,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.7982062780269058,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kapurthala",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 313,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 2.477777777777778,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Kapurthala",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 143,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5431309904153354,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kapurthala",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 345,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.4125874125874125,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Kapurthala",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 179,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.48115942028985503,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kapurthala",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 81,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.547486033519553,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ludhiana",
+            "month": "March",
+            "year_month": "2025-03",
+            "monthly_updates": 131,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ludhiana",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 1791,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 12.67175572519084,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Ludhiana",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 1383,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.22780569514237858,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ludhiana",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 1698,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.22776572668112793,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ludhiana",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 2139,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.2597173144876326,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ludhiana",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 1778,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.16877045348293596,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ludhiana",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 791,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5551181102362205,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ludhiana",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 1162,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.46902654867256643,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ludhiana",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 760,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.34595524956970736,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ludhiana",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 336,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5578947368421052,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Malerkotla",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 75,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Malerkotla",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 228,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 2.04,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Malerkotla",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 155,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.3201754385964912,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Malerkotla",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 123,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.20645161290322578,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Malerkotla",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 138,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.12195121951219523,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Malerkotla",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 10,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.927536231884058,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Mansa",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 95,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Mansa",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 250,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.6315789473684212,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Mansa",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 129,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.484,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Mansa",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 176,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.3643410852713178,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Mansa",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 144,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.18181818181818177,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Mansa",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 10,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9305555555555556,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Moga",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 106,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Moga",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 384,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 2.6226415094339623,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Moga",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 156,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.59375,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Moga",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 258,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.6538461538461537,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Moga",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 138,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.4651162790697675,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Moga",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 34,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7536231884057971,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Muktsar",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 27,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Muktsar",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 88,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 2.259259259259259,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Muktsar",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 32,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.6363636363636364,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Muktsar",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 41,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.28125,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Muktsar",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 42,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.024390243902439046,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Muktsar",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 9,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7857142857142857,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Nawanshahr",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 15,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Nawanshahr",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 27,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.8,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Nawanshahr",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 24,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.11111111111111116,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Nawanshahr",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 35,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.45833333333333326,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Nawanshahr",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 24,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.3142857142857143,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Pathankot",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 72,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Pathankot",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 197,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.7361111111111112,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Pathankot",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 100,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.4923857868020305,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Pathankot",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 169,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.69,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Pathankot",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 210,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.2426035502958579,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Pathankot",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 52,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.7523809523809524,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Patiala",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 604,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Patiala",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 329,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.45529801324503316,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Patiala",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 809,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.4589665653495443,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Patiala",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 482,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.40420271940667496,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Patiala",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 535,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.10995850622406644,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Patiala",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 376,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.297196261682243,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Patiala",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 176,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5319148936170213,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Rupnagar",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 101,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Rupnagar",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 284,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.8118811881188117,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Rupnagar",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 103,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.6373239436619718,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Rupnagar",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 224,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.174757281553398,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Rupnagar",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 119,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.46875,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Rupnagar",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 45,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.6218487394957983,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "S.A.S Nagar",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 282,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "S.A.S Nagar(Mohali)",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 8,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "S.A.S Nagar(Mohali)",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 59,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 6.375,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "S.A.S Nagar(Mohali)",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 46,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.22033898305084743,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "S.A.S Nagar(Mohali)",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 32,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.30434782608695654,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "S.A.S Nagar(Mohali)",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 25,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.21875,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "S.A.S Nagar(Mohali)",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 7,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.72,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "SAS Nagar (Mohali)",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 280,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "SAS Nagar (Mohali)",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 203,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.275,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "SAS Nagar (Mohali)",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 598,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.9458128078817736,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "SAS Nagar (Mohali)",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 376,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.3712374581939799,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "SAS Nagar (Mohali)",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 569,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.5132978723404256,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "SAS Nagar (Mohali)",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 237,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5834797891036907,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "SAS Nagar (Mohali)",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 124,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.47679324894514763,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Sangrur",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 166,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Sangrur",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 158,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.048192771084337394,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Sangrur",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 542,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 2.430379746835443,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Sangrur",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 222,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5904059040590406,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Sangrur",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 301,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.3558558558558558,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Sangrur",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 207,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.31229235880398676,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Sangrur",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 42,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7971014492753623,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Shaheed Bhagat Singh Nagar",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 48,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Shaheed Bhagat Singh Nagar",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 185,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 2.8541666666666665,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Shaheed Bhagat Singh Nagar",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 126,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.3189189189189189,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Shaheed Bhagat Singh Nagar",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 210,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.6666666666666667,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Shaheed Bhagat Singh Nagar",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 52,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.7523809523809524,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Shaheed Bhagat Singh Nagar",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 18,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.6538461538461539,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Sri Muktsar Sahib",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 78,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Sri Muktsar Sahib",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 365,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 3.6794871794871797,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Sri Muktsar Sahib",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 179,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5095890410958904,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Sri Muktsar Sahib",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 221,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.23463687150837997,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Sri Muktsar Sahib",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 102,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5384615384615384,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Sri Muktsar Sahib",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 50,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.5098039215686274,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Tarn Taran",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 183,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Tarn Taran",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 386,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.109289617486339,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Tarn Taran",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 613,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.5880829015544042,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Tarn Taran",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 387,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.36867862969004894,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Tarn Taran",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 414,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.06976744186046502,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Tarn Taran",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 148,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.642512077294686,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Tarn Taran",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 22,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8513513513513513,
+            "concerning_drop": true,
+            "sudden_spike": false
+        }
+    ],
+    "univariate_stats": {
+        "mean": {
+            "total_updates": 1794.107142857143
+        },
+        "median": {
+            "total_updates": 938.0
+        },
+        "variance": {
+            "total_updates": 5564723.284391534
+        },
+        "std_dev": {
+            "total_updates": 2358.966571274704
+        },
+        "iqr": {
+            "total_updates": 1576.75
+        },
+        "mad": {
+            "total_updates": 657.5
+        },
+        "skewness": {
+            "total_updates": 3.340656827672829
+        },
+        "excess_kurtosis": {
+            "total_updates": 13.16218510042058
+        },
+        "min": {
+            "total_updates": 125.0
+        },
+        "max": {
+            "total_updates": 11969.0
+        },
+        "count": {
+            "total_updates": 28
+        },
+        "p10_bottom_10pct": {
+            "total_updates": 269.1
+        },
+        "q1_25th_percentile": {
+            "total_updates": 634.75
+        },
+        "q3_75th_percentile": {
+            "total_updates": 2211.5
+        },
+        "p90_top_10pct": {
+            "total_updates": 2983.4000000000005
+        },
+        "p95_top_5pct": {
+            "total_updates": 5010.749999999996
+        },
+        "critical_count": {
+            "total_updates": 0
+        },
+        "critical_percentage": {
+            "total_updates": 0.0
+        },
+        "below_target_count": {
+            "total_updates": 5
+        },
+        "below_target_percentage": {
+            "total_updates": 17.857142857142858
+        },
+        "on_track_count": {
+            "total_updates": 10
+        },
+        "on_track_percentage": {
+            "total_updates": 35.714285714285715
+        },
+        "excellent_count": {
+            "total_updates": 13
+        },
+        "excellent_percentage": {
+            "total_updates": 46.42857142857143
+        },
+        "gini_coefficient": {
+            "total_updates": -0.4943721651096987
+        },
+        "inequality_interpretation": {
+            "total_updates": "LOW"
+        },
+        "top_10pct_contribution": {
+            "total_updates": 35.622573902657514
+        },
+        "bottom_50pct_contribution": {
+            "total_updates": 15.584751667164328
+        },
+        "median_mean_gap": {
+            "total_updates": 856.1071428571429
+        },
+        "gap_interpretation": {
+            "total_updates": "Moderate inequality"
+        },
+        "districts_needing_intervention": {
+            "total_updates": 5
+        },
+        "intervention_percentage": {
+            "total_updates": 17.857142857142858
+        },
+        "estimated_training_cost_lakhs": {
+            "total_updates": 10.0
+        }
+    },
+    "change_point_detection": [
+        {
+            "month": "March",
+            "value": 180,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "April",
+            "value": 4451,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "May",
+            "value": 2961,
+            "posterior_mean": 2530.6666666666665,
+            "posterior_std": 2167.775434248975,
+            "z_score": 0.19851379738622338,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "June",
+            "value": 5501,
+            "posterior_mean": 4304.333333333333,
+            "posterior_std": 1276.335901451234,
+            "z_score": 0.9375797274886802,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "July",
+            "value": 2890,
+            "posterior_mean": 3784.0,
+            "posterior_std": 1487.3893236136935,
+            "z_score": -0.6010531242943026,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "August",
+            "value": 0,
+            "posterior_mean": 2797.0,
+            "posterior_std": 2751.6789420279392,
+            "z_score": -1.0164703291797044,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "September",
+            "value": 12843,
+            "posterior_mean": 5244.333333333333,
+            "posterior_std": 6737.419857284636,
+            "z_score": 1.1278303605275295,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "October",
+            "value": 5910,
+            "posterior_mean": 6251.0,
+            "posterior_std": 6428.286941324259,
+            "z_score": -0.05304679195446001,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "November",
+            "value": 8688,
+            "posterior_mean": 9147.0,
+            "posterior_std": 3489.216674269453,
+            "z_score": -0.13154815044442664,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "December",
+            "value": 5169,
+            "posterior_mean": 6589.0,
+            "posterior_std": 1855.1606399446912,
+            "z_score": -0.7654323671088317,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "January",
+            "value": 1642,
+            "posterior_mean": 5166.333333333333,
+            "posterior_std": 3523.0007569305653,
+            "z_score": -1.0003782503878678,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        }
+    ],
+    "matrix_stats": {
+        "row_sum_total_updates": {
+            "Amritsar": 5926,
+            "Barnala": 622,
+            "Bathinda": 1768,
+            "Faridkot": 593,
+            "Fatehgarh Sahib": 768,
+            "Fazilka": 1221,
+            "Ferozepur": 881,
+            "Firozpur": 294,
+            "Gurdaspur": 2829,
+            "Hoshiarpur": 2693,
+            "Jalandhar": 2843,
+            "Kapurthala": 1597,
+            "Ludhiana": 11969,
+            "Malerkotla": 729,
+            "Mansa": 804,
+            "Moga": 1076,
+            "Muktsar": 239,
+            "Nawanshahr": 125,
+            "Pathankot": 800,
+            "Patiala": 3311,
+            "Rupnagar": 876,
+            "S.A.S Nagar": 282,
+            "S.A.S Nagar(Mohali)": 177,
+            "SAS Nagar (Mohali)": 2387,
+            "Sangrur": 1638,
+            "Shaheed Bhagat Singh Nagar": 639,
+            "Sri Muktsar Sahib": 995,
+            "Tarn Taran": 2153
+        },
+        "row_mean_monthly_updates": {
+            "Amritsar": 592.6,
+            "Barnala": 62.2,
+            "Bathinda": 176.8,
+            "Faridkot": 59.3,
+            "Fatehgarh Sahib": 76.8,
+            "Fazilka": 122.1,
+            "Ferozepur": 88.1,
+            "Firozpur": 29.4,
+            "Gurdaspur": 282.9,
+            "Hoshiarpur": 269.3,
+            "Jalandhar": 284.3,
+            "Kapurthala": 159.7,
+            "Ludhiana": 1196.9,
+            "Malerkotla": 72.9,
+            "Mansa": 80.4,
+            "Moga": 107.6,
+            "Muktsar": 23.9,
+            "Nawanshahr": 12.5,
+            "Pathankot": 80.0,
+            "Patiala": 331.1,
+            "Rupnagar": 87.6,
+            "S.A.S Nagar": 28.2,
+            "S.A.S Nagar(Mohali)": 17.7,
+            "SAS Nagar (Mohali)": 238.7,
+            "Sangrur": 163.8,
+            "Shaheed Bhagat Singh Nagar": 63.9,
+            "Sri Muktsar Sahib": 99.5,
+            "Tarn Taran": 215.3
+        },
+        "row_variance": {
+            "Amritsar": 217107.82222222222,
+            "Barnala": 6068.177777777778,
+            "Bathinda": 52078.62222222223,
+            "Faridkot": 4622.899999999999,
+            "Fatehgarh Sahib": 8015.511111111112,
+            "Fazilka": 25233.21111111111,
+            "Ferozepur": 14067.21111111111,
+            "Firozpur": 1794.711111111111,
+            "Gurdaspur": 77408.9888888889,
+            "Hoshiarpur": 46104.01111111111,
+            "Jalandhar": 103281.12222222223,
+            "Kapurthala": 25335.56666666667,
+            "Ludhiana": 455340.5444444444,
+            "Malerkotla": 6973.655555555555,
+            "Mansa": 8370.71111111111,
+            "Moga": 17112.711111111108,
+            "Muktsar": 812.3222222222222,
+            "Nawanshahr": 196.5,
+            "Pathankot": 7262.0,
+            "Patiala": 80240.76666666666,
+            "Rupnagar": 10121.155555555555,
+            "S.A.S Nagar": 7952.400000000002,
+            "S.A.S Nagar(Mohali)": 469.5666666666666,
+            "SAS Nagar (Mohali)": 49346.455555555556,
+            "Sangrur": 29164.177777777775,
+            "Shaheed Bhagat Singh Nagar": 6522.322222222222,
+            "Sri Muktsar Sahib": 14899.166666666666,
+            "Tarn Taran": 48696.23333333333
+        },
+        "row_min": {
+            "Amritsar": 0,
+            "Barnala": 0,
+            "Bathinda": 0,
+            "Faridkot": 0,
+            "Fatehgarh Sahib": 0,
+            "Fazilka": 0,
+            "Ferozepur": 0,
+            "Firozpur": 0,
+            "Gurdaspur": 0,
+            "Hoshiarpur": 0,
+            "Jalandhar": 0,
+            "Kapurthala": 0,
+            "Ludhiana": 131,
+            "Malerkotla": 0,
+            "Mansa": 0,
+            "Moga": 0,
+            "Muktsar": 0,
+            "Nawanshahr": 0,
+            "Pathankot": 0,
+            "Patiala": 0,
+            "Rupnagar": 0,
+            "S.A.S Nagar": 0,
+            "S.A.S Nagar(Mohali)": 0,
+            "SAS Nagar (Mohali)": 0,
+            "Sangrur": 0,
+            "Shaheed Bhagat Singh Nagar": 0,
+            "Sri Muktsar Sahib": 0,
+            "Tarn Taran": 0
+        },
+        "row_max": {
+            "Amritsar": 1300,
+            "Barnala": 226,
+            "Bathinda": 688,
+            "Faridkot": 207,
+            "Fatehgarh Sahib": 238,
+            "Fazilka": 488,
+            "Ferozepur": 370,
+            "Firozpur": 136,
+            "Gurdaspur": 879,
+            "Hoshiarpur": 670,
+            "Jalandhar": 921,
+            "Kapurthala": 446,
+            "Ludhiana": 2139,
+            "Malerkotla": 228,
+            "Mansa": 250,
+            "Moga": 384,
+            "Muktsar": 88,
+            "Nawanshahr": 35,
+            "Pathankot": 210,
+            "Patiala": 809,
+            "Rupnagar": 284,
+            "S.A.S Nagar": 282,
+            "S.A.S Nagar(Mohali)": 59,
+            "SAS Nagar (Mohali)": 598,
+            "Sangrur": 542,
+            "Shaheed Bhagat Singh Nagar": 210,
+            "Sri Muktsar Sahib": 365,
+            "Tarn Taran": 613
+        },
+        "performance_category": {
+            "Amritsar": "on_track",
+            "Barnala": "critical",
+            "Bathinda": "below_target",
+            "Faridkot": "critical",
+            "Fatehgarh Sahib": "critical",
+            "Fazilka": "below_target",
+            "Ferozepur": "critical",
+            "Firozpur": "critical",
+            "Gurdaspur": "below_target",
+            "Hoshiarpur": "below_target",
+            "Jalandhar": "below_target",
+            "Kapurthala": "below_target",
+            "Ludhiana": "excellent",
+            "Malerkotla": "critical",
+            "Mansa": "critical",
+            "Moga": "below_target",
+            "Muktsar": "critical",
+            "Nawanshahr": "critical",
+            "Pathankot": "critical",
+            "Patiala": "below_target",
+            "Rupnagar": "critical",
+            "S.A.S Nagar": "critical",
+            "S.A.S Nagar(Mohali)": "critical",
+            "SAS Nagar (Mohali)": "below_target",
+            "Sangrur": "below_target",
+            "Shaheed Bhagat Singh Nagar": "critical",
+            "Sri Muktsar Sahib": "critical",
+            "Tarn Taran": "below_target"
+        },
+        "needs_intervention": {
+            "Amritsar": false,
+            "Barnala": true,
+            "Bathinda": true,
+            "Faridkot": true,
+            "Fatehgarh Sahib": true,
+            "Fazilka": true,
+            "Ferozepur": true,
+            "Firozpur": true,
+            "Gurdaspur": true,
+            "Hoshiarpur": true,
+            "Jalandhar": true,
+            "Kapurthala": true,
+            "Ludhiana": false,
+            "Malerkotla": true,
+            "Mansa": true,
+            "Moga": true,
+            "Muktsar": true,
+            "Nawanshahr": true,
+            "Pathankot": true,
+            "Patiala": true,
+            "Rupnagar": true,
+            "S.A.S Nagar": true,
+            "S.A.S Nagar(Mohali)": true,
+            "SAS Nagar (Mohali)": true,
+            "Sangrur": true,
+            "Shaheed Bhagat Singh Nagar": true,
+            "Sri Muktsar Sahib": true,
+            "Tarn Taran": true
+        },
+        "consistency_score": {
+            "Amritsar": 4.605985098921719e-06,
+            "Barnala": 0.00016476696458974857,
+            "Bathinda": 1.9201368161486064e-05,
+            "Faridkot": 0.00021626765284716372,
+            "Fatehgarh Sahib": 0.00012474254524689321,
+            "Fazilka": 3.962874034764973e-05,
+            "Ferozepur": 7.108224294488995e-05,
+            "Firozpur": 0.0005568824483027461,
+            "Gurdaspur": 1.2918229473399857e-05,
+            "Hoshiarpur": 2.1689616288998233e-05,
+            "Jalandhar": 9.682217778681929e-06,
+            "Kapurthala": 3.94686467648208e-05,
+            "Ludhiana": 2.1961536613578394e-06,
+            "Malerkotla": 0.00014337625593617527,
+            "Mansa": 0.00011944989342415066,
+            "Moga": 5.843267970970646e-05,
+            "Muktsar": 0.0012295249935108403,
+            "Nawanshahr": 0.005063291139240506,
+            "Pathankot": 0.00013768415255404102,
+            "Patiala": 1.2462337776710633e-05,
+            "Rupnagar": 9.879318634370808e-05,
+            "S.A.S Nagar": 0.0001257323911786154,
+            "S.A.S Nagar(Mohali)": 0.0021250974002975137,
+            "SAS Nagar (Mohali)": 2.0264469337718864e-05,
+            "Sangrur": 3.428746457914423e-05,
+            "Shaheed Bhagat Singh Nagar": 0.00015329612211909747,
+            "Sri Muktsar Sahib": 6.711334325119406e-05,
+            "Tarn Taran": 2.053504750783241e-05
+        },
+        "months_below_target": {
+            "Amritsar": 2,
+            "Barnala": 6,
+            "Bathinda": 5,
+            "Faridkot": 5,
+            "Fatehgarh Sahib": 5,
+            "Fazilka": 5,
+            "Ferozepur": 5,
+            "Firozpur": 9,
+            "Gurdaspur": 3,
+            "Hoshiarpur": 2,
+            "Jalandhar": 4,
+            "Kapurthala": 3,
+            "Ludhiana": 0,
+            "Malerkotla": 5,
+            "Mansa": 5,
+            "Moga": 5,
+            "Muktsar": 9,
+            "Nawanshahr": 10,
+            "Pathankot": 4,
+            "Patiala": 3,
+            "Rupnagar": 5,
+            "S.A.S Nagar": 9,
+            "S.A.S Nagar(Mohali)": 9,
+            "SAS Nagar (Mohali)": 3,
+            "Sangrur": 4,
+            "Shaheed Bhagat Singh Nagar": 6,
+            "Sri Muktsar Sahib": 4,
+            "Tarn Taran": 4
+        }
+    },
+    "matrix_anomalies": [
+        {
+            "district": "Amritsar",
+            "month": "April",
+            "z_score": 1.1190082574777023,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Amritsar",
+            "month": "December",
+            "z_score": -0.4197890586164914,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Amritsar",
+            "month": "January",
+            "z_score": -1.063637308028288,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Amritsar",
+            "month": "July",
+            "z_score": -1.2718149086714354,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Amritsar",
+            "month": "June",
+            "z_score": -0.14508047220079154,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Amritsar",
+            "month": "March",
+            "z_score": -1.1666530279341754,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Amritsar",
+            "month": "May",
+            "z_score": 0.8185457410855306,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Amritsar",
+            "month": "November",
+            "z_score": 0.6790452870463081,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Amritsar",
+            "month": "October",
+            "z_score": -0.06781868227137595,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Amritsar",
+            "month": "September",
+            "z_score": 1.518194172113016,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Barnala",
+            "month": "April",
+            "z_score": -0.7984748414639112,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Barnala",
+            "month": "December",
+            "z_score": 0.1001302855855065,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Barnala",
+            "month": "January",
+            "z_score": -0.47754443894626203,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Barnala",
+            "month": "July",
+            "z_score": -0.7984748414639112,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Barnala",
+            "month": "June",
+            "z_score": -0.23363733303284864,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Barnala",
+            "month": "March",
+            "z_score": -0.7984748414639112,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Barnala",
+            "month": "May",
+            "z_score": -0.7984748414639112,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Barnala",
+            "month": "November",
+            "z_score": 1.2298053024476316,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Barnala",
+            "month": "October",
+            "z_score": 0.47240955250597955,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Barnala",
+            "month": "September",
+            "z_score": 2.1027359972956376,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Bathinda",
+            "month": "April",
+            "z_score": -0.7747338247561306,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Bathinda",
+            "month": "December",
+            "z_score": 0.35581666612102825,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Bathinda",
+            "month": "January",
+            "z_score": -0.6038366575305136,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Bathinda",
+            "month": "July",
+            "z_score": -0.7747338247561306,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Bathinda",
+            "month": "June",
+            "z_score": -0.1437288996153908,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Bathinda",
+            "month": "March",
+            "z_score": -0.7747338247561306,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Bathinda",
+            "month": "May",
+            "z_score": -0.7747338247561306,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Bathinda",
+            "month": "November",
+            "z_score": 1.0043495058490108,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Bathinda",
+            "month": "October",
+            "z_score": 0.2462671999507609,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Bathinda",
+            "month": "September",
+            "z_score": 2.2400674842496264,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Faridkot",
+            "month": "April",
+            "z_score": -0.8721625687596136,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Faridkot",
+            "month": "December",
+            "z_score": 0.5544777207797207,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Faridkot",
+            "month": "January",
+            "z_score": -0.5485946680393522,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Faridkot",
+            "month": "July",
+            "z_score": -0.8721625687596136,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Faridkot",
+            "month": "June",
+            "z_score": 0.4515242978232739,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Faridkot",
+            "month": "March",
+            "z_score": -0.8721625687596136,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Faridkot",
+            "month": "May",
+            "z_score": -0.8721625687596136,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Faridkot",
+            "month": "November",
+            "z_score": 0.5986006163324836,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Faridkot",
+            "month": "October",
+            "z_score": 0.26032508376130126,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Faridkot",
+            "month": "September",
+            "z_score": 2.1723172243810276,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fatehgarh Sahib",
+            "month": "April",
+            "z_score": -0.8578188983030749,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fatehgarh Sahib",
+            "month": "December",
+            "z_score": 0.21445472457576878,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fatehgarh Sahib",
+            "month": "January",
+            "z_score": -0.7014456616332435,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fatehgarh Sahib",
+            "month": "July",
+            "z_score": -0.8578188983030749,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fatehgarh Sahib",
+            "month": "June",
+            "z_score": 0.158607140050829,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fatehgarh Sahib",
+            "month": "March",
+            "z_score": -0.8578188983030749,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fatehgarh Sahib",
+            "month": "May",
+            "z_score": -0.8578188983030749,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fatehgarh Sahib",
+            "month": "November",
+            "z_score": 1.3872539995995041,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fatehgarh Sahib",
+            "month": "October",
+            "z_score": 0.5718792655353834,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fatehgarh Sahib",
+            "month": "September",
+            "z_score": 1.8005261250840583,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fazilka",
+            "month": "April",
+            "z_score": -0.7686513660520943,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fazilka",
+            "month": "December",
+            "z_score": 0.8807070115535462,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fazilka",
+            "month": "January",
+            "z_score": -0.5986793195049481,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fazilka",
+            "month": "July",
+            "z_score": -0.7686513660520943,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fazilka",
+            "month": "June",
+            "z_score": -0.10764896281319253,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fazilka",
+            "month": "March",
+            "z_score": -0.7686513660520943,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fazilka",
+            "month": "May",
+            "z_score": -0.7686513660520943,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fazilka",
+            "month": "November",
+            "z_score": 0.3582003499456525,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fazilka",
+            "month": "October",
+            "z_score": 0.23859039126432743,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fazilka",
+            "month": "September",
+            "z_score": 2.303435993762992,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ferozepur",
+            "month": "April",
+            "z_score": -0.7428000184597283,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ferozepur",
+            "month": "December",
+            "z_score": -0.08515641528312431,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ferozepur",
+            "month": "January",
+            "z_score": -0.5826047817885043,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ferozepur",
+            "month": "July",
+            "z_score": -0.7428000184597283,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ferozepur",
+            "month": "June",
+            "z_score": 0.11719546261736923,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ferozepur",
+            "month": "March",
+            "z_score": -0.7428000184597283,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ferozepur",
+            "month": "May",
+            "z_score": -0.7428000184597283,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ferozepur",
+            "month": "November",
+            "z_score": 0.8254270352690967,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ferozepur",
+            "month": "October",
+            "z_score": 0.31954734051786277,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ferozepur",
+            "month": "September",
+            "z_score": 2.3767914325062134,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Firozpur",
+            "month": "April",
+            "z_score": -0.6939849537417294,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Firozpur",
+            "month": "December",
+            "z_score": 0.13218761023651993,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Firozpur",
+            "month": "January",
+            "z_score": -0.6231701625435937,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Firozpur",
+            "month": "July",
+            "z_score": -0.6939849537417294,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Firozpur",
+            "month": "June",
+            "z_score": 0.3446319838309269,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Firozpur",
+            "month": "March",
+            "z_score": -0.6939849537417294,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Firozpur",
+            "month": "May",
+            "z_score": -0.6939849537417294,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Firozpur",
+            "month": "November",
+            "z_score": 0.46265663582781963,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Firozpur",
+            "month": "October",
+            "z_score": -0.05665183295850849,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Firozpur",
+            "month": "September",
+            "z_score": 2.5162855805737534,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Gurdaspur",
+            "month": "April",
+            "z_score": 0.12615701920548197,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Gurdaspur",
+            "month": "December",
+            "z_score": 0.09380906556305073,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Gurdaspur",
+            "month": "January",
+            "z_score": -0.6933244730694432,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Gurdaspur",
+            "month": "July",
+            "z_score": -1.0168040094937558,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Gurdaspur",
+            "month": "June",
+            "z_score": 0.15850497284791323,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Gurdaspur",
+            "month": "March",
+            "z_score": -1.0168040094937558,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Gurdaspur",
+            "month": "May",
+            "z_score": -1.0168040094937558,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Gurdaspur",
+            "month": "November",
+            "z_score": 0.7335797042689134,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Gurdaspur",
+            "month": "October",
+            "z_score": 0.4891729434149883,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Gurdaspur",
+            "month": "September",
+            "z_score": 2.142512796250364,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Hoshiarpur",
+            "month": "April",
+            "z_score": 0.3106393567961779,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Hoshiarpur",
+            "month": "December",
+            "z_score": 0.2966675716329315,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Hoshiarpur",
+            "month": "January",
+            "z_score": -0.8816196438008469,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Hoshiarpur",
+            "month": "July",
+            "z_score": 0.44569994670755964,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Hoshiarpur",
+            "month": "June",
+            "z_score": -0.4391797802980447,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Hoshiarpur",
+            "month": "March",
+            "z_score": -1.254200581487417,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Hoshiarpur",
+            "month": "May",
+            "z_score": -1.254200581487417,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Hoshiarpur",
+            "month": "November",
+            "z_score": 1.004571353237415,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Hoshiarpur",
+            "month": "October",
+            "z_score": -0.09454241293796725,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Hoshiarpur",
+            "month": "September",
+            "z_score": 1.8661647716376086,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jalandhar",
+            "month": "April",
+            "z_score": -0.8846396190803898,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jalandhar",
+            "month": "December",
+            "z_score": 0.15153693088010894,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jalandhar",
+            "month": "January",
+            "z_score": -0.23119494793412934,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jalandhar",
+            "month": "July",
+            "z_score": -0.8846396190803898,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jalandhar",
+            "month": "June",
+            "z_score": 0.005289790194993501,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jalandhar",
+            "month": "March",
+            "z_score": -0.8846396190803898,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jalandhar",
+            "month": "May",
+            "z_score": -0.8846396190803898,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jalandhar",
+            "month": "November",
+            "z_score": 1.3339606215257231,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jalandhar",
+            "month": "October",
+            "z_score": 0.29778407156522435,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jalandhar",
+            "month": "September",
+            "z_score": 1.9811820100896385,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kapurthala",
+            "month": "April",
+            "z_score": 1.798688826595874,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kapurthala",
+            "month": "December",
+            "z_score": 0.12125286186971844,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kapurthala",
+            "month": "January",
+            "z_score": -0.4944352450335147,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kapurthala",
+            "month": "July",
+            "z_score": -1.0033203129841461,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kapurthala",
+            "month": "June",
+            "z_score": -0.43789245970566676,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kapurthala",
+            "month": "March",
+            "z_score": -1.0033203129841461,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kapurthala",
+            "month": "May",
+            "z_score": -1.0033203129841461,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kapurthala",
+            "month": "November",
+            "z_score": 1.1641531245833583,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kapurthala",
+            "month": "October",
+            "z_score": -0.10491827944167334,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kapurthala",
+            "month": "September",
+            "z_score": 0.9631121100843434,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ludhiana",
+            "month": "April",
+            "z_score": 0.8804230236722759,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ludhiana",
+            "month": "December",
+            "z_score": -0.6474614021922529,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ludhiana",
+            "month": "January",
+            "z_score": -1.2758057247592365,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ludhiana",
+            "month": "July",
+            "z_score": 1.3961395903074416,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ludhiana",
+            "month": "June",
+            "z_score": 0.7426022170714988,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ludhiana",
+            "month": "March",
+            "z_score": -1.5796042769437453,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ludhiana",
+            "month": "May",
+            "z_score": 0.2757898076172538,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ludhiana",
+            "month": "November",
+            "z_score": -0.05171985107921648,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ludhiana",
+            "month": "October",
+            "z_score": -0.6015211333253272,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ludhiana",
+            "month": "September",
+            "z_score": 0.861157749631307,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Malerkotla",
+            "month": "April",
+            "z_score": -0.8729659048194731,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Malerkotla",
+            "month": "December",
+            "z_score": 0.7795621454560726,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Malerkotla",
+            "month": "January",
+            "z_score": -0.7532174953792162,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Malerkotla",
+            "month": "July",
+            "z_score": -0.8729659048194731,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Malerkotla",
+            "month": "June",
+            "z_score": 0.025147165982453888,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Malerkotla",
+            "month": "March",
+            "z_score": -0.8729659048194731,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Malerkotla",
+            "month": "May",
+            "z_score": -0.8729659048194731,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Malerkotla",
+            "month": "November",
+            "z_score": 0.5999395312956872,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Malerkotla",
+            "month": "October",
+            "z_score": 0.9831344415045093,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Malerkotla",
+            "month": "September",
+            "z_score": 1.857297830418385,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mansa",
+            "month": "April",
+            "z_score": -0.8787692908385182,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mansa",
+            "month": "December",
+            "z_score": 0.695145856931962,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mansa",
+            "month": "January",
+            "z_score": -0.7694696277989015,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mansa",
+            "month": "July",
+            "z_score": -0.8787692908385182,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mansa",
+            "month": "June",
+            "z_score": 0.1595775080378403,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mansa",
+            "month": "March",
+            "z_score": -0.8787692908385182,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mansa",
+            "month": "May",
+            "z_score": -0.8787692908385182,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mansa",
+            "month": "November",
+            "z_score": 1.0449047786587353,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mansa",
+            "month": "October",
+            "z_score": 0.531196362372537,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mansa",
+            "month": "September",
+            "z_score": 1.8537222851518989,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Moga",
+            "month": "April",
+            "z_score": -0.8225321118324711,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Moga",
+            "month": "December",
+            "z_score": 0.2323882546441183,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Moga",
+            "month": "January",
+            "z_score": -0.562624195454181,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Moga",
+            "month": "July",
+            "z_score": -0.8225321118324711,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Moga",
+            "month": "June",
+            "z_score": -0.012230960770743022,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Moga",
+            "month": "March",
+            "z_score": -0.8225321118324711,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Moga",
+            "month": "May",
+            "z_score": -0.8225321118324711,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Moga",
+            "month": "November",
+            "z_score": 1.1497103124498482,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Moga",
+            "month": "October",
+            "z_score": 0.3699865633149778,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Moga",
+            "month": "September",
+            "z_score": 2.1128984731458647,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Muktsar",
+            "month": "April",
+            "z_score": -0.8385592112874645,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Muktsar",
+            "month": "December",
+            "z_score": 0.635059486372515,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Muktsar",
+            "month": "January",
+            "z_score": -0.5227837760746117,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Muktsar",
+            "month": "July",
+            "z_score": -0.8385592112874645,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Muktsar",
+            "month": "June",
+            "z_score": 0.10876709435109377,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Muktsar",
+            "month": "March",
+            "z_score": -0.8385592112874645,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Muktsar",
+            "month": "May",
+            "z_score": -0.8385592112874645,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Muktsar",
+            "month": "November",
+            "z_score": 0.5999733269044203,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Muktsar",
+            "month": "October",
+            "z_score": 0.2841978916915675,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Muktsar",
+            "month": "September",
+            "z_score": 2.249022821904873,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Nawanshahr",
+            "month": "April",
+            "z_score": -0.8917204687580271,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Nawanshahr",
+            "month": "December",
+            "z_score": 0.8203828312573849,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Nawanshahr",
+            "month": "January",
+            "z_score": -0.8917204687580271,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Nawanshahr",
+            "month": "July",
+            "z_score": -0.8917204687580271,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Nawanshahr",
+            "month": "June",
+            "z_score": 0.17834409375160543,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Nawanshahr",
+            "month": "March",
+            "z_score": -0.8917204687580271,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Nawanshahr",
+            "month": "May",
+            "z_score": -0.8917204687580271,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Nawanshahr",
+            "month": "November",
+            "z_score": 1.6050968437644488,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Nawanshahr",
+            "month": "October",
+            "z_score": 0.8203828312573849,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Nawanshahr",
+            "month": "September",
+            "z_score": 1.0343957437593114,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pathankot",
+            "month": "April",
+            "z_score": -0.938775754575145,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pathankot",
+            "month": "December",
+            "z_score": 1.5255106011846107,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pathankot",
+            "month": "January",
+            "z_score": -0.32857151410130075,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pathankot",
+            "month": "July",
+            "z_score": -0.938775754575145,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pathankot",
+            "month": "June",
+            "z_score": -0.0938775754575145,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pathankot",
+            "month": "March",
+            "z_score": -0.938775754575145,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pathankot",
+            "month": "May",
+            "z_score": -0.938775754575145,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pathankot",
+            "month": "November",
+            "z_score": 1.044388026964849,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pathankot",
+            "month": "October",
+            "z_score": 0.23469393864378624,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pathankot",
+            "month": "September",
+            "z_score": 1.3729595410661495,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Patiala",
+            "month": "April",
+            "z_score": -1.1688577103041795,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Patiala",
+            "month": "December",
+            "z_score": 0.15850713135807198,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Patiala",
+            "month": "January",
+            "z_score": -0.5475379971856789,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Patiala",
+            "month": "July",
+            "z_score": -1.1688577103041795,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Patiala",
+            "month": "June",
+            "z_score": -0.007413473849709464,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Patiala",
+            "month": "March",
+            "z_score": -1.1688577103041795,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Patiala",
+            "month": "May",
+            "z_score": 0.9633985778979479,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Patiala",
+            "month": "November",
+            "z_score": 0.7198130085503539,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Patiala",
+            "month": "October",
+            "z_score": 0.5327110494862599,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Patiala",
+            "month": "September",
+            "z_score": 1.6870948346552925,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rupnagar",
+            "month": "April",
+            "z_score": -0.8707411243609005,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rupnagar",
+            "month": "December",
+            "z_score": 0.31211496923438675,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rupnagar",
+            "month": "January",
+            "z_score": -0.42344260157276664,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rupnagar",
+            "month": "July",
+            "z_score": -0.8707411243609005,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rupnagar",
+            "month": "June",
+            "z_score": 0.13319556011913325,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rupnagar",
+            "month": "March",
+            "z_score": -0.8707411243609005,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rupnagar",
+            "month": "May",
+            "z_score": -0.8707411243609005,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rupnagar",
+            "month": "November",
+            "z_score": 1.355811522406699,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rupnagar",
+            "month": "October",
+            "z_score": 0.15307549446527252,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rupnagar",
+            "month": "September",
+            "z_score": 1.9522095527908774,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "S.A.S Nagar",
+            "month": "April",
+            "z_score": -0.3162277660168379,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "S.A.S Nagar",
+            "month": "December",
+            "z_score": -0.3162277660168379,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "S.A.S Nagar",
+            "month": "January",
+            "z_score": -0.3162277660168379,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "S.A.S Nagar",
+            "month": "July",
+            "z_score": -0.3162277660168379,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "S.A.S Nagar",
+            "month": "June",
+            "z_score": 2.846049894151541,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "S.A.S Nagar",
+            "month": "March",
+            "z_score": -0.3162277660168379,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "S.A.S Nagar",
+            "month": "May",
+            "z_score": -0.3162277660168379,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "S.A.S Nagar",
+            "month": "November",
+            "z_score": -0.3162277660168379,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "S.A.S Nagar",
+            "month": "October",
+            "z_score": -0.3162277660168379,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "S.A.S Nagar",
+            "month": "September",
+            "z_score": -0.3162277660168379,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "S.A.S Nagar(Mohali)",
+            "month": "April",
+            "z_score": -0.8168167526682367,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "S.A.S Nagar(Mohali)",
+            "month": "December",
+            "z_score": 0.33687922567673045,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "S.A.S Nagar(Mohali)",
+            "month": "January",
+            "z_score": -0.49378187873164586,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "S.A.S Nagar(Mohali)",
+            "month": "July",
+            "z_score": -0.8168167526682367,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "S.A.S Nagar(Mohali)",
+            "month": "June",
+            "z_score": -0.4476340395978472,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "S.A.S Nagar(Mohali)",
+            "month": "March",
+            "z_score": -0.8168167526682367,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "S.A.S Nagar(Mohali)",
+            "month": "May",
+            "z_score": -0.8168167526682367,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "S.A.S Nagar(Mohali)",
+            "month": "November",
+            "z_score": 0.6599140996133213,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "S.A.S Nagar(Mohali)",
+            "month": "October",
+            "z_score": 1.3059838474865029,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "S.A.S Nagar(Mohali)",
+            "month": "September",
+            "z_score": 1.9059057562258854,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "SAS Nagar (Mohali)",
+            "month": "April",
+            "z_score": 0.1859182701034491,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "SAS Nagar (Mohali)",
+            "month": "December",
+            "z_score": -0.007652810149536593,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "SAS Nagar (Mohali)",
+            "month": "January",
+            "z_score": -0.5163396024422664,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "SAS Nagar (Mohali)",
+            "month": "July",
+            "z_score": -1.0745445780555274,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "SAS Nagar (Mohali)",
+            "month": "June",
+            "z_score": -0.16070901314026947,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "SAS Nagar (Mohali)",
+            "month": "March",
+            "z_score": -1.0745445780555274,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "SAS Nagar (Mohali)",
+            "month": "May",
+            "z_score": -1.0745445780555274,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "SAS Nagar (Mohali)",
+            "month": "November",
+            "z_score": 1.4868959955246785,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "SAS Nagar (Mohali)",
+            "month": "October",
+            "z_score": 0.6180769609008124,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "SAS Nagar (Mohali)",
+            "month": "September",
+            "z_score": 1.6174439333697153,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sangrur",
+            "month": "April",
+            "z_score": 0.01288243062502028,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sangrur",
+            "month": "December",
+            "z_score": 0.2529640922731267,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sangrur",
+            "month": "January",
+            "z_score": -0.7132182046033992,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sangrur",
+            "month": "July",
+            "z_score": -0.9591555165356059,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sangrur",
+            "month": "June",
+            "z_score": -0.03396277164778098,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sangrur",
+            "month": "March",
+            "z_score": -0.9591555165356059,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sangrur",
+            "month": "May",
+            "z_score": -0.9591555165356059,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sangrur",
+            "month": "November",
+            "z_score": 0.8033952189785416,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sangrur",
+            "month": "October",
+            "z_score": 0.3407988465346291,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sangrur",
+            "month": "September",
+            "z_score": 2.2146069374466797,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Shaheed Bhagat Singh Nagar",
+            "month": "April",
+            "z_score": -0.7912245115793216,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Shaheed Bhagat Singh Nagar",
+            "month": "December",
+            "z_score": -0.14734853971508494,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Shaheed Bhagat Singh Nagar",
+            "month": "January",
+            "z_score": -0.5683443674724705,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Shaheed Bhagat Singh Nagar",
+            "month": "July",
+            "z_score": -0.7912245115793216,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Shaheed Bhagat Singh Nagar",
+            "month": "June",
+            "z_score": -0.19687746062771852,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Shaheed Bhagat Singh Nagar",
+            "month": "March",
+            "z_score": -0.7912245115793216,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Shaheed Bhagat Singh Nagar",
+            "month": "May",
+            "z_score": -0.7912245115793216,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Shaheed Bhagat Singh Nagar",
+            "month": "November",
+            "z_score": 1.809043836333942,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Shaheed Bhagat Singh Nagar",
+            "month": "October",
+            "z_score": 0.7689364971686365,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Shaheed Bhagat Singh Nagar",
+            "month": "September",
+            "z_score": 1.499488080629982,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sri Muktsar Sahib",
+            "month": "April",
+            "z_score": -0.8151585564968269,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sri Muktsar Sahib",
+            "month": "December",
+            "z_score": 0.020481370766251932,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sri Muktsar Sahib",
+            "month": "January",
+            "z_score": -0.40553114117178823,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sri Muktsar Sahib",
+            "month": "July",
+            "z_score": -0.8151585564968269,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sri Muktsar Sahib",
+            "month": "June",
+            "z_score": -0.17613978858976662,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sri Muktsar Sahib",
+            "month": "March",
+            "z_score": -0.8151585564968269,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sri Muktsar Sahib",
+            "month": "May",
+            "z_score": -0.8151585564968269,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sri Muktsar Sahib",
+            "month": "November",
+            "z_score": 0.9953946192398438,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sri Muktsar Sahib",
+            "month": "October",
+            "z_score": 0.6513075903668114,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sri Muktsar Sahib",
+            "month": "September",
+            "z_score": 2.175121575375955,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Tarn Taran",
+            "month": "April",
+            "z_score": -0.9756551581913636,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Tarn Taran",
+            "month": "December",
+            "z_score": -0.3049772045809511,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Tarn Taran",
+            "month": "January",
+            "z_score": -0.8759597867087348,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Tarn Taran",
+            "month": "July",
+            "z_score": 0.7735454505493068,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Tarn Taran",
+            "month": "June",
+            "z_score": -0.1463709317676779,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Tarn Taran",
+            "month": "March",
+            "z_score": -0.9756551581913636,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Tarn Taran",
+            "month": "May",
+            "z_score": -0.9756551581913636,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Tarn Taran",
+            "month": "November",
+            "z_score": 0.9004304687999254,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Tarn Taran",
+            "month": "October",
+            "z_score": 0.7780770583439718,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Tarn Taran",
+            "month": "September",
+            "z_score": 1.8022204199382503,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        }
+    ],
+    "policy_insights": null
+}

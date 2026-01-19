@@ -882,7 +882,7 @@ def plot_matrix_anomalies(anomalies_df: pd.DataFrame, output_dir: Path):
 # MAIN PROCESSING FUNCTION
 # ======================================================
 
-def process_statistics_for_state(state: str, data_dir: str = 'Data/Processed/enrolment', 
+def process_statistics_for_state(state: str, data_dir: str = 'Data/Processed/biometric', 
                                 reports_dir: str = 'Notebooks/Reports'):
     """Process statistics for a given state WITH POLICY INSIGHTS AND DISTRICT NAMES."""
     
@@ -891,7 +891,7 @@ def process_statistics_for_state(state: str, data_dir: str = 'Data/Processed/enr
     print(f"{'='*80}\n")
     
     processed_csv_path = Path(data_dir) / f'{state}.csv'
-    state_reports_dir = Path(reports_dir) / 'statistics_enrolment' / state
+    state_reports_dir = Path(reports_dir) / 'statistics_biometric' / state
     state_reports_dir.mkdir(parents=True, exist_ok=True)
     
     # Load data

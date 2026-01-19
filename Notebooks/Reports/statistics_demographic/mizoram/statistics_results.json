@@ -1,0 +1,2093 @@
+{
+    "district_summary": [
+        {
+            "district": "Lawngtlai",
+            "total_updates": 951,
+            "mean_daily_updates": 8.724770642201834,
+            "median_daily_updates": 3.0,
+            "std_updates": 25.819842914730376,
+            "days_active": 109,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Champhai",
+            "total_updates": 881,
+            "mean_daily_updates": 8.00909090909091,
+            "median_daily_updates": 2.0,
+            "std_updates": 38.33615091602024,
+            "days_active": 110,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Aizawl",
+            "total_updates": 772,
+            "mean_daily_updates": 2.375384615384615,
+            "median_daily_updates": 2.0,
+            "std_updates": 2.2758820545682488,
+            "days_active": 325,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Saiha",
+            "total_updates": 431,
+            "mean_daily_updates": 6.630769230769231,
+            "median_daily_updates": 2.0,
+            "std_updates": 24.124397162655455,
+            "days_active": 65,
+            "performance_category": "Below Target",
+            "needs_intervention": true
+        },
+        {
+            "district": "Lunglei",
+            "total_updates": 426,
+            "mean_daily_updates": 3.736842105263158,
+            "median_daily_updates": 1.0,
+            "std_updates": 17.043958071809776,
+            "days_active": 114,
+            "performance_category": "Below Target",
+            "needs_intervention": true
+        },
+        {
+            "district": "Kolasib",
+            "total_updates": 234,
+            "mean_daily_updates": 3.0789473684210527,
+            "median_daily_updates": 1.0,
+            "std_updates": 9.707403577194384,
+            "days_active": 76,
+            "performance_category": "Below Target",
+            "needs_intervention": true
+        },
+        {
+            "district": "Mamit",
+            "total_updates": 121,
+            "mean_daily_updates": 2.1607142857142856,
+            "median_daily_updates": 1.0,
+            "std_updates": 1.7763781918610348,
+            "days_active": 56,
+            "performance_category": "Below Target",
+            "needs_intervention": true
+        },
+        {
+            "district": "Serchhip",
+            "total_updates": 74,
+            "mean_daily_updates": 1.9473684210526316,
+            "median_daily_updates": 1.5,
+            "std_updates": 1.334518202787213,
+            "days_active": 38,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Mammit",
+            "total_updates": 41,
+            "mean_daily_updates": 1.3225806451612903,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.540807838589244,
+            "days_active": 31,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Khawzawl",
+            "total_updates": 30,
+            "mean_daily_updates": 2.5,
+            "median_daily_updates": 1.0,
+            "std_updates": 3.988620176087328,
+            "days_active": 12,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Saitual",
+            "total_updates": 15,
+            "mean_daily_updates": 1.3636363636363635,
+            "median_daily_updates": 1.0,
+            "std_updates": 1.2060453783110545,
+            "days_active": 11,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Hnahthial",
+            "total_updates": 3,
+            "mean_daily_updates": 1.0,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.0,
+            "days_active": 3,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        }
+    ],
+    "monthly_district_summary": [
+        {
+            "district": "Aizawl",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 159,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Aizawl",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 226,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.42138364779874204,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Aizawl",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 167,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.26106194690265483,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Aizawl",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 183,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.09580838323353302,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Aizawl",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 35,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8087431693989071,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Aizawl",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9428571428571428,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Champhai",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 368,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Champhai",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 126,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.6576086956521738,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Champhai",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 172,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.3650793650793651,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Champhai",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 64,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.627906976744186,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Champhai",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 66,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 0.03125,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Champhai",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 57,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.13636363636363635,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Champhai",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 28,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5087719298245614,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Hnahthial",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Hnahthial",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Khawzawl",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 3,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Khawzawl",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 5,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.6666666666666667,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Khawzawl",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 17,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 2.4,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Khawzawl",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 5,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7058823529411764,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kolasib",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 59,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kolasib",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 85,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 0.44067796610169485,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kolasib",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 46,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.45882352941176474,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kolasib",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 21,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5434782608695652,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kolasib",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 17,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.19047619047619047,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kolasib",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 4,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7647058823529411,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kolasib",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lawngtlai",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 371,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lawngtlai",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 97,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.738544474393531,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lawngtlai",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 180,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.8556701030927836,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lawngtlai",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 60,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.6666666666666667,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lawngtlai",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 95,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 0.5833333333333333,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lawngtlai",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 112,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.17894736842105252,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lawngtlai",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 36,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.6785714285714286,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lunglei",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 183,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lunglei",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 57,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.6885245901639344,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lunglei",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 51,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.10526315789473684,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lunglei",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 46,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.0980392156862745,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lunglei",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 75,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 0.6304347826086956,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lunglei",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 14,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8133333333333334,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Mamit",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 8,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Mamit",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 39,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 3.875,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Mamit",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 22,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.4358974358974359,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Mamit",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 45,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 1.0454545454545454,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Mamit",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 7,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8444444444444444,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Mammit",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Mammit",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 11,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 4.5,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Mammit",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 6,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.4545454545454546,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Mammit",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 10,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.6666666666666667,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Mammit",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 10,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Mammit",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Saiha",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 127,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Saiha",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 23,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8188976377952756,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Saiha",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 153,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 5.6521739130434785,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Saiha",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 63,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.5882352941176471,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Saiha",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 34,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.46031746031746035,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Saiha",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 17,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Saiha",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 10,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.4117647058823529,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Saiha",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 4,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.6,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Saitual",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Saitual",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Saitual",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 8,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 7.0,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Saitual",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 3,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.625,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Saitual",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.33333333333333337,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Serchhip",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 17,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Serchhip",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 23,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.3529411764705883,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Serchhip",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 14,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.3913043478260869,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Serchhip",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 9,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.3571428571428571,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Serchhip",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 5,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.4444444444444444,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Serchhip",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 6,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.19999999999999996,
+            "concerning_drop": false,
+            "sudden_spike": false
+        }
+    ],
+    "univariate_stats": {
+        "mean": {
+            "total_updates": 331.5833333333333
+        },
+        "median": {
+            "total_updates": 177.5
+        },
+        "variance": {
+            "total_updates": 127463.71969696973
+        },
+        "std_dev": {
+            "total_updates": 357.02061522686574
+        },
+        "iqr": {
+            "total_updates": 478.0
+        },
+        "mad": {
+            "total_updates": 168.5
+        },
+        "skewness": {
+            "total_updates": 0.8251788002075521
+        },
+        "excess_kurtosis": {
+            "total_updates": -0.9327311143771633
+        },
+        "min": {
+            "total_updates": 3.0
+        },
+        "max": {
+            "total_updates": 951.0
+        },
+        "count": {
+            "total_updates": 12
+        },
+        "p10_bottom_10pct": {
+            "total_updates": 16.5
+        },
+        "q1_25th_percentile": {
+            "total_updates": 38.25
+        },
+        "q3_75th_percentile": {
+            "total_updates": 516.25
+        },
+        "p90_top_10pct": {
+            "total_updates": 870.1
+        },
+        "p95_top_5pct": {
+            "total_updates": 912.5
+        },
+        "critical_count": {
+            "total_updates": 5
+        },
+        "critical_percentage": {
+            "total_updates": 41.66666666666667
+        },
+        "below_target_count": {
+            "total_updates": 4
+        },
+        "below_target_percentage": {
+            "total_updates": 33.33333333333333
+        },
+        "on_track_count": {
+            "total_updates": 3
+        },
+        "on_track_percentage": {
+            "total_updates": 25.0
+        },
+        "excellent_count": {
+            "total_updates": 0
+        },
+        "excellent_percentage": {
+            "total_updates": 0.0
+        },
+        "gini_coefficient": {
+            "total_updates": -0.47239674960207756
+        },
+        "inequality_interpretation": {
+            "total_updates": "LOW"
+        },
+        "top_10pct_contribution": {
+            "total_updates": 23.900477506911283
+        },
+        "bottom_50pct_contribution": {
+            "total_updates": 7.137471726564463
+        },
+        "median_mean_gap": {
+            "total_updates": 154.08333333333331
+        },
+        "gap_interpretation": {
+            "total_updates": "Moderate inequality"
+        },
+        "districts_needing_intervention": {
+            "total_updates": 9
+        },
+        "intervention_percentage": {
+            "total_updates": 75.0
+        },
+        "estimated_training_cost_lakhs": {
+            "total_updates": 18.0
+        }
+    },
+    "change_point_detection": [
+        {
+            "month": "April",
+            "value": 368,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "May",
+            "value": 681,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "June",
+            "value": 554,
+            "posterior_mean": 534.3333333333334,
+            "posterior_std": 157.42405576446484,
+            "z_score": 0.12492796333548639,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "July",
+            "value": 410,
+            "posterior_mean": 548.3333333333334,
+            "posterior_std": 135.588839265381,
+            "z_score": -1.0202412977559363,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "August",
+            "value": 0,
+            "posterior_mean": 321.3333333333333,
+            "posterior_std": 287.4462268552735,
+            "z_score": -1.1178902462863833,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "September",
+            "value": 709,
+            "posterior_mean": 373.0,
+            "posterior_std": 355.94522050450405,
+            "z_score": 0.9439654773949924,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "October",
+            "value": 461,
+            "posterior_mean": 390.0,
+            "posterior_std": 359.79299604077903,
+            "z_score": 0.1973356924156268,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "November",
+            "value": 517,
+            "posterior_mean": 562.3333333333334,
+            "posterior_std": 130.06664958141025,
+            "z_score": -0.34853925644451006,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "December",
+            "value": 227,
+            "posterior_mean": 401.6666666666667,
+            "posterior_std": 153.83540988125387,
+            "z_score": -1.135412625750421,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "January",
+            "value": 52,
+            "posterior_mean": 265.3333333333333,
+            "posterior_std": 234.8581131946124,
+            "z_score": -0.9083498561387027,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        }
+    ],
+    "matrix_stats": {
+        "row_sum_total_updates": {
+            "Aizawl": 772,
+            "Champhai": 881,
+            "Hnahthial": 3,
+            "Khawzawl": 30,
+            "Kolasib": 234,
+            "Lawngtlai": 951,
+            "Lunglei": 426,
+            "Mamit": 121,
+            "Mammit": 41,
+            "Saiha": 431,
+            "Saitual": 15,
+            "Serchhip": 74
+        },
+        "row_mean_monthly_updates": {
+            "Aizawl": 85.77777777777777,
+            "Champhai": 97.88888888888889,
+            "Hnahthial": 0.3333333333333333,
+            "Khawzawl": 3.3333333333333335,
+            "Kolasib": 26.0,
+            "Lawngtlai": 105.66666666666667,
+            "Lunglei": 47.333333333333336,
+            "Mamit": 13.444444444444445,
+            "Mammit": 4.555555555555555,
+            "Saiha": 47.888888888888886,
+            "Saitual": 1.6666666666666667,
+            "Serchhip": 8.222222222222221
+        },
+        "row_variance": {
+            "Aizawl": 9092.944444444445,
+            "Champhai": 13391.11111111111,
+            "Hnahthial": 0.5,
+            "Khawzawl": 31.0,
+            "Kolasib": 936.0,
+            "Lawngtlai": 13178.249999999996,
+            "Lunglei": 3389.0,
+            "Mamit": 314.5277777777778,
+            "Mammit": 22.27777777777778,
+            "Saiha": 3119.611111111111,
+            "Saitual": 6.75,
+            "Serchhip": 68.44444444444444
+        },
+        "row_min": {
+            "Aizawl": 0,
+            "Champhai": 0,
+            "Hnahthial": 0,
+            "Khawzawl": 0,
+            "Kolasib": 0,
+            "Lawngtlai": 0,
+            "Lunglei": 0,
+            "Mamit": 0,
+            "Mammit": 0,
+            "Saiha": 0,
+            "Saitual": 0,
+            "Serchhip": 0
+        },
+        "row_max": {
+            "Aizawl": 226,
+            "Champhai": 368,
+            "Hnahthial": 2,
+            "Khawzawl": 17,
+            "Kolasib": 85,
+            "Lawngtlai": 371,
+            "Lunglei": 183,
+            "Mamit": 45,
+            "Mammit": 11,
+            "Saiha": 153,
+            "Saitual": 8,
+            "Serchhip": 23
+        },
+        "performance_category": {
+            "Aizawl": "critical",
+            "Champhai": "critical",
+            "Hnahthial": "critical",
+            "Khawzawl": "critical",
+            "Kolasib": "critical",
+            "Lawngtlai": "below_target",
+            "Lunglei": "critical",
+            "Mamit": "critical",
+            "Mammit": "critical",
+            "Saiha": "critical",
+            "Saitual": "critical",
+            "Serchhip": "critical"
+        },
+        "needs_intervention": {
+            "Aizawl": true,
+            "Champhai": true,
+            "Hnahthial": true,
+            "Khawzawl": true,
+            "Kolasib": true,
+            "Lawngtlai": true,
+            "Lunglei": true,
+            "Mamit": true,
+            "Mammit": true,
+            "Saiha": true,
+            "Saitual": true,
+            "Serchhip": true
+        },
+        "consistency_score": {
+            "Aizawl": 0.00010996328448112601,
+            "Champhai": 7.467082610823952e-05,
+            "Hnahthial": 0.6666666666666666,
+            "Khawzawl": 0.03125,
+            "Kolasib": 0.0010672358591248667,
+            "Lawngtlai": 7.587685186941595e-05,
+            "Lunglei": 0.0002949852507374631,
+            "Mamit": 0.0031692930715732015,
+            "Mammit": 0.04295942720763723,
+            "Saiha": 0.00032045005429848147,
+            "Saitual": 0.12903225806451613,
+            "Serchhip": 0.0144
+        },
+        "months_below_target": {
+            "Aizawl": 5,
+            "Champhai": 3,
+            "Hnahthial": 9,
+            "Khawzawl": 9,
+            "Kolasib": 7,
+            "Lawngtlai": 3,
+            "Lunglei": 5,
+            "Mamit": 9,
+            "Mammit": 9,
+            "Saiha": 6,
+            "Saitual": 9,
+            "Serchhip": 9
+        }
+    },
+    "matrix_anomalies": [
+        {
+            "district": "Aizawl",
+            "month": "April",
+            "z_score": -0.899544229753725,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Aizawl",
+            "month": "December",
+            "z_score": -0.5325022189086169,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Aizawl",
+            "month": "January",
+            "z_score": -0.878570400562576,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Aizawl",
+            "month": "July",
+            "z_score": -0.899544229753725,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Aizawl",
+            "month": "June",
+            "z_score": 0.7678751909426229,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Aizawl",
+            "month": "May",
+            "z_score": -0.899544229753725,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Aizawl",
+            "month": "November",
+            "z_score": 1.0195611412364112,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Aizawl",
+            "month": "October",
+            "z_score": 0.851770507707219,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Aizawl",
+            "month": "September",
+            "z_score": 1.4704984688461153,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Champhai",
+            "month": "April",
+            "z_score": 2.334178920004496,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Champhai",
+            "month": "December",
+            "z_score": -0.6039483918892752,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Champhai",
+            "month": "January",
+            "z_score": -0.8459118175746445,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Champhai",
+            "month": "July",
+            "z_score": 0.6404349402069103,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Champhai",
+            "month": "June",
+            "z_score": 0.2429235980095177,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Champhai",
+            "month": "May",
+            "z_score": -0.8459118175746445,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Champhai",
+            "month": "November",
+            "z_score": -0.35334341528657115,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Champhai",
+            "month": "October",
+            "z_score": -0.2755694570305596,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Champhai",
+            "month": "September",
+            "z_score": -0.2928525588652288,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Hnahthial",
+            "month": "April",
+            "z_score": -0.4714045207910316,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Hnahthial",
+            "month": "December",
+            "z_score": -0.4714045207910316,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Hnahthial",
+            "month": "January",
+            "z_score": -0.4714045207910316,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Hnahthial",
+            "month": "July",
+            "z_score": -0.4714045207910316,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Hnahthial",
+            "month": "June",
+            "z_score": 2.3570226039551585,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Hnahthial",
+            "month": "May",
+            "z_score": -0.4714045207910316,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Hnahthial",
+            "month": "November",
+            "z_score": 0.9428090415820634,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Hnahthial",
+            "month": "October",
+            "z_score": -0.4714045207910316,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Hnahthial",
+            "month": "September",
+            "z_score": -0.4714045207910316,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Khawzawl",
+            "month": "April",
+            "z_score": -0.5986843400892498,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Khawzawl",
+            "month": "December",
+            "z_score": -0.5986843400892498,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Khawzawl",
+            "month": "January",
+            "z_score": -0.5986843400892498,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Khawzawl",
+            "month": "July",
+            "z_score": -0.5986843400892498,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Khawzawl",
+            "month": "June",
+            "z_score": -0.059868434008925,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Khawzawl",
+            "month": "May",
+            "z_score": -0.5986843400892498,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Khawzawl",
+            "month": "November",
+            "z_score": 0.2993421700446248,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Khawzawl",
+            "month": "October",
+            "z_score": 2.4546057943659236,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Khawzawl",
+            "month": "September",
+            "z_score": 0.2993421700446248,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kolasib",
+            "month": "April",
+            "z_score": -0.8498365855987974,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kolasib",
+            "month": "December",
+            "z_score": -0.7190924955066748,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kolasib",
+            "month": "January",
+            "z_score": -0.7844645405527361,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kolasib",
+            "month": "July",
+            "z_score": 1.9284753288588095,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kolasib",
+            "month": "June",
+            "z_score": 1.0786387432600122,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kolasib",
+            "month": "May",
+            "z_score": -0.8498365855987974,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kolasib",
+            "month": "November",
+            "z_score": -0.294174202707276,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kolasib",
+            "month": "October",
+            "z_score": -0.16343011261515336,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kolasib",
+            "month": "September",
+            "z_score": 0.6537204504606134,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lawngtlai",
+            "month": "April",
+            "z_score": -0.9204689358262672,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lawngtlai",
+            "month": "December",
+            "z_score": 0.055170062399681585,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lawngtlai",
+            "month": "January",
+            "z_score": -0.606870686396498,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lawngtlai",
+            "month": "July",
+            "z_score": -0.9204689358262672,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lawngtlai",
+            "month": "June",
+            "z_score": -0.07549587486272227,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lawngtlai",
+            "month": "May",
+            "z_score": 2.311335245797188,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lawngtlai",
+            "month": "November",
+            "z_score": -0.09291799983104278,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lawngtlai",
+            "month": "October",
+            "z_score": -0.3978051867766518,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lawngtlai",
+            "month": "September",
+            "z_score": 0.6475223113225791,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lunglei",
+            "month": "April",
+            "z_score": -0.8130763057151804,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lunglei",
+            "month": "December",
+            "z_score": -0.5725889476867468,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lunglei",
+            "month": "January",
+            "z_score": -0.8130763057151804,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lunglei",
+            "month": "July",
+            "z_score": -0.8130763057151804,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lunglei",
+            "month": "June",
+            "z_score": 0.16605079482915652,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lunglei",
+            "month": "May",
+            "z_score": 2.330437017085059,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lunglei",
+            "month": "November",
+            "z_score": 0.4752488265799998,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lunglei",
+            "month": "October",
+            "z_score": -0.02290355790746991,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lunglei",
+            "month": "September",
+            "z_score": 0.0629847842455421,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mamit",
+            "month": "April",
+            "z_score": -0.7580770649801504,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mamit",
+            "month": "December",
+            "z_score": -0.3633757832136258,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mamit",
+            "month": "January",
+            "z_score": -0.7580770649801504,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mamit",
+            "month": "July",
+            "z_score": -0.7580770649801504,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mamit",
+            "month": "June",
+            "z_score": -0.306989885818408,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mamit",
+            "month": "May",
+            "z_score": -0.7580770649801504,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mamit",
+            "month": "November",
+            "z_score": 1.7792883178046506,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mamit",
+            "month": "October",
+            "z_score": 0.48241267771464114,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mamit",
+            "month": "September",
+            "z_score": 1.4409729334333437,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mammit",
+            "month": "April",
+            "z_score": -0.9651735537801464,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mammit",
+            "month": "December",
+            "z_score": 1.1535001008591994,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mammit",
+            "month": "January",
+            "z_score": -0.5414388228522772,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mammit",
+            "month": "July",
+            "z_score": -0.9651735537801464,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mammit",
+            "month": "June",
+            "z_score": -0.5414388228522772,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mammit",
+            "month": "May",
+            "z_score": -0.9651735537801464,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mammit",
+            "month": "November",
+            "z_score": 1.1535001008591994,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mammit",
+            "month": "October",
+            "z_score": 0.3060306390034611,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mammit",
+            "month": "September",
+            "z_score": 1.365367466323134,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Saiha",
+            "month": "April",
+            "z_score": -0.8574020774875983,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Saiha",
+            "month": "December",
+            "z_score": -0.6783622005180302,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Saiha",
+            "month": "January",
+            "z_score": -0.7857861266997711,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Saiha",
+            "month": "July",
+            "z_score": 1.8819080401467936,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Saiha",
+            "month": "June",
+            "z_score": -0.44561036045759167,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Saiha",
+            "month": "May",
+            "z_score": 1.4164043600259166,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Saiha",
+            "month": "November",
+            "z_score": -0.5530342866393325,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Saiha",
+            "month": "October",
+            "z_score": -0.24866649579106676,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Saiha",
+            "month": "September",
+            "z_score": 0.27054914742068076,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Saitual",
+            "month": "April",
+            "z_score": -0.6415002990995842,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Saitual",
+            "month": "December",
+            "z_score": 0.1283000598199168,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Saitual",
+            "month": "January",
+            "z_score": -0.6415002990995842,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Saitual",
+            "month": "July",
+            "z_score": -0.6415002990995842,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Saitual",
+            "month": "June",
+            "z_score": -0.2566001196398337,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Saitual",
+            "month": "May",
+            "z_score": -0.6415002990995842,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Saitual",
+            "month": "November",
+            "z_score": 0.5132002392796673,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Saitual",
+            "month": "October",
+            "z_score": 2.43770113657842,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Saitual",
+            "month": "September",
+            "z_score": -0.2566001196398337,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Serchhip",
+            "month": "April",
+            "z_score": -0.993848322297969,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Serchhip",
+            "month": "December",
+            "z_score": -0.38948109927893376,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Serchhip",
+            "month": "January",
+            "z_score": -0.2686076546751267,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Serchhip",
+            "month": "July",
+            "z_score": -0.993848322297969,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Serchhip",
+            "month": "June",
+            "z_score": 1.061000235966751,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Serchhip",
+            "month": "May",
+            "z_score": -0.993848322297969,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Serchhip",
+            "month": "November",
+            "z_score": 0.09401267913629448,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Serchhip",
+            "month": "October",
+            "z_score": 0.6983799021553297,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Serchhip",
+            "month": "September",
+            "z_score": 1.7862409035895932,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        }
+    ],
+    "policy_insights": null
+}

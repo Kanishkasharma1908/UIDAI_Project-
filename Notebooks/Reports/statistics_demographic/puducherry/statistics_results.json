@@ -1,0 +1,819 @@
+{
+    "district_summary": [
+        {
+            "district": "Puducherry",
+            "total_updates": 951,
+            "mean_daily_updates": 1.7808988764044944,
+            "median_daily_updates": 1.0,
+            "std_updates": 1.2534119801590535,
+            "days_active": 534,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Pondicherry",
+            "total_updates": 805,
+            "mean_daily_updates": 1.7731277533039647,
+            "median_daily_updates": 1.0,
+            "std_updates": 1.4248133440281818,
+            "days_active": 454,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Karaikal",
+            "total_updates": 408,
+            "mean_daily_updates": 1.4729241877256318,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.9228322256485428,
+            "days_active": 277,
+            "performance_category": "Below Target",
+            "needs_intervention": true
+        },
+        {
+            "district": "Yanam",
+            "total_updates": 25,
+            "mean_daily_updates": 1.3157894736842106,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.47756693294091923,
+            "days_active": 19,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Cuddalore",
+            "total_updates": 1,
+            "mean_daily_updates": 1.0,
+            "median_daily_updates": 1.0,
+            "std_updates": NaN,
+            "days_active": 1,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        }
+    ],
+    "monthly_district_summary": [
+        {
+            "district": "Cuddalore",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Karaikal",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 74,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Karaikal",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 125,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.6891891891891893,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Karaikal",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 79,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.368,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Karaikal",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 79,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 0.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Karaikal",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 41,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.4810126582278481,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Karaikal",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 10,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7560975609756098,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Pondicherry",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 181,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Pondicherry",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 275,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.5193370165745856,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Pondicherry",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 127,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5381818181818182,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Pondicherry",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 153,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.20472440944881898,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Pondicherry",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 53,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.6535947712418301,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Pondicherry",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 16,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.6981132075471699,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Puducherry",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 177,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Puducherry",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 269,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.5197740112994351,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Puducherry",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 121,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.550185873605948,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Puducherry",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 206,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.7024793388429753,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Puducherry",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 140,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.3203883495145631,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Puducherry",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 38,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7285714285714286,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Yanam",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 6,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Yanam",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 8,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.33333333333333326,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Yanam",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 3,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.625,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Yanam",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 3,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Yanam",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 5,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.6666666666666667,
+            "concerning_drop": false,
+            "sudden_spike": false
+        }
+    ],
+    "univariate_stats": {
+        "mean": {
+            "total_updates": 438.0
+        },
+        "median": {
+            "total_updates": 408.0
+        },
+        "variance": {
+            "total_updates": 190074.0
+        },
+        "std_dev": {
+            "total_updates": 435.9747699122049
+        },
+        "iqr": {
+            "total_updates": 780.0
+        },
+        "mad": {
+            "total_updates": 397.0
+        },
+        "skewness": {
+            "total_updates": 0.15341318786444944
+        },
+        "excess_kurtosis": {
+            "total_updates": -2.707627368266949
+        },
+        "min": {
+            "total_updates": 1.0
+        },
+        "max": {
+            "total_updates": 951.0
+        },
+        "count": {
+            "total_updates": 5
+        },
+        "p10_bottom_10pct": {
+            "total_updates": 10.600000000000001
+        },
+        "q1_25th_percentile": {
+            "total_updates": 25.0
+        },
+        "q3_75th_percentile": {
+            "total_updates": 805.0
+        },
+        "p90_top_10pct": {
+            "total_updates": 892.6
+        },
+        "p95_top_5pct": {
+            "total_updates": 921.8
+        },
+        "critical_count": {
+            "total_updates": 2
+        },
+        "critical_percentage": {
+            "total_updates": 40.0
+        },
+        "below_target_count": {
+            "total_updates": 1
+        },
+        "below_target_percentage": {
+            "total_updates": 20.0
+        },
+        "on_track_count": {
+            "total_updates": 2
+        },
+        "on_track_percentage": {
+            "total_updates": 40.0
+        },
+        "excellent_count": {
+            "total_updates": 0
+        },
+        "excellent_percentage": {
+            "total_updates": 0.0
+        },
+        "gini_coefficient": {
+            "total_updates": -0.28949771689497716
+        },
+        "inequality_interpretation": {
+            "total_updates": "LOW"
+        },
+        "top_10pct_contribution": {
+            "total_updates": 43.42465753424658
+        },
+        "bottom_50pct_contribution": {
+            "total_updates": 1.187214611872146
+        },
+        "median_mean_gap": {
+            "total_updates": 30.0
+        },
+        "gap_interpretation": {
+            "total_updates": "Moderate inequality"
+        },
+        "districts_needing_intervention": {
+            "total_updates": 3
+        },
+        "intervention_percentage": {
+            "total_updates": 60.0
+        },
+        "estimated_training_cost_lakhs": {
+            "total_updates": 6.0
+        }
+    },
+    "change_point_detection": [
+        {
+            "month": "June",
+            "value": 438,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "July",
+            "value": 0,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "August",
+            "value": 0,
+            "posterior_mean": 146.0,
+            "posterior_std": 252.87941790505607,
+            "z_score": -0.5773502691896258,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "September",
+            "value": 677,
+            "posterior_mean": 225.66666666666666,
+            "posterior_std": 390.86613224137665,
+            "z_score": 1.1547005383792517,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "October",
+            "value": 330,
+            "posterior_mean": 335.6666666666667,
+            "posterior_std": 338.5355717400069,
+            "z_score": -0.01673876289437214,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "November",
+            "value": 441,
+            "posterior_mean": 482.6666666666667,
+            "posterior_std": 177.21267825224396,
+            "z_score": -0.23512237994258223,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "December",
+            "value": 239,
+            "posterior_mean": 336.6666666666667,
+            "posterior_std": 101.16488191726089,
+            "z_score": -0.9654206560191978,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "January",
+            "value": 65,
+            "posterior_mean": 248.33333333333334,
+            "posterior_std": 188.17367864112487,
+            "z_score": -0.974277245666102,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        }
+    ],
+    "matrix_stats": {
+        "row_sum_total_updates": {
+            "Cuddalore": 1,
+            "Karaikal": 408,
+            "Pondicherry": 805,
+            "Puducherry": 951,
+            "Yanam": 25
+        },
+        "row_mean_monthly_updates": {
+            "Cuddalore": 0.16666666666666666,
+            "Karaikal": 68.0,
+            "Pondicherry": 134.16666666666666,
+            "Puducherry": 158.5,
+            "Yanam": 4.166666666666667
+        },
+        "row_variance": {
+            "Cuddalore": 0.16666666666666669,
+            "Karaikal": 1524.0,
+            "Pondicherry": 8596.966666666667,
+            "Puducherry": 6215.5,
+            "Yanam": 7.766666666666666
+        },
+        "row_min": {
+            "Cuddalore": 0,
+            "Karaikal": 10,
+            "Pondicherry": 16,
+            "Puducherry": 38,
+            "Yanam": 0
+        },
+        "row_max": {
+            "Cuddalore": 1,
+            "Karaikal": 125,
+            "Pondicherry": 275,
+            "Puducherry": 269,
+            "Yanam": 8
+        },
+        "performance_category": {
+            "Cuddalore": "critical",
+            "Karaikal": "critical",
+            "Pondicherry": "below_target",
+            "Puducherry": "below_target",
+            "Yanam": "critical"
+        },
+        "needs_intervention": {
+            "Cuddalore": true,
+            "Karaikal": true,
+            "Pondicherry": true,
+            "Puducherry": true,
+            "Yanam": true
+        },
+        "consistency_score": {
+            "Cuddalore": 0.8571428571428571,
+            "Karaikal": 0.0006557377049180328,
+            "Pondicherry": 0.00011630656860730637,
+            "Puducherry": 0.00016086222150727902,
+            "Yanam": 0.1140684410646388
+        },
+        "months_below_target": {
+            "Cuddalore": 6,
+            "Karaikal": 2,
+            "Pondicherry": 1,
+            "Puducherry": 1,
+            "Yanam": 6
+        }
+    },
+    "matrix_anomalies": [
+        {
+            "district": "Cuddalore",
+            "month": "December",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Cuddalore",
+            "month": "January",
+            "z_score": 2.041241452319315,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Cuddalore",
+            "month": "June",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Cuddalore",
+            "month": "November",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Cuddalore",
+            "month": "October",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Cuddalore",
+            "month": "September",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Karaikal",
+            "month": "December",
+            "z_score": -0.6916259514310559,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Karaikal",
+            "month": "January",
+            "z_score": -1.4857150067778238,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Karaikal",
+            "month": "June",
+            "z_score": 0.15369465587356798,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Karaikal",
+            "month": "November",
+            "z_score": 0.28177353576820796,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Karaikal",
+            "month": "October",
+            "z_score": 0.28177353576820796,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Karaikal",
+            "month": "September",
+            "z_score": 1.4600992307988958,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pondicherry",
+            "month": "December",
+            "z_score": -0.8753970714917992,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pondicherry",
+            "month": "January",
+            "z_score": -1.274448713937753,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pondicherry",
+            "month": "June",
+            "z_score": 0.5051059077806893,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pondicherry",
+            "month": "November",
+            "z_score": 0.2031208810648324,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pondicherry",
+            "month": "October",
+            "z_score": -0.07729378659989183,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pondicherry",
+            "month": "September",
+            "z_score": 1.518912783183923,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Puducherry",
+            "month": "December",
+            "z_score": -0.2346570966765636,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Puducherry",
+            "month": "January",
+            "z_score": -1.528442170244644,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Puducherry",
+            "month": "June",
+            "z_score": 0.2346570966765636,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Puducherry",
+            "month": "November",
+            "z_score": 0.602497950926312,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Puducherry",
+            "month": "October",
+            "z_score": -0.47565627704708835,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Puducherry",
+            "month": "September",
+            "z_score": 1.4016004963654203,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Yanam",
+            "month": "December",
+            "z_score": 0.2990208149653573,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Yanam",
+            "month": "January",
+            "z_score": -1.4951040748267872,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Yanam",
+            "month": "June",
+            "z_score": 0.6578457929237862,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Yanam",
+            "month": "November",
+            "z_score": -0.4186291409515005,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Yanam",
+            "month": "October",
+            "z_score": -0.4186291409515005,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Yanam",
+            "month": "September",
+            "z_score": 1.375495748840644,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        }
+    ],
+    "policy_insights": null
+}

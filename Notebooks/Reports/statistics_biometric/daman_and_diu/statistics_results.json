@@ -1,0 +1,475 @@
+{
+    "district_summary": [
+        {
+            "district": "Daman",
+            "total_updates": 61,
+            "mean_daily_updates": 1.8484848484848484,
+            "median_daily_updates": 2.0,
+            "std_updates": 1.0931952056132324,
+            "days_active": 33,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Diu",
+            "total_updates": 35,
+            "mean_daily_updates": 1.1666666666666667,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.46113303737741407,
+            "days_active": 30,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        }
+    ],
+    "monthly_district_summary": [
+        {
+            "district": "Daman",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 18,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Daman",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 12,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.33333333333333337,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Daman",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 4,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.6666666666666667,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Daman",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 13,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 2.25,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Daman",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 12,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.07692307692307687,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Daman",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8333333333333334,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Diu",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 7,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Diu",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 8,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.1428571428571428,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Diu",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 11,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.375,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Diu",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 7,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.36363636363636365,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Diu",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7142857142857143,
+            "concerning_drop": true,
+            "sudden_spike": false
+        }
+    ],
+    "univariate_stats": {
+        "mean": {
+            "total_updates": 48.0
+        },
+        "median": {
+            "total_updates": 48.0
+        },
+        "variance": {
+            "total_updates": 338.0
+        },
+        "std_dev": {
+            "total_updates": 18.384776310850235
+        },
+        "iqr": {
+            "total_updates": 13.0
+        },
+        "mad": {
+            "total_updates": 13.0
+        },
+        "skewness": {
+            "total_updates": NaN
+        },
+        "excess_kurtosis": {
+            "total_updates": NaN
+        },
+        "min": {
+            "total_updates": 35.0
+        },
+        "max": {
+            "total_updates": 61.0
+        },
+        "count": {
+            "total_updates": 2
+        },
+        "p10_bottom_10pct": {
+            "total_updates": 37.6
+        },
+        "q1_25th_percentile": {
+            "total_updates": 41.5
+        },
+        "q3_75th_percentile": {
+            "total_updates": 54.5
+        },
+        "p90_top_10pct": {
+            "total_updates": 58.4
+        },
+        "p95_top_5pct": {
+            "total_updates": 59.699999999999996
+        },
+        "critical_count": {
+            "total_updates": 2
+        },
+        "critical_percentage": {
+            "total_updates": 100.0
+        },
+        "below_target_count": {
+            "total_updates": 0
+        },
+        "below_target_percentage": {
+            "total_updates": 0.0
+        },
+        "on_track_count": {
+            "total_updates": 0
+        },
+        "on_track_percentage": {
+            "total_updates": 0.0
+        },
+        "excellent_count": {
+            "total_updates": 0
+        },
+        "excellent_percentage": {
+            "total_updates": 0.0
+        },
+        "gini_coefficient": {
+            "total_updates": 0.36458333333333326
+        },
+        "inequality_interpretation": {
+            "total_updates": "LOW"
+        },
+        "top_10pct_contribution": {
+            "total_updates": 63.541666666666664
+        },
+        "bottom_50pct_contribution": {
+            "total_updates": 36.45833333333333
+        },
+        "median_mean_gap": {
+            "total_updates": 0.0
+        },
+        "gap_interpretation": {
+            "total_updates": "Moderate inequality"
+        },
+        "districts_needing_intervention": {
+            "total_updates": 2
+        },
+        "intervention_percentage": {
+            "total_updates": 100.0
+        },
+        "estimated_training_cost_lakhs": {
+            "total_updates": 4.0
+        }
+    },
+    "change_point_detection": [
+        {
+            "month": "June",
+            "value": 18,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "July",
+            "value": 0,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "August",
+            "value": 0,
+            "posterior_mean": 6.0,
+            "posterior_std": 10.392304845413264,
+            "z_score": -0.5773502691896257,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "September",
+            "value": 19,
+            "posterior_mean": 6.333333333333333,
+            "posterior_std": 10.96965511460289,
+            "z_score": 1.1547005383792515,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "October",
+            "value": 12,
+            "posterior_mean": 10.333333333333334,
+            "posterior_std": 9.60902353693305,
+            "z_score": 0.17344807828399,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "November",
+            "value": 24,
+            "posterior_mean": 18.333333333333332,
+            "posterior_std": 6.027713773341709,
+            "z_score": 0.9401021481358628,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "December",
+            "value": 19,
+            "posterior_mean": 18.333333333333332,
+            "posterior_std": 6.027713773341709,
+            "z_score": 0.11060025272186638,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "January",
+            "value": 4,
+            "posterior_mean": 15.666666666666666,
+            "posterior_std": 10.408329997330664,
+            "z_score": -1.12089707663561,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        }
+    ],
+    "matrix_stats": {
+        "row_sum_total_updates": {
+            "Daman": 61,
+            "Diu": 35
+        },
+        "row_mean_monthly_updates": {
+            "Daman": 10.166666666666666,
+            "Diu": 5.833333333333333
+        },
+        "row_variance": {
+            "Daman": 36.166666666666664,
+            "Diu": 16.566666666666666
+        },
+        "row_min": {
+            "Daman": 2,
+            "Diu": 0
+        },
+        "row_max": {
+            "Daman": 18,
+            "Diu": 11
+        },
+        "performance_category": {
+            "Daman": "critical",
+            "Diu": "critical"
+        },
+        "needs_intervention": {
+            "Daman": true,
+            "Diu": true
+        },
+        "consistency_score": {
+            "Daman": 0.026905829596412557,
+            "Diu": 0.05692599620493359
+        },
+        "months_below_target": {
+            "Daman": 6,
+            "Diu": 6
+        }
+    },
+    "matrix_anomalies": [
+        {
+            "district": "Daman",
+            "month": "December",
+            "z_score": 0.3048506975105314,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Daman",
+            "month": "January",
+            "z_score": -1.3579712889105484,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Daman",
+            "month": "June",
+            "z_score": 1.3025438893631793,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Daman",
+            "month": "November",
+            "z_score": 0.4711328961526394,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Daman",
+            "month": "October",
+            "z_score": -1.0254068916263326,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Daman",
+            "month": "September",
+            "z_score": 0.3048506975105314,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Diu",
+            "month": "December",
+            "z_score": 0.28663500207257586,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Diu",
+            "month": "January",
+            "z_score": -0.9418007210956062,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Diu",
+            "month": "June",
+            "z_score": -1.4331750103628789,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Diu",
+            "month": "November",
+            "z_score": 1.2693835806071214,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Diu",
+            "month": "October",
+            "z_score": 0.5323221467062123,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Diu",
+            "month": "September",
+            "z_score": 0.28663500207257586,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        }
+    ],
+    "policy_insights": null
+}
