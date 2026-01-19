@@ -1,0 +1,82 @@
+EDA completed for 100000. Plots saved to Reports\EDA_ENROLMENT\100000.
+==================================================
+EDA completed for andaman_and_nicobar_islands. Plots saved to Reports\EDA_ENROLMENT\andaman_and_nicobar_islands.
+==================================================
+EDA completed for andhra_pradesh. Plots saved to Reports\EDA_ENROLMENT\andhra_pradesh.
+==================================================
+EDA completed for arunachal_pradesh. Plots saved to Reports\EDA_ENROLMENT\arunachal_pradesh.
+==================================================
+EDA completed for assam. Plots saved to Reports\EDA_ENROLMENT\assam.
+==================================================
+EDA completed for bihar. Plots saved to Reports\EDA_ENROLMENT\bihar.
+==================================================
+EDA completed for chandigarh. Plots saved to Reports\EDA_ENROLMENT\chandigarh.
+==================================================
+ Error processing chhatisgarh: [Errno 2] No such file or directory: 'C:\\Projects\\UIDAI_Hackathon_project\\Data\\Raw\\enrolment\\chhatisgarh.csv'
+==================================================
+EDA completed for chhattisgarh. Plots saved to Reports\EDA_ENROLMENT\chhattisgarh.
+==================================================
+ Error processing dadra_and_nagar_haveli_and_daman_an: [Errno 2] No such file or directory: 'C:\\Projects\\UIDAI_Hackathon_project\\Data\\Raw\\enrolment\\dadra_and_nagar_haveli_and_daman_an.csv'
+==================================================
+EDA completed for dadra_and_nagar_haveli. Plots saved to Reports\EDA_ENROLMENT\dadra_and_nagar_haveli.
+==================================================
+EDA completed for daman_and_diu. Plots saved to Reports\EDA_ENROLMENT\daman_and_diu.
+==================================================
+EDA completed for delhi. Plots saved to Reports\EDA_ENROLMENT\delhi.
+==================================================
+EDA completed for goa. Plots saved to Reports\EDA_ENROLMENT\goa.
+==================================================
+EDA completed for gujarat. Plots saved to Reports\EDA_ENROLMENT\gujarat.
+==================================================
+EDA completed for haryana. Plots saved to Reports\EDA_ENROLMENT\haryana.
+==================================================
+EDA completed for himachal_pradesh. Plots saved to Reports\EDA_ENROLMENT\himachal_pradesh.
+==================================================
+EDA completed for jammu_and_kashmir. Plots saved to Reports\EDA_ENROLMENT\jammu_and_kashmir.
+==================================================
+EDA completed for jharkhand. Plots saved to Reports\EDA_ENROLMENT\jharkhand.
+==================================================
+EDA completed for karnataka. Plots saved to Reports\EDA_ENROLMENT\karnataka.
+==================================================
+EDA completed for kerala. Plots saved to Reports\EDA_ENROLMENT\kerala.
+==================================================
+EDA completed for ladakh. Plots saved to Reports\EDA_ENROLMENT\ladakh.
+==================================================
+EDA completed for lakshadweep. Plots saved to Reports\EDA_ENROLMENT\lakshadweep.
+==================================================
+EDA completed for madhya_pradesh. Plots saved to Reports\EDA_ENROLMENT\madhya_pradesh.
+==================================================
+EDA completed for maharashtra. Plots saved to Reports\EDA_ENROLMENT\maharashtra.
+==================================================
+EDA completed for manipur. Plots saved to Reports\EDA_ENROLMENT\manipur.
+==================================================
+EDA completed for meghalaya. Plots saved to Reports\EDA_ENROLMENT\meghalaya.
+==================================================
+EDA completed for mizoram. Plots saved to Reports\EDA_ENROLMENT\mizoram.
+==================================================
+EDA completed for nagaland. Plots saved to Reports\EDA_ENROLMENT\nagaland.
+==================================================
+EDA completed for odisha. Plots saved to Reports\EDA_ENROLMENT\odisha.
+==================================================
+EDA completed for puducherry. Plots saved to Reports\EDA_ENROLMENT\puducherry.
+==================================================
+EDA completed for punjab. Plots saved to Reports\EDA_ENROLMENT\punjab.
+==================================================
+EDA completed for rajasthan. Plots saved to Reports\EDA_ENROLMENT\rajasthan.
+==================================================
+EDA completed for sikkim. Plots saved to Reports\EDA_ENROLMENT\sikkim.
+==================================================
+EDA completed for tamil_nadu. Plots saved to Reports\EDA_ENROLMENT\tamil_nadu.
+==================================================
+EDA completed for telangana. Plots saved to Reports\EDA_ENROLMENT\telangana.
+==================================================
+EDA completed for tripura. Plots saved to Reports\EDA_ENROLMENT\tripura.
+==================================================
+EDA completed for uttar_pradesh. Plots saved to Reports\EDA_ENROLMENT\uttar_pradesh.
+==================================================
+EDA completed for uttarakhand. Plots saved to Reports\EDA_ENROLMENT\uttarakhand.
+==================================================
+EDA completed for west__bengal. Plots saved to Reports\EDA_ENROLMENT\west__bengal.
+==================================================
+EDA completed for west_bengal. Plots saved to Reports\EDA_ENROLMENT\west_bengal.
+==================================================

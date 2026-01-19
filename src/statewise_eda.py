@@ -12,8 +12,9 @@ sns.set(style="whitegrid")
 def feature_engineering(df: pd.DataFrame) -> pd.DataFrame:
     # Sum age group updates into total_updates
     df['total_updates'] = (
-        df['demo_age_0_5'] + 
-        df['demo_age_5_17'] 
+        df['age_0_5'] + 
+        df['age_5_17'] + 
+        df['age_18_greater']
     ).astype('int32')
     
     # FIX: Added dayfirst=True to correctly parse DD-MM-YYYY and silence warning
@@ -36,7 +37,7 @@ def perform_eda_and_plots(df: pd.DataFrame, state: str, output_dir: Path) -> str
     
     # Aggregate data for plots
     monthly_total = df.groupby('month_name')['total_updates'].sum().reset_index()
-    monthly_age_groups = df.groupby('month_name')[['demo_age_0_5', 'demo_age_5_17']].sum().reset_index()
+    monthly_age_groups = df.groupby('month_name')[['age_0_5', 'age_5_17','age_18_greater']].sum().reset_index()
     district_total = df.groupby('district')['total_updates'].sum().reset_index().sort_values('total_updates', ascending=False).head(20)  # Top 20 districts
     
     # Plot 1: Month name vs. total_updates (Bar plot)
@@ -75,8 +76,8 @@ from config.api_config import RAW_DATA_DIR, PROCESSED_DATA_DIR, EDA_PLOTS_DIR  #
 
 def process_state_eda(state: str) -> str:
     normalized_state = normalize_state_name(state)
-    raw_path = RAW_DATA_DIR / "demographic" / f"{normalized_state}.csv"
-    processed_dir = PROCESSED_DATA_DIR / "demographic"
+    raw_path = RAW_DATA_DIR / "enrolment" / f"{normalized_state}.csv"
+    processed_dir = PROCESSED_DATA_DIR / "enrolment"
     processed_dir.mkdir(parents=True, exist_ok=True)
     plots_dir = EDA_PLOTS_DIR / normalized_state
     plots_dir.mkdir(parents=True, exist_ok=True)
