@@ -1,0 +1,4068 @@
+{
+    "district_summary": [
+        {
+            "district": "Faridabad",
+            "total_updates": 4635,
+            "mean_daily_updates": 32.1875,
+            "median_daily_updates": 4.0,
+            "std_updates": 179.91664615298123,
+            "days_active": 144,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Gurgaon",
+            "total_updates": 1762,
+            "mean_daily_updates": 7.076305220883534,
+            "median_daily_updates": 2.0,
+            "std_updates": 42.591720297570326,
+            "days_active": 249,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Gurugram",
+            "total_updates": 1111,
+            "mean_daily_updates": 555.5,
+            "median_daily_updates": 555.5,
+            "std_updates": 587.605735166021,
+            "days_active": 2,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Rohtak",
+            "total_updates": 1085,
+            "mean_daily_updates": 8.96694214876033,
+            "median_daily_updates": 2.0,
+            "std_updates": 48.220316237781205,
+            "days_active": 121,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Nuh",
+            "total_updates": 1079,
+            "mean_daily_updates": 1079.0,
+            "median_daily_updates": 1079.0,
+            "std_updates": NaN,
+            "days_active": 1,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Mewat",
+            "total_updates": 962,
+            "mean_daily_updates": 13.742857142857142,
+            "median_daily_updates": 12.5,
+            "std_updates": 10.814222672401451,
+            "days_active": 70,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Karnal",
+            "total_updates": 841,
+            "mean_daily_updates": 5.391025641025641,
+            "median_daily_updates": 3.0,
+            "std_updates": 7.283719112003433,
+            "days_active": 156,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Hisar",
+            "total_updates": 817,
+            "mean_daily_updates": 5.138364779874214,
+            "median_daily_updates": 3.0,
+            "std_updates": 7.344573461709531,
+            "days_active": 159,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Panipat",
+            "total_updates": 697,
+            "mean_daily_updates": 7.494623655913978,
+            "median_daily_updates": 2.0,
+            "std_updates": 14.30918195327891,
+            "days_active": 93,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Sonipat",
+            "total_updates": 693,
+            "mean_daily_updates": 4.5,
+            "median_daily_updates": 2.0,
+            "std_updates": 5.998093378983571,
+            "days_active": 154,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Palwal",
+            "total_updates": 673,
+            "mean_daily_updates": 11.216666666666667,
+            "median_daily_updates": 8.0,
+            "std_updates": 11.017846334611285,
+            "days_active": 60,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Jind",
+            "total_updates": 671,
+            "mean_daily_updates": 5.083333333333333,
+            "median_daily_updates": 3.0,
+            "std_updates": 5.461931636428434,
+            "days_active": 132,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Bhiwani",
+            "total_updates": 635,
+            "mean_daily_updates": 2.809734513274336,
+            "median_daily_updates": 2.0,
+            "std_updates": 2.662345318674909,
+            "days_active": 226,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Ambala",
+            "total_updates": 628,
+            "mean_daily_updates": 3.900621118012422,
+            "median_daily_updates": 2.0,
+            "std_updates": 4.838911252730438,
+            "days_active": 161,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Sirsa",
+            "total_updates": 601,
+            "mean_daily_updates": 5.834951456310679,
+            "median_daily_updates": 3.0,
+            "std_updates": 7.15801633078174,
+            "days_active": 103,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Jhajjar",
+            "total_updates": 575,
+            "mean_daily_updates": 3.3625730994152048,
+            "median_daily_updates": 2.0,
+            "std_updates": 4.390846406302855,
+            "days_active": 171,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Kurukshetra",
+            "total_updates": 568,
+            "mean_daily_updates": 4.544,
+            "median_daily_updates": 3.0,
+            "std_updates": 8.612166937237037,
+            "days_active": 125,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Fatehabad",
+            "total_updates": 541,
+            "mean_daily_updates": 4.663793103448276,
+            "median_daily_updates": 3.0,
+            "std_updates": 4.379684256074693,
+            "days_active": 116,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Yamuna Nagar",
+            "total_updates": 532,
+            "mean_daily_updates": 5.018867924528302,
+            "median_daily_updates": 3.5,
+            "std_updates": 5.522216828973619,
+            "days_active": 106,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Mahendragarh",
+            "total_updates": 436,
+            "mean_daily_updates": 5.317073170731708,
+            "median_daily_updates": 4.0,
+            "std_updates": 4.227710026557404,
+            "days_active": 82,
+            "performance_category": "Below Target",
+            "needs_intervention": true
+        },
+        {
+            "district": "Kaithal",
+            "total_updates": 369,
+            "mean_daily_updates": 4.054945054945055,
+            "median_daily_updates": 2.0,
+            "std_updates": 5.235270633697807,
+            "days_active": 91,
+            "performance_category": "Below Target",
+            "needs_intervention": true
+        },
+        {
+            "district": "Rewari",
+            "total_updates": 303,
+            "mean_daily_updates": 3.2934782608695654,
+            "median_daily_updates": 2.0,
+            "std_updates": 4.00422316478095,
+            "days_active": 92,
+            "performance_category": "Below Target",
+            "needs_intervention": true
+        },
+        {
+            "district": "Panchkula",
+            "total_updates": 204,
+            "mean_daily_updates": 2.6153846153846154,
+            "median_daily_updates": 2.0,
+            "std_updates": 2.269108007312818,
+            "days_active": 78,
+            "performance_category": "Below Target",
+            "needs_intervention": true
+        },
+        {
+            "district": "Charkhi Dadri",
+            "total_updates": 160,
+            "mean_daily_updates": 2.0253164556962027,
+            "median_daily_updates": 1.0,
+            "std_updates": 1.632794392070545,
+            "days_active": 79,
+            "performance_category": "Below Target",
+            "needs_intervention": true
+        },
+        {
+            "district": "Yamunanagar",
+            "total_updates": 8,
+            "mean_daily_updates": 1.1428571428571428,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.3779644730092272,
+            "days_active": 7,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        }
+    ],
+    "monthly_district_summary": [
+        {
+            "district": "Ambala",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 28,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ambala",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 179,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 5.392857142857143,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Ambala",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 27,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8491620111731844,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ambala",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 177,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 5.555555555555555,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Ambala",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 137,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.22598870056497178,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ambala",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 80,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.416058394160584,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Bhiwani",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 98,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Bhiwani",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 218,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.2244897959183674,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Bhiwani",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 33,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8486238532110092,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Bhiwani",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 109,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 2.303030303030303,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Bhiwani",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 147,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.3486238532110091,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Bhiwani",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 30,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7959183673469388,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Charkhi Dadri",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 36,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Charkhi Dadri",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 38,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.05555555555555558,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Charkhi Dadri",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 11,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7105263157894737,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Charkhi Dadri",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 43,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 2.909090909090909,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Charkhi Dadri",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 28,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.34883720930232553,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Charkhi Dadri",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 4,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8571428571428572,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Faridabad",
+            "month": "April",
+            "year_month": "2025-04",
+            "monthly_updates": 329,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Faridabad",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 560,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.7021276595744681,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Faridabad",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 259,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5375,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Faridabad",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 2747,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 9.606177606177607,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Faridabad",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 298,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.8915180196578085,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Faridabad",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 13,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9563758389261745,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Faridabad",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 96,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 6.384615384615385,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Faridabad",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 293,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 2.0520833333333335,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Faridabad",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 40,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.863481228668942,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Fatehabad",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 73,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Fatehabad",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 183,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.506849315068493,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Fatehabad",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 41,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7759562841530054,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Fatehabad",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 90,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 1.1951219512195124,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Fatehabad",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 122,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.3555555555555556,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Fatehabad",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 32,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7377049180327868,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Gurgaon",
+            "month": "May",
+            "year_month": "2025-05",
+            "monthly_updates": 668,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Gurgaon",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 154,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.7694610778443114,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Gurgaon",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 379,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.4610389610389611,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Gurgaon",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 41,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8918205804749341,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Gurgaon",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 179,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 3.3658536585365857,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Gurgaon",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 206,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.15083798882681565,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Gurgaon",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 135,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.34466019417475724,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Gurugram",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 140,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Gurugram",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 971,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 5.935714285714286,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Hisar",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 109,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Hisar",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 259,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.3761467889908259,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Hisar",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 76,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.7065637065637065,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Hisar",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 151,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.986842105263158,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Hisar",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 184,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.2185430463576159,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Hisar",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 38,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7934782608695652,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Jhajjar",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 82,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Jhajjar",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 226,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.7560975609756095,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Jhajjar",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 31,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8628318584070797,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Jhajjar",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 52,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 0.6774193548387097,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Jhajjar",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 154,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.9615384615384617,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Jhajjar",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 30,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8051948051948052,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Jind",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 70,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Jind",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 286,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 3.0857142857142854,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Jind",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 3,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9895104895104895,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Jind",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 167,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 54.666666666666664,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Jind",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 98,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.4131736526946108,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Jind",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 47,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5204081632653061,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kaithal",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 27,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kaithal",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 163,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 5.037037037037037,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Kaithal",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 52,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.6809815950920246,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kaithal",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 57,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 0.09615384615384626,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kaithal",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 60,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 0.05263157894736836,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kaithal",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 10,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8333333333333334,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Karnal",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 139,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Karnal",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 367,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.6402877697841727,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Karnal",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 28,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9237057220708447,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Karnal",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 72,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 1.5714285714285716,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Karnal",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 209,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.9027777777777777,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Karnal",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 26,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8755980861244019,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kurukshetra",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 174,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kurukshetra",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 161,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.07471264367816088,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kurukshetra",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 67,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.5838509316770186,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kurukshetra",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 98,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 0.4626865671641791,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kurukshetra",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 64,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.34693877551020413,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kurukshetra",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 4,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9375,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Mahendragarh",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 39,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Mahendragarh",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 157,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 3.0256410256410255,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Mahendragarh",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 45,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.713375796178344,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Mahendragarh",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 91,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 1.0222222222222221,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Mahendragarh",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 89,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.02197802197802201,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Mahendragarh",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 15,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8314606741573034,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Mewat",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 323,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Mewat",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 335,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.037151702786377694,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Mewat",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 144,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5701492537313433,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Mewat",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 100,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.3055555555555556,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Mewat",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 60,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.4,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Nuh",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 1079,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Palwal",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 157,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Palwal",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 270,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.7197452229299364,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Palwal",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 112,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5851851851851853,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Palwal",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 42,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.625,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Palwal",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 92,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 1.1904761904761907,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Panchkula",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 34,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Panchkula",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 50,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 0.47058823529411775,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Panchkula",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 12,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.76,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Panchkula",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 44,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 2.6666666666666665,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Panchkula",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 59,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 0.34090909090909083,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Panchkula",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 5,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9152542372881356,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Panipat",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 67,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Panipat",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 155,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.3134328358208953,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Panipat",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 3,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9806451612903225,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Panipat",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 197,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 64.66666666666667,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Panipat",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 272,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.3807106598984771,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Panipat",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 3,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9889705882352942,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Rewari",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 61,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Rewari",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 111,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.819672131147541,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Rewari",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 11,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9009009009009009,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Rewari",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 60,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 4.454545454545454,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Rewari",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 27,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.55,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Rewari",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 33,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.22222222222222232,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Rohtak",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 663,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Rohtak",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 113,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.8295625942684766,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Rohtak",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 103,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.08849557522123896,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Rohtak",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 91,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.11650485436893199,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Rohtak",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 102,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.1208791208791209,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Rohtak",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 13,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8725490196078431,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Sirsa",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 133,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Sirsa",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 211,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.5864661654135339,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Sirsa",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 60,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.7156398104265402,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Sirsa",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 36,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.4,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Sirsa",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 109,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 2.0277777777777777,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Sirsa",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 52,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.5229357798165137,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Sonipat",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 63,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Sonipat",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 274,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 3.349206349206349,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Sonipat",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 87,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.6824817518248175,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Sonipat",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 112,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.28735632183908044,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Sonipat",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 77,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.3125,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Sonipat",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 80,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 0.03896103896103886,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Yamuna Nagar",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 69,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Yamuna Nagar",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 219,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 2.1739130434782608,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Yamuna Nagar",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 20,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.908675799086758,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Yamuna Nagar",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 31,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.55,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Yamuna Nagar",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 168,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 4.419354838709677,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Yamuna Nagar",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 25,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8511904761904762,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Yamunanagar",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Yamunanagar",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 3,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 2.0,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Yamunanagar",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.6666666666666667,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Yamunanagar",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 3,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 2.0,
+            "concerning_drop": false,
+            "sudden_spike": true
+        }
+    ],
+    "univariate_stats": {
+        "mean": {
+            "total_updates": 823.44
+        },
+        "median": {
+            "total_updates": 635.0
+        },
+        "variance": {
+            "total_updates": 760619.6733333335
+        },
+        "std_dev": {
+            "total_updates": 872.1351233228332
+        },
+        "iqr": {
+            "total_updates": 309.0
+        },
+        "mad": {
+            "total_updates": 199.0
+        },
+        "skewness": {
+            "total_updates": 3.7401079077902435
+        },
+        "excess_kurtosis": {
+            "total_updates": 16.27280180727015
+        },
+        "min": {
+            "total_updates": 8.0
+        },
+        "max": {
+            "total_updates": 4635.0
+        },
+        "count": {
+            "total_updates": 25
+        },
+        "p10_bottom_10pct": {
+            "total_updates": 243.60000000000002
+        },
+        "q1_25th_percentile": {
+            "total_updates": 532.0
+        },
+        "q3_75th_percentile": {
+            "total_updates": 841.0
+        },
+        "p90_top_10pct": {
+            "total_updates": 1100.6000000000001
+        },
+        "p95_top_5pct": {
+            "total_updates": 1631.7999999999981
+        },
+        "critical_count": {
+            "total_updates": 1
+        },
+        "critical_percentage": {
+            "total_updates": 4.0
+        },
+        "below_target_count": {
+            "total_updates": 5
+        },
+        "below_target_percentage": {
+            "total_updates": 20.0
+        },
+        "on_track_count": {
+            "total_updates": 14
+        },
+        "on_track_percentage": {
+            "total_updates": 56.00000000000001
+        },
+        "excellent_count": {
+            "total_updates": 5
+        },
+        "excellent_percentage": {
+            "total_updates": 20.0
+        },
+        "gini_coefficient": {
+            "total_updates": -0.35991061886719133
+        },
+        "inequality_interpretation": {
+            "total_updates": "LOW"
+        },
+        "top_10pct_contribution": {
+            "total_updates": 31.074516661809
+        },
+        "bottom_50pct_contribution": {
+            "total_updates": 23.9240260371126
+        },
+        "median_mean_gap": {
+            "total_updates": 188.44000000000005
+        },
+        "gap_interpretation": {
+            "total_updates": "Moderate inequality"
+        },
+        "districts_needing_intervention": {
+            "total_updates": 6
+        },
+        "intervention_percentage": {
+            "total_updates": 24.0
+        },
+        "estimated_training_cost_lakhs": {
+            "total_updates": 12.0
+        }
+    },
+    "change_point_detection": [
+        {
+            "month": "April",
+            "value": 329,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "May",
+            "value": 1228,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "June",
+            "value": 4078,
+            "posterior_mean": 1878.3333333333333,
+            "posterior_std": 1957.2813628432,
+            "z_score": 1.1238377416884875,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "July",
+            "value": 3718,
+            "posterior_mean": 3008.0,
+            "posterior_std": 1551.9987113396714,
+            "z_score": 0.45747460665552636,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "August",
+            "value": 0,
+            "posterior_mean": 2598.6666666666665,
+            "posterior_std": 2257.6982378815233,
+            "z_score": -1.1510248017490086,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "September",
+            "value": 4655,
+            "posterior_mean": 2791.0,
+            "posterior_std": 2462.0627530589063,
+            "z_score": 0.7570887450712361,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "October",
+            "value": 764,
+            "posterior_mean": 1806.3333333333333,
+            "posterior_std": 2496.417499805138,
+            "z_score": -0.41753165622925426,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "November",
+            "value": 2210,
+            "posterior_mean": 2543.0,
+            "posterior_std": 1966.757992229853,
+            "z_score": -0.16931417150233838,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "December",
+            "value": 2750,
+            "posterior_mean": 1908.0,
+            "posterior_std": 1026.8651323323836,
+            "z_score": 0.8199713608811628,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "January",
+            "value": 854,
+            "posterior_mean": 1938.0,
+            "posterior_std": 976.8275180399064,
+            "z_score": -1.1097148472794307,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        }
+    ],
+    "matrix_stats": {
+        "row_sum_total_updates": {
+            "Ambala": 628,
+            "Bhiwani": 635,
+            "Charkhi Dadri": 160,
+            "Faridabad": 4635,
+            "Fatehabad": 541,
+            "Gurgaon": 1762,
+            "Gurugram": 1111,
+            "Hisar": 817,
+            "Jhajjar": 575,
+            "Jind": 671,
+            "Kaithal": 369,
+            "Karnal": 841,
+            "Kurukshetra": 568,
+            "Mahendragarh": 436,
+            "Mewat": 962,
+            "Nuh": 1079,
+            "Palwal": 673,
+            "Panchkula": 204,
+            "Panipat": 697,
+            "Rewari": 303,
+            "Rohtak": 1085,
+            "Sirsa": 601,
+            "Sonipat": 693,
+            "Yamuna Nagar": 532,
+            "Yamunanagar": 8
+        },
+        "row_mean_monthly_updates": {
+            "Ambala": 69.77777777777777,
+            "Bhiwani": 70.55555555555556,
+            "Charkhi Dadri": 17.77777777777778,
+            "Faridabad": 515.0,
+            "Fatehabad": 60.111111111111114,
+            "Gurgaon": 195.77777777777777,
+            "Gurugram": 123.44444444444444,
+            "Hisar": 90.77777777777777,
+            "Jhajjar": 63.888888888888886,
+            "Jind": 74.55555555555556,
+            "Kaithal": 41.0,
+            "Karnal": 93.44444444444444,
+            "Kurukshetra": 63.111111111111114,
+            "Mahendragarh": 48.44444444444444,
+            "Mewat": 106.88888888888889,
+            "Nuh": 119.88888888888889,
+            "Palwal": 74.77777777777777,
+            "Panchkula": 22.666666666666668,
+            "Panipat": 77.44444444444444,
+            "Rewari": 33.666666666666664,
+            "Rohtak": 120.55555555555556,
+            "Sirsa": 66.77777777777777,
+            "Sonipat": 77.0,
+            "Yamuna Nagar": 59.111111111111114,
+            "Yamunanagar": 0.8888888888888888
+        },
+        "row_variance": {
+            "Ambala": 5778.944444444445,
+            "Bhiwani": 5975.527777777777,
+            "Charkhi Dadri": 333.19444444444446,
+            "Faridabad": 729193.0,
+            "Fatehabad": 3998.361111111111,
+            "Gurgaon": 45375.444444444445,
+            "Gurugram": 103161.77777777778,
+            "Hisar": 8584.194444444445,
+            "Jhajjar": 6168.111111111111,
+            "Jind": 9547.52777777778,
+            "Kaithal": 2727.75,
+            "Karnal": 15718.527777777777,
+            "Kurukshetra": 4819.361111111111,
+            "Mahendragarh": 2937.527777777778,
+            "Mewat": 18507.861111111113,
+            "Nuh": 129360.11111111112,
+            "Palwal": 8749.444444444445,
+            "Panchkula": 577.25,
+            "Panipat": 10918.277777777777,
+            "Rewari": 1422.5,
+            "Rohtak": 43874.77777777778,
+            "Sirsa": 5194.694444444444,
+            "Sonipat": 7265.75,
+            "Yamuna Nagar": 6435.611111111111,
+            "Yamunanagar": 1.6111111111111112
+        },
+        "row_min": {
+            "Ambala": 0,
+            "Bhiwani": 0,
+            "Charkhi Dadri": 0,
+            "Faridabad": 13,
+            "Fatehabad": 0,
+            "Gurgaon": 0,
+            "Gurugram": 0,
+            "Hisar": 0,
+            "Jhajjar": 0,
+            "Jind": 0,
+            "Kaithal": 0,
+            "Karnal": 0,
+            "Kurukshetra": 0,
+            "Mahendragarh": 0,
+            "Mewat": 0,
+            "Nuh": 0,
+            "Palwal": 0,
+            "Panchkula": 0,
+            "Panipat": 0,
+            "Rewari": 0,
+            "Rohtak": 0,
+            "Sirsa": 0,
+            "Sonipat": 0,
+            "Yamuna Nagar": 0,
+            "Yamunanagar": 0
+        },
+        "row_max": {
+            "Ambala": 179,
+            "Bhiwani": 218,
+            "Charkhi Dadri": 43,
+            "Faridabad": 2747,
+            "Fatehabad": 183,
+            "Gurgaon": 668,
+            "Gurugram": 971,
+            "Hisar": 259,
+            "Jhajjar": 226,
+            "Jind": 286,
+            "Kaithal": 163,
+            "Karnal": 367,
+            "Kurukshetra": 174,
+            "Mahendragarh": 157,
+            "Mewat": 335,
+            "Nuh": 1079,
+            "Palwal": 270,
+            "Panchkula": 59,
+            "Panipat": 272,
+            "Rewari": 111,
+            "Rohtak": 663,
+            "Sirsa": 211,
+            "Sonipat": 274,
+            "Yamuna Nagar": 219,
+            "Yamunanagar": 3
+        },
+        "performance_category": {
+            "Ambala": "critical",
+            "Bhiwani": "critical",
+            "Charkhi Dadri": "critical",
+            "Faridabad": "on_track",
+            "Fatehabad": "critical",
+            "Gurgaon": "below_target",
+            "Gurugram": "below_target",
+            "Hisar": "critical",
+            "Jhajjar": "critical",
+            "Jind": "critical",
+            "Kaithal": "critical",
+            "Karnal": "critical",
+            "Kurukshetra": "critical",
+            "Mahendragarh": "critical",
+            "Mewat": "below_target",
+            "Nuh": "below_target",
+            "Palwal": "critical",
+            "Panchkula": "critical",
+            "Panipat": "critical",
+            "Rewari": "critical",
+            "Rohtak": "below_target",
+            "Sirsa": "critical",
+            "Sonipat": "critical",
+            "Yamuna Nagar": "critical",
+            "Yamunanagar": "critical"
+        },
+        "needs_intervention": {
+            "Ambala": true,
+            "Bhiwani": true,
+            "Charkhi Dadri": true,
+            "Faridabad": false,
+            "Fatehabad": true,
+            "Gurgaon": true,
+            "Gurugram": true,
+            "Hisar": true,
+            "Jhajjar": true,
+            "Jind": true,
+            "Kaithal": true,
+            "Karnal": true,
+            "Kurukshetra": true,
+            "Mahendragarh": true,
+            "Mewat": true,
+            "Nuh": true,
+            "Palwal": true,
+            "Panchkula": true,
+            "Panipat": true,
+            "Rewari": true,
+            "Rohtak": true,
+            "Sirsa": true,
+            "Sonipat": true,
+            "Yamuna Nagar": true,
+            "Yamunanagar": true
+        },
+        "consistency_score": {
+            "Ambala": 0.00017301204356058784,
+            "Bhiwani": 0.0001673212335293161,
+            "Charkhi Dadri": 0.002992269969246114,
+            "Faridabad": 1.3713771643760096e-06,
+            "Fatehabad": 0.0002500399369343715,
+            "Gurgaon": 2.2037865951007375e-05,
+            "Gurugram": 9.693418707221057e-06,
+            "Hisar": 0.00011647959827480771,
+            "Jhajjar": 0.00016209790713591008,
+            "Jind": 0.00010472818671872045,
+            "Kaithal": 0.0003664681630783326,
+            "Karnal": 6.361514252442556e-05,
+            "Kurukshetra": 0.0002074533374055655,
+            "Mahendragarh": 0.00034030646487753693,
+            "Mewat": 5.402817569362422e-05,
+            "Nuh": 7.730298475413356e-06,
+            "Palwal": 0.00011427990959189373,
+            "Panchkula": 0.0017293558149589277,
+            "Panipat": 9.158114852935939e-05,
+            "Rewari": 0.0007024938531787847,
+            "Rohtak": 2.2791618762060563e-05,
+            "Sirsa": 0.00019246705338287577,
+            "Sonipat": 0.00013761310076719304,
+            "Yamuna Nagar": 0.00015536125808094322,
+            "Yamunanagar": 0.3829787234042553
+        },
+        "months_below_target": {
+            "Ambala": 5,
+            "Bhiwani": 5,
+            "Charkhi Dadri": 9,
+            "Faridabad": 2,
+            "Fatehabad": 5,
+            "Gurgaon": 3,
+            "Gurugram": 7,
+            "Hisar": 4,
+            "Jhajjar": 5,
+            "Jind": 5,
+            "Kaithal": 5,
+            "Karnal": 5,
+            "Kurukshetra": 4,
+            "Mahendragarh": 6,
+            "Mewat": 4,
+            "Nuh": 8,
+            "Palwal": 5,
+            "Panchkula": 7,
+            "Panipat": 5,
+            "Rewari": 6,
+            "Rohtak": 4,
+            "Sirsa": 4,
+            "Sonipat": 3,
+            "Yamuna Nagar": 6,
+            "Yamunanagar": 9
+        }
+    },
+    "matrix_anomalies": [
+        {
+            "district": "Ambala",
+            "month": "April",
+            "z_score": -0.9178947261553436,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ambala",
+            "month": "December",
+            "z_score": 0.8842775626178073,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ambala",
+            "month": "January",
+            "z_score": 0.13446865415014597,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ambala",
+            "month": "July",
+            "z_score": -0.9178947261553436,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ambala",
+            "month": "June",
+            "z_score": -0.5495675430484223,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ambala",
+            "month": "May",
+            "z_score": -0.9178947261553436,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ambala",
+            "month": "November",
+            "z_score": 1.4104592527705522,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ambala",
+            "month": "October",
+            "z_score": -0.5627220853022409,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ambala",
+            "month": "September",
+            "z_score": 1.4367683372781894,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Bhiwani",
+            "month": "April",
+            "z_score": -0.9127315882374878,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Bhiwani",
+            "month": "December",
+            "z_score": 0.9889123349722702,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Bhiwani",
+            "month": "January",
+            "z_score": -0.5246409916640677,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Bhiwani",
+            "month": "July",
+            "z_score": -0.9127315882374878,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Bhiwani",
+            "month": "June",
+            "z_score": 0.3550310272356842,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Bhiwani",
+            "month": "May",
+            "z_score": -0.9127315882374878,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Bhiwani",
+            "month": "November",
+            "z_score": 0.4973309126459382,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Bhiwani",
+            "month": "October",
+            "z_score": -0.48583193200672575,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Bhiwani",
+            "month": "September",
+            "z_score": 1.9073934135293642,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Charkhi Dadri",
+            "month": "April",
+            "z_score": -0.973931914742613,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Charkhi Dadri",
+            "month": "December",
+            "z_score": 0.5600108509770024,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Charkhi Dadri",
+            "month": "January",
+            "z_score": -0.7547972339255251,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Charkhi Dadri",
+            "month": "July",
+            "z_score": -0.973931914742613,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Charkhi Dadri",
+            "month": "June",
+            "z_score": 0.9982802126111783,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Charkhi Dadri",
+            "month": "May",
+            "z_score": -0.973931914742613,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Charkhi Dadri",
+            "month": "November",
+            "z_score": 1.3817659040410821,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Charkhi Dadri",
+            "month": "October",
+            "z_score": -0.3713115424956212,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Charkhi Dadri",
+            "month": "September",
+            "z_score": 1.1078475530197223,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Faridabad",
+            "month": "April",
+            "z_score": -0.21781696316560212,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Faridabad",
+            "month": "December",
+            "z_score": -0.2599750850686219,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Faridabad",
+            "month": "January",
+            "z_score": -0.5562529973315108,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Faridabad",
+            "month": "July",
+            "z_score": 2.6138035579872256,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Faridabad",
+            "month": "June",
+            "z_score": -0.29979108908814056,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Faridabad",
+            "month": "May",
+            "z_score": 0.052697652378774704,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Faridabad",
+            "month": "November",
+            "z_score": -0.49067369659348004,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Faridabad",
+            "month": "October",
+            "z_score": -0.5878715887587757,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Faridabad",
+            "month": "September",
+            "z_score": -0.25411979035986915,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fatehabad",
+            "month": "April",
+            "z_score": -0.9506348870442962,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fatehabad",
+            "month": "December",
+            "z_score": 0.9787497820400609,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fatehabad",
+            "month": "January",
+            "z_score": -0.44456677712053044,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fatehabad",
+            "month": "July",
+            "z_score": -0.9506348870442962,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fatehabad",
+            "month": "June",
+            "z_score": 0.2038329887192945,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fatehabad",
+            "month": "May",
+            "z_score": -0.9506348870442962,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fatehabad",
+            "month": "November",
+            "z_score": 0.4726816721162951,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fatehabad",
+            "month": "October",
+            "z_score": -0.30223512120447127,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Fatehabad",
+            "month": "September",
+            "z_score": 1.9434421165822395,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Gurgaon",
+            "month": "April",
+            "z_score": -0.9190792235739572,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Gurgaon",
+            "month": "December",
+            "z_score": 0.04798824549875375,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Gurgaon",
+            "month": "January",
+            "z_score": -0.28532141617193785,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Gurgaon",
+            "month": "July",
+            "z_score": -0.9190792235739572,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Gurgaon",
+            "month": "June",
+            "z_score": -0.19612587290794997,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Gurgaon",
+            "month": "May",
+            "z_score": 2.2168482974967754,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Gurgaon",
+            "month": "November",
+            "z_score": -0.07876331598165011,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Gurgaon",
+            "month": "October",
+            "z_score": -0.7266046302148254,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Gurgaon",
+            "month": "September",
+            "z_score": 0.8601371394287488,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Gurugram",
+            "month": "April",
+            "z_score": -0.38433695114037025,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Gurugram",
+            "month": "December",
+            "z_score": -0.38433695114037025,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Gurugram",
+            "month": "January",
+            "z_score": -0.38433695114037025,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Gurugram",
+            "month": "July",
+            "z_score": 2.638813918360706,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Gurugram",
+            "month": "June",
+            "z_score": 0.05154473962188585,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Gurugram",
+            "month": "May",
+            "z_score": -0.38433695114037025,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Gurugram",
+            "month": "November",
+            "z_score": -0.38433695114037025,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Gurugram",
+            "month": "October",
+            "z_score": -0.38433695114037025,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Gurugram",
+            "month": "September",
+            "z_score": -0.38433695114037025,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Hisar",
+            "month": "April",
+            "z_score": -0.9797827157880298,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Hisar",
+            "month": "December",
+            "z_score": 1.0061660936917467,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Hisar",
+            "month": "January",
+            "z_score": -0.5696411138302498,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Hisar",
+            "month": "July",
+            "z_score": -0.9797827157880298,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Hisar",
+            "month": "June",
+            "z_score": 0.1966760898277074,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Hisar",
+            "month": "May",
+            "z_score": -0.9797827157880298,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Hisar",
+            "month": "November",
+            "z_score": 0.6499904919915694,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Hisar",
+            "month": "October",
+            "z_score": -0.1594995118724699,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Hisar",
+            "month": "September",
+            "z_score": 1.815656097555786,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jhajjar",
+            "month": "April",
+            "z_score": -0.8134844225858507,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jhajjar",
+            "month": "December",
+            "z_score": 1.1473667247254347,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jhajjar",
+            "month": "January",
+            "z_score": -0.431500432849886,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jhajjar",
+            "month": "July",
+            "z_score": -0.8134844225858507,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jhajjar",
+            "month": "June",
+            "z_score": 0.23060514935911947,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jhajjar",
+            "month": "May",
+            "z_score": -0.8134844225858507,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jhajjar",
+            "month": "November",
+            "z_score": -0.15137884037684524,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jhajjar",
+            "month": "October",
+            "z_score": -0.4187676331920205,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jhajjar",
+            "month": "September",
+            "z_score": 2.06412830009175,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jind",
+            "month": "April",
+            "z_score": -0.76301758206551,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jind",
+            "month": "December",
+            "z_score": 0.23993548407723186,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jind",
+            "month": "January",
+            "z_score": -0.2820094789154195,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jind",
+            "month": "July",
+            "z_score": -0.76301758206551,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jind",
+            "month": "June",
+            "z_score": -0.04662253482069437,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jind",
+            "month": "May",
+            "z_score": -0.76301758206551,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jind",
+            "month": "November",
+            "z_score": 0.9460963163614072,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jind",
+            "month": "October",
+            "z_score": -0.7323149371835893,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Jind",
+            "month": "September",
+            "z_score": 2.163967896677594,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kaithal",
+            "month": "April",
+            "z_score": -0.7850215419801716,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kaithal",
+            "month": "December",
+            "z_score": 0.36379047067373804,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kaithal",
+            "month": "January",
+            "z_score": -0.59355287320452,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kaithal",
+            "month": "July",
+            "z_score": -0.7850215419801716,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kaithal",
+            "month": "June",
+            "z_score": -0.26805613628591224,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kaithal",
+            "month": "May",
+            "z_score": -0.7850215419801716,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kaithal",
+            "month": "November",
+            "z_score": 0.3063498700410426,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kaithal",
+            "month": "October",
+            "z_score": 0.21061553565321678,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kaithal",
+            "month": "September",
+            "z_score": 2.3359177590629496,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Karnal",
+            "month": "April",
+            "z_score": -0.7453281992116371,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Karnal",
+            "month": "December",
+            "z_score": 0.9216900442093966,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Karnal",
+            "month": "January",
+            "z_score": -0.5379479392645228,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Karnal",
+            "month": "July",
+            "z_score": -0.7453281992116371,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Karnal",
+            "month": "June",
+            "z_score": 0.3633585751210121,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Karnal",
+            "month": "May",
+            "z_score": -0.7453281992116371,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Karnal",
+            "month": "November",
+            "z_score": -0.171044402435013,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Karnal",
+            "month": "October",
+            "z_score": -0.5219956115762833,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Karnal",
+            "month": "September",
+            "z_score": 2.1819239315803216,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kurukshetra",
+            "month": "April",
+            "z_score": -0.9090988153440831,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kurukshetra",
+            "month": "December",
+            "z_score": 0.012804208666818025,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kurukshetra",
+            "month": "January",
+            "z_score": -0.8514798763434018,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kurukshetra",
+            "month": "July",
+            "z_score": -0.9090988153440831,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kurukshetra",
+            "month": "June",
+            "z_score": 1.5973250311855542,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kurukshetra",
+            "month": "May",
+            "z_score": -0.9090988153440831,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kurukshetra",
+            "month": "November",
+            "z_score": 0.5025651901726093,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kurukshetra",
+            "month": "October",
+            "z_score": 0.056018412917329015,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kurukshetra",
+            "month": "September",
+            "z_score": 1.41006347943334,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mahendragarh",
+            "month": "April",
+            "z_score": -0.8938260109947102,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mahendragarh",
+            "month": "December",
+            "z_score": 0.7482717752593331,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mahendragarh",
+            "month": "January",
+            "z_score": -0.6170679571316691,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mahendragarh",
+            "month": "July",
+            "z_score": -0.8938260109947102,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mahendragarh",
+            "month": "June",
+            "z_score": -0.17425507095080356,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mahendragarh",
+            "month": "May",
+            "z_score": -0.8938260109947102,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mahendragarh",
+            "month": "November",
+            "z_score": 0.7851728491077385,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mahendragarh",
+            "month": "October",
+            "z_score": -0.06355184940558715,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mahendragarh",
+            "month": "September",
+            "z_score": 2.002908286105119,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mewat",
+            "month": "April",
+            "z_score": -0.7856958273639915,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mewat",
+            "month": "December",
+            "z_score": -0.05063736101514288,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mewat",
+            "month": "January",
+            "z_score": -0.34466074755468235,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mewat",
+            "month": "July",
+            "z_score": -0.7856958273639915,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mewat",
+            "month": "June",
+            "z_score": 1.5885430189427896,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mewat",
+            "month": "May",
+            "z_score": -0.7856958273639915,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mewat",
+            "month": "November",
+            "z_score": 0.2727883641783505,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mewat",
+            "month": "October",
+            "z_score": -0.7856958273639915,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Mewat",
+            "month": "September",
+            "z_score": 1.6767500349046514,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Nuh",
+            "month": "April",
+            "z_score": -0.3333333333333333,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Nuh",
+            "month": "December",
+            "z_score": -0.3333333333333333,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Nuh",
+            "month": "January",
+            "z_score": -0.3333333333333333,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Nuh",
+            "month": "July",
+            "z_score": -0.3333333333333333,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Nuh",
+            "month": "June",
+            "z_score": 2.6666666666666665,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Nuh",
+            "month": "May",
+            "z_score": -0.3333333333333333,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Nuh",
+            "month": "November",
+            "z_score": -0.3333333333333333,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Nuh",
+            "month": "October",
+            "z_score": -0.3333333333333333,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Nuh",
+            "month": "September",
+            "z_score": -0.3333333333333333,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Palwal",
+            "month": "April",
+            "z_score": -0.7994334494961252,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Palwal",
+            "month": "December",
+            "z_score": -0.35042030847155553,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Palwal",
+            "month": "January",
+            "z_score": 0.1841191451291225,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Palwal",
+            "month": "July",
+            "z_score": -0.7994334494961252,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Palwal",
+            "month": "June",
+            "z_score": 0.879020434810004,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Palwal",
+            "month": "May",
+            "z_score": -0.7994334494961252,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Palwal",
+            "month": "November",
+            "z_score": 0.3979349265693937,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Palwal",
+            "month": "October",
+            "z_score": -0.7994334494961252,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Palwal",
+            "month": "September",
+            "z_score": 2.0870795999475362,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Panchkula",
+            "month": "April",
+            "z_score": -0.9434213215740257,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Panchkula",
+            "month": "December",
+            "z_score": 1.5122488831113057,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Panchkula",
+            "month": "January",
+            "z_score": -0.7353136771091672,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Panchkula",
+            "month": "July",
+            "z_score": -0.9434213215740257,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Panchkula",
+            "month": "June",
+            "z_score": 0.4717106607870128,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Panchkula",
+            "month": "May",
+            "z_score": -0.9434213215740257,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Panchkula",
+            "month": "November",
+            "z_score": 0.88792594971673,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Panchkula",
+            "month": "October",
+            "z_score": -0.44396297485836506,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Panchkula",
+            "month": "September",
+            "z_score": 1.1376551230745604,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Panipat",
+            "month": "April",
+            "z_score": -0.7411620929577201,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Panipat",
+            "month": "December",
+            "z_score": 1.8619437945035406,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Panipat",
+            "month": "January",
+            "z_score": -0.7124513662577797,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Panipat",
+            "month": "July",
+            "z_score": -0.7411620929577201,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Panipat",
+            "month": "June",
+            "z_score": -0.09995586332571833,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Panipat",
+            "month": "May",
+            "z_score": -0.7411620929577201,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Panipat",
+            "month": "November",
+            "z_score": 1.1441756270050314,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Panipat",
+            "month": "October",
+            "z_score": -0.7124513662577797,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Panipat",
+            "month": "September",
+            "z_score": 0.7422254532058661,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rewari",
+            "month": "April",
+            "z_score": -0.8926351441032254,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rewari",
+            "month": "December",
+            "z_score": -0.17675943447588616,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rewari",
+            "month": "January",
+            "z_score": -0.01767594344758856,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rewari",
+            "month": "July",
+            "z_score": -0.8926351441032254,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rewari",
+            "month": "June",
+            "z_score": 0.7247136813511336,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rewari",
+            "month": "May",
+            "z_score": -0.8926351441032254,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rewari",
+            "month": "November",
+            "z_score": 0.6981997661797507,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rewari",
+            "month": "October",
+            "z_score": -0.6009820772180131,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rewari",
+            "month": "September",
+            "z_score": 2.0504094399202804,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rohtak",
+            "month": "April",
+            "z_score": -0.57554563408345,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rohtak",
+            "month": "December",
+            "z_score": -0.0885862865363467,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rohtak",
+            "month": "January",
+            "z_score": -0.5134821878274467,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rohtak",
+            "month": "July",
+            "z_score": -0.57554563408345,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rohtak",
+            "month": "June",
+            "z_score": 2.589690124972722,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rohtak",
+            "month": "May",
+            "z_score": -0.57554563408345,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rohtak",
+            "month": "November",
+            "z_score": -0.14110151029142648,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rohtak",
+            "month": "October",
+            "z_score": -0.0838121752858849,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rohtak",
+            "month": "September",
+            "z_score": -0.03607106278126693,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sirsa",
+            "month": "April",
+            "z_score": -0.926513942237508,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sirsa",
+            "month": "December",
+            "z_score": 0.5858158037441816,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sirsa",
+            "month": "January",
+            "z_score": -0.20503553131046345,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sirsa",
+            "month": "July",
+            "z_score": -0.926513942237508,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sirsa",
+            "month": "June",
+            "z_score": 0.9188058395566637,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sirsa",
+            "month": "May",
+            "z_score": -0.926513942237508,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sirsa",
+            "month": "November",
+            "z_score": -0.42702888851878484,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sirsa",
+            "month": "October",
+            "z_score": -0.09403885270630273,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sirsa",
+            "month": "September",
+            "z_score": 2.0010234559472306,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sonipat",
+            "month": "April",
+            "z_score": -0.9033384579115568,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sonipat",
+            "month": "December",
+            "z_score": 0.0,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sonipat",
+            "month": "January",
+            "z_score": 0.03519500485369702,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sonipat",
+            "month": "July",
+            "z_score": -0.9033384579115568,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sonipat",
+            "month": "June",
+            "z_score": -0.1642433559839194,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sonipat",
+            "month": "May",
+            "z_score": -0.9033384579115568,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sonipat",
+            "month": "November",
+            "z_score": 0.41060838995979854,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sonipat",
+            "month": "October",
+            "z_score": 0.11731668284565672,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Sonipat",
+            "month": "September",
+            "z_score": 2.3111386520594372,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Yamuna Nagar",
+            "month": "April",
+            "z_score": -0.7368417518849728,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Yamuna Nagar",
+            "month": "December",
+            "z_score": 1.357340069261792,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Yamuna Nagar",
+            "month": "January",
+            "z_score": -0.4252075523095614,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Yamuna Nagar",
+            "month": "July",
+            "z_score": -0.7368417518849728,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Yamuna Nagar",
+            "month": "June",
+            "z_score": 0.1232686389431627,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Yamuna Nagar",
+            "month": "May",
+            "z_score": -0.7368417518849728,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Yamuna Nagar",
+            "month": "November",
+            "z_score": -0.35041534441146266,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Yamuna Nagar",
+            "month": "October",
+            "z_score": -0.48753439222464373,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Yamuna Nagar",
+            "month": "September",
+            "z_score": 1.9930738363956313,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Yamunanagar",
+            "month": "April",
+            "z_score": -0.7003009752518536,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Yamunanagar",
+            "month": "December",
+            "z_score": 1.6632148162231526,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Yamunanagar",
+            "month": "January",
+            "z_score": -0.7003009752518536,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Yamunanagar",
+            "month": "July",
+            "z_score": -0.7003009752518536,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Yamunanagar",
+            "month": "June",
+            "z_score": 0.08753762190648175,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Yamunanagar",
+            "month": "May",
+            "z_score": -0.7003009752518536,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Yamunanagar",
+            "month": "November",
+            "z_score": 0.08753762190648175,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Yamunanagar",
+            "month": "October",
+            "z_score": -0.7003009752518536,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Yamunanagar",
+            "month": "September",
+            "z_score": 1.6632148162231526,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        }
+    ],
+    "policy_insights": null
+}

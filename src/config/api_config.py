@@ -40,4 +40,4 @@ DEFAULT_API_PARAMS = {
 
 PROCESSED_DATA_DIR = RAW_DATA_DIR.parent / "Processed"  # e.g., Data/Processed/
 REPORTS_DIR = Path("Reports")  # e.g., Reports/
-EDA_PLOTS_DIR = REPORTS_DIR / "EDA_Enrolment"  # e.g., Reports/EDA_Plots/
+EDA_PLOTS_DIR = REPORTS_DIR / "EDA_DEMOGRAPHIC"  # e.g., Reports/EDA_Plots/

@@ -1,0 +1,2324 @@
+{
+    "district_summary": [
+        {
+            "district": "Malappuram",
+            "total_updates": 2931,
+            "mean_daily_updates": 3.6319702602230484,
+            "median_daily_updates": 2.0,
+            "std_updates": 4.025615124503097,
+            "days_active": 807,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Kannur",
+            "total_updates": 1369,
+            "mean_daily_updates": 2.074242424242424,
+            "median_daily_updates": 1.0,
+            "std_updates": 3.072063687123402,
+            "days_active": 660,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Kozhikode",
+            "total_updates": 1357,
+            "mean_daily_updates": 2.2355848434925867,
+            "median_daily_updates": 2.0,
+            "std_updates": 1.676527611064307,
+            "days_active": 607,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Ernakulam",
+            "total_updates": 1259,
+            "mean_daily_updates": 1.8514705882352942,
+            "median_daily_updates": 1.0,
+            "std_updates": 1.6604196505471358,
+            "days_active": 680,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Palakkad",
+            "total_updates": 1224,
+            "mean_daily_updates": 2.0098522167487687,
+            "median_daily_updates": 1.0,
+            "std_updates": 1.5643756566852653,
+            "days_active": 609,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Thiruvananthapuram",
+            "total_updates": 1125,
+            "mean_daily_updates": 1.7971246006389776,
+            "median_daily_updates": 1.0,
+            "std_updates": 1.3237732883125568,
+            "days_active": 626,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Thrissur",
+            "total_updates": 1124,
+            "mean_daily_updates": 1.7589984350547732,
+            "median_daily_updates": 1.0,
+            "std_updates": 1.3442585206041964,
+            "days_active": 639,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Kollam",
+            "total_updates": 1049,
+            "mean_daily_updates": 1.7338842975206612,
+            "median_daily_updates": 1.0,
+            "std_updates": 1.2016513003021823,
+            "days_active": 605,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Kasaragod",
+            "total_updates": 825,
+            "mean_daily_updates": 3.101503759398496,
+            "median_daily_updates": 2.0,
+            "std_updates": 2.7016831919744284,
+            "days_active": 266,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Alappuzha",
+            "total_updates": 691,
+            "mean_daily_updates": 1.512035010940919,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.9130916820474155,
+            "days_active": 457,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Kottayam",
+            "total_updates": 629,
+            "mean_daily_updates": 1.419864559819413,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.7579222489547389,
+            "days_active": 443,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Pathanamthitta",
+            "total_updates": 357,
+            "mean_daily_updates": 1.2795698924731183,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.618054351370937,
+            "days_active": 279,
+            "performance_category": "Below Target",
+            "needs_intervention": true
+        },
+        {
+            "district": "Idukki",
+            "total_updates": 352,
+            "mean_daily_updates": 1.5575221238938053,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.8787673497939676,
+            "days_active": 226,
+            "performance_category": "Below Target",
+            "needs_intervention": true
+        },
+        {
+            "district": "Wayanad",
+            "total_updates": 273,
+            "mean_daily_updates": 2.4375,
+            "median_daily_updates": 2.0,
+            "std_updates": 1.9763523138520798,
+            "days_active": 112,
+            "performance_category": "Below Target",
+            "needs_intervention": true
+        },
+        {
+            "district": "Kasargod",
+            "total_updates": 71,
+            "mean_daily_updates": 1.2033898305084745,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.4059752420236703,
+            "days_active": 59,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        }
+    ],
+    "monthly_district_summary": [
+        {
+            "district": "Alappuzha",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 174,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Alappuzha",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 190,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.09195402298850586,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Alappuzha",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 40,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7894736842105263,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Alappuzha",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 140,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 2.5,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Alappuzha",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 116,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.17142857142857137,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Alappuzha",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 31,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7327586206896552,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ernakulam",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 218,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ernakulam",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 323,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.4816513761467891,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ernakulam",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 87,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.7306501547987616,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ernakulam",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 389,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 3.471264367816092,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Ernakulam",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 159,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5912596401028278,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Ernakulam",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 83,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.4779874213836478,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Idukki",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 67,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Idukki",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 92,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 0.3731343283582089,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Idukki",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 36,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.6086956521739131,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Idukki",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 79,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 1.1944444444444446,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Idukki",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 48,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.3924050632911392,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Idukki",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 30,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.375,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kannur",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 188,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kannur",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 70,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.6276595744680851,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kannur",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 321,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 3.5857142857142854,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Kannur",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 82,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.7445482866043613,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kannur",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 393,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 3.7926829268292686,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Kannur",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 186,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5267175572519084,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kannur",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 129,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.30645161290322576,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kasaragod",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 129,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kasaragod",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 196,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.5193798449612403,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kasaragod",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 52,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.7346938775510203,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kasaragod",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 198,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 2.8076923076923075,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Kasaragod",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 182,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.08080808080808077,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kasaragod",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 68,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.6263736263736264,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kasargod",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 15,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kasargod",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 14,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.06666666666666665,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kasargod",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 6,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5714285714285714,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kasargod",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 19,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 2.1666666666666665,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Kasargod",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 13,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.3157894736842105,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kasargod",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 4,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.6923076923076923,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kollam",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 175,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kollam",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 255,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.4571428571428571,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kollam",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 74,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.7098039215686274,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kollam",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 278,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 2.7567567567567566,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Kollam",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 181,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.34892086330935257,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kollam",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 86,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.5248618784530387,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kottayam",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 140,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kottayam",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 164,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.17142857142857149,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kottayam",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 27,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8353658536585366,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kottayam",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 109,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 3.037037037037037,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Kottayam",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 139,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.27522935779816504,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kottayam",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 50,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.6402877697841727,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kozhikode",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 325,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kozhikode",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 334,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.027692307692307683,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kozhikode",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 99,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.7035928143712575,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kozhikode",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 278,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.808080808080808,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Kozhikode",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 240,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.13669064748201443,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kozhikode",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 81,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.6625,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Malappuram",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 607,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Malappuram",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 694,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.14332784184514002,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Malappuram",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 270,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.6109510086455332,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Malappuram",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 386,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.4296296296296296,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Malappuram",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 711,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.8419689119170986,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Malappuram",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 263,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.6300984528832629,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Palakkad",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 258,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Palakkad",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 320,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.24031007751937983,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Palakkad",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 96,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.7,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Palakkad",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 213,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.21875,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Palakkad",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 298,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.39906103286384975,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Palakkad",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 39,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8691275167785235,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Pathanamthitta",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 108,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Pathanamthitta",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 92,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.14814814814814814,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Pathanamthitta",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 67,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.2717391304347826,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Pathanamthitta",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 75,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 0.11940298507462677,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Pathanamthitta",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 15,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Thiruvananthapuram",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 307,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Thiruvananthapuram",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 338,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.10097719869706845,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Thiruvananthapuram",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9970414201183432,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Thiruvananthapuram",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 286,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 285.0,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Thiruvananthapuram",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 152,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.46853146853146854,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Thiruvananthapuram",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 41,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7302631578947368,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Thrissur",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 309,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Thrissur",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 363,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.17475728155339798,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Thrissur",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 15,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9586776859504132,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Thrissur",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 235,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 14.666666666666666,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Thrissur",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 165,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.2978723404255319,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Thrissur",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 37,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7757575757575758,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Wayanad",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 102,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Wayanad",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 74,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.27450980392156865,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Wayanad",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 46,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.3783783783783784,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Wayanad",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 42,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.08695652173913049,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Wayanad",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 9,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7857142857142857,
+            "concerning_drop": true,
+            "sudden_spike": false
+        }
+    ],
+    "univariate_stats": {
+        "mean": {
+            "total_updates": 975.7333333333333
+        },
+        "median": {
+            "total_updates": 1049.0
+        },
+        "variance": {
+            "total_updates": 473061.9238095238
+        },
+        "std_dev": {
+            "total_updates": 687.7949722188465
+        },
+        "iqr": {
+            "total_updates": 748.5
+        },
+        "mad": {
+            "total_updates": 320.0
+        },
+        "skewness": {
+            "total_updates": 1.5200931548838734
+        },
+        "excess_kurtosis": {
+            "total_updates": 4.041101433128275
+        },
+        "min": {
+            "total_updates": 71.0
+        },
+        "max": {
+            "total_updates": 2931.0
+        },
+        "count": {
+            "total_updates": 15
+        },
+        "p10_bottom_10pct": {
+            "total_updates": 304.6
+        },
+        "q1_25th_percentile": {
+            "total_updates": 493.0
+        },
+        "q3_75th_percentile": {
+            "total_updates": 1241.5
+        },
+        "p90_top_10pct": {
+            "total_updates": 1364.2
+        },
+        "p95_top_5pct": {
+            "total_updates": 1837.5999999999983
+        },
+        "critical_count": {
+            "total_updates": 1
+        },
+        "critical_percentage": {
+            "total_updates": 6.666666666666667
+        },
+        "below_target_count": {
+            "total_updates": 3
+        },
+        "below_target_percentage": {
+            "total_updates": 20.0
+        },
+        "on_track_count": {
+            "total_updates": 3
+        },
+        "on_track_percentage": {
+            "total_updates": 20.0
+        },
+        "excellent_count": {
+            "total_updates": 8
+        },
+        "excellent_percentage": {
+            "total_updates": 53.333333333333336
+        },
+        "gini_coefficient": {
+            "total_updates": -0.2811606085451398
+        },
+        "inequality_interpretation": {
+            "total_updates": "LOW"
+        },
+        "top_10pct_contribution": {
+            "total_updates": 20.025963377972122
+        },
+        "bottom_50pct_contribution": {
+            "total_updates": 21.85023230390817
+        },
+        "median_mean_gap": {
+            "total_updates": -73.26666666666665
+        },
+        "gap_interpretation": {
+            "total_updates": "Moderate inequality"
+        },
+        "districts_needing_intervention": {
+            "total_updates": 4
+        },
+        "intervention_percentage": {
+            "total_updates": 26.666666666666668
+        },
+        "estimated_training_cost_lakhs": {
+            "total_updates": 8.0
+        }
+    },
+    "change_point_detection": [
+        {
+            "month": "June",
+            "value": 3122,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "July",
+            "value": 70,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "August",
+            "value": 0,
+            "posterior_mean": 1064.0,
+            "posterior_std": 1782.6239087367812,
+            "z_score": -0.5968729549655716,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "September",
+            "value": 3770,
+            "posterior_mean": 1280.0,
+            "posterior_std": 2156.6872745022633,
+            "z_score": 1.1545484732248263,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "October",
+            "value": 885,
+            "posterior_mean": 1551.6666666666667,
+            "posterior_std": 1971.4356021268698,
+            "z_score": -0.3381630452181334,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "November",
+            "value": 3116,
+            "posterior_mean": 2590.3333333333335,
+            "posterior_std": 1512.6302698720972,
+            "z_score": 0.34751827801985946,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "December",
+            "value": 2707,
+            "posterior_mean": 2236.0,
+            "posterior_std": 1187.7377656705205,
+            "z_score": 0.39655217979374735,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "January",
+            "value": 966,
+            "posterior_mean": 2263.0,
+            "posterior_std": 1141.6991722866408,
+            "z_score": -1.1360260491407002,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        }
+    ],
+    "matrix_stats": {
+        "row_sum_total_updates": {
+            "Alappuzha": 691,
+            "Ernakulam": 1259,
+            "Idukki": 352,
+            "Kannur": 1369,
+            "Kasaragod": 825,
+            "Kasargod": 71,
+            "Kollam": 1049,
+            "Kottayam": 629,
+            "Kozhikode": 1357,
+            "Malappuram": 2931,
+            "Palakkad": 1224,
+            "Pathanamthitta": 357,
+            "Thiruvananthapuram": 1125,
+            "Thrissur": 1124,
+            "Wayanad": 273
+        },
+        "row_mean_monthly_updates": {
+            "Alappuzha": 98.71428571428571,
+            "Ernakulam": 179.85714285714286,
+            "Idukki": 50.285714285714285,
+            "Kannur": 195.57142857142858,
+            "Kasaragod": 117.85714285714286,
+            "Kasargod": 10.142857142857142,
+            "Kollam": 149.85714285714286,
+            "Kottayam": 89.85714285714286,
+            "Kozhikode": 193.85714285714286,
+            "Malappuram": 418.7142857142857,
+            "Palakkad": 174.85714285714286,
+            "Pathanamthitta": 51.0,
+            "Thiruvananthapuram": 160.71428571428572,
+            "Thrissur": 160.57142857142858,
+            "Wayanad": 39.0
+        },
+        "row_variance": {
+            "Alappuzha": 5630.238095238096,
+            "Ernakulam": 19412.14285714286,
+            "Idukki": 998.9047619047619,
+            "Kannur": 14659.619047619048,
+            "Kasaragod": 6246.809523809524,
+            "Kasargod": 47.142857142857146,
+            "Kollam": 10227.809523809523,
+            "Kottayam": 4067.8095238095234,
+            "Kozhikode": 17560.476190476194,
+            "Malappuram": 69903.23809523809,
+            "Palakkad": 16641.47619047619,
+            "Pathanamthitta": 2043.3333333333333,
+            "Thiruvananthapuram": 22378.57142857143,
+            "Thrissur": 21801.95238095238,
+            "Wayanad": 1532.3333333333333
+        },
+        "row_min": {
+            "Alappuzha": 0,
+            "Ernakulam": 0,
+            "Idukki": 0,
+            "Kannur": 70,
+            "Kasaragod": 0,
+            "Kasargod": 0,
+            "Kollam": 0,
+            "Kottayam": 0,
+            "Kozhikode": 0,
+            "Malappuram": 0,
+            "Palakkad": 0,
+            "Pathanamthitta": 0,
+            "Thiruvananthapuram": 0,
+            "Thrissur": 0,
+            "Wayanad": 0
+        },
+        "row_max": {
+            "Alappuzha": 190,
+            "Ernakulam": 389,
+            "Idukki": 92,
+            "Kannur": 393,
+            "Kasaragod": 198,
+            "Kasargod": 19,
+            "Kollam": 278,
+            "Kottayam": 164,
+            "Kozhikode": 334,
+            "Malappuram": 711,
+            "Palakkad": 320,
+            "Pathanamthitta": 108,
+            "Thiruvananthapuram": 338,
+            "Thrissur": 363,
+            "Wayanad": 102
+        },
+        "performance_category": {
+            "Alappuzha": "critical",
+            "Ernakulam": "below_target",
+            "Idukki": "critical",
+            "Kannur": "below_target",
+            "Kasaragod": "below_target",
+            "Kasargod": "critical",
+            "Kollam": "below_target",
+            "Kottayam": "critical",
+            "Kozhikode": "below_target",
+            "Malappuram": "below_target",
+            "Palakkad": "below_target",
+            "Pathanamthitta": "critical",
+            "Thiruvananthapuram": "below_target",
+            "Thrissur": "below_target",
+            "Wayanad": "critical"
+        },
+        "needs_intervention": {
+            "Alappuzha": true,
+            "Ernakulam": true,
+            "Idukki": true,
+            "Kannur": true,
+            "Kasaragod": true,
+            "Kasargod": true,
+            "Kollam": true,
+            "Kottayam": true,
+            "Kozhikode": true,
+            "Malappuram": true,
+            "Palakkad": true,
+            "Pathanamthitta": true,
+            "Thiruvananthapuram": true,
+            "Thrissur": true,
+            "Wayanad": true
+        },
+        "consistency_score": {
+            "Alappuzha": 0.00017758084156406436,
+            "Ernakulam": 5.151149442204103e-05,
+            "Idukki": 0.0010000952471663968,
+            "Kannur": 6.820994371055597e-05,
+            "Kasaragod": 0.00016005609585073626,
+            "Kasargod": 0.020771513353115726,
+            "Kollam": 9.776308745140943e-05,
+            "Kottayam": 0.0002457721341213646,
+            "Kozhikode": 5.694282127275339e-05,
+            "Malappuram": 1.430528430390146e-05,
+            "Palakkad": 6.008721229670493e-05,
+            "Pathanamthitta": 0.0004891570194032284,
+            "Thiruvananthapuram": 4.468360813752338e-05,
+            "Thrissur": 4.58653480743106e-05,
+            "Wayanad": 0.0006521739130434783
+        },
+        "months_below_target": {
+            "Alappuzha": 3,
+            "Ernakulam": 1,
+            "Idukki": 4,
+            "Kannur": 0,
+            "Kasaragod": 1,
+            "Kasargod": 7,
+            "Kollam": 1,
+            "Kottayam": 2,
+            "Kozhikode": 1,
+            "Malappuram": 1,
+            "Palakkad": 2,
+            "Pathanamthitta": 3,
+            "Thiruvananthapuram": 3,
+            "Thrissur": 3,
+            "Wayanad": 5
+        }
+    },
+    "matrix_anomalies": [
+        {
+            "district": "Alappuzha",
+            "month": "December",
+            "z_score": 0.2303689537005002,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Alappuzha",
+            "month": "January",
+            "z_score": -0.9024370582978268,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Alappuzha",
+            "month": "July",
+            "z_score": -1.3155780744383931,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Alappuzha",
+            "month": "June",
+            "z_score": 1.003342467769947,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Alappuzha",
+            "month": "November",
+            "z_score": 0.5502200629706161,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Alappuzha",
+            "month": "October",
+            "z_score": -0.7824928923215334,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Alappuzha",
+            "month": "September",
+            "z_score": 1.2165765406166908,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ernakulam",
+            "month": "December",
+            "z_score": -0.14969871638062066,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ernakulam",
+            "month": "January",
+            "z_score": -0.6951762308634301,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ernakulam",
+            "month": "July",
+            "z_score": -1.290895095364393,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ernakulam",
+            "month": "June",
+            "z_score": 0.27376409091524456,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ernakulam",
+            "month": "November",
+            "z_score": 1.5010884985015658,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ernakulam",
+            "month": "October",
+            "z_score": -0.6664668879959138,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Ernakulam",
+            "month": "September",
+            "z_score": 1.027384341187547,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Idukki",
+            "month": "December",
+            "z_score": -0.0723202470271003,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Idukki",
+            "month": "January",
+            "z_score": -0.6418421923655154,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Idukki",
+            "month": "July",
+            "z_score": -1.5910454345962073,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Idukki",
+            "month": "June",
+            "z_score": 0.5288418063856712,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Idukki",
+            "month": "November",
+            "z_score": 0.9085231032779479,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Idukki",
+            "month": "October",
+            "z_score": -0.452001543919377,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Idukki",
+            "month": "September",
+            "z_score": 1.319844508244581,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kannur",
+            "month": "December",
+            "z_score": -0.07905246568934866,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kannur",
+            "month": "January",
+            "z_score": -0.5498275971826334,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kannur",
+            "month": "July",
+            "z_score": -1.037121154342349,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kannur",
+            "month": "June",
+            "z_score": -0.06253404002291763,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kannur",
+            "month": "November",
+            "z_score": 1.6306045907862643,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kannur",
+            "month": "October",
+            "z_score": -0.9380106003437628,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kannur",
+            "month": "September",
+            "z_score": 1.0359412667947467,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kasaragod",
+            "month": "December",
+            "z_score": 0.8115572635808496,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kasaragod",
+            "month": "January",
+            "z_score": -0.6308095434069411,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kasaragod",
+            "month": "July",
+            "z_score": -1.491168691434746,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kasaragod",
+            "month": "June",
+            "z_score": 0.14098322173564865,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kasaragod",
+            "month": "November",
+            "z_score": 1.0139947101756273,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kasaragod",
+            "month": "October",
+            "z_score": -0.8332469900017186,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kasaragod",
+            "month": "September",
+            "z_score": 0.9886900293512799,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kasargod",
+            "month": "December",
+            "z_score": 0.41612518928823955,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kasargod",
+            "month": "January",
+            "z_score": -0.8946691569697148,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kasargod",
+            "month": "July",
+            "z_score": -1.4772444219732501,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kasargod",
+            "month": "June",
+            "z_score": 0.7074128217900072,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kasargod",
+            "month": "November",
+            "z_score": 1.2899880867935425,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kasargod",
+            "month": "October",
+            "z_score": -0.6033815244679471,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kasargod",
+            "month": "September",
+            "z_score": 0.5617690055391233,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kollam",
+            "month": "December",
+            "z_score": 0.3079407320673919,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kollam",
+            "month": "January",
+            "z_score": -0.6314197579546982,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kollam",
+            "month": "July",
+            "z_score": -1.481788201553643,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kollam",
+            "month": "June",
+            "z_score": 0.24861270111862832,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kollam",
+            "month": "November",
+            "z_score": 1.2670772324057367,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kollam",
+            "month": "October",
+            "z_score": -0.7500758198522254,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kollam",
+            "month": "September",
+            "z_score": 1.0396531137688094,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kottayam",
+            "month": "December",
+            "z_score": 0.7705132265410093,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kottayam",
+            "month": "January",
+            "z_score": -0.6249220645492489,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kottayam",
+            "month": "July",
+            "z_score": -1.4088744752741131,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kottayam",
+            "month": "June",
+            "z_score": 0.7861922747555067,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kottayam",
+            "month": "November",
+            "z_score": 0.3001417801060908,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kottayam",
+            "month": "October",
+            "z_score": -0.9855401734826865,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kottayam",
+            "month": "September",
+            "z_score": 1.1624894319034416,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kozhikode",
+            "month": "December",
+            "z_score": 0.3482060703803242,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kozhikode",
+            "month": "January",
+            "z_score": -0.8516495219828363,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kozhikode",
+            "month": "July",
+            "z_score": -1.462896710545201,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kozhikode",
+            "month": "June",
+            "z_score": 0.9896383052914477,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kozhikode",
+            "month": "November",
+            "z_score": 0.6349640106935324,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kozhikode",
+            "month": "October",
+            "z_score": -0.715816813413422,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kozhikode",
+            "month": "September",
+            "z_score": 1.057554659576155,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Malappuram",
+            "month": "December",
+            "z_score": 1.1055004977245817,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Malappuram",
+            "month": "January",
+            "z_score": -0.5889518780644155,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Malappuram",
+            "month": "July",
+            "z_score": -1.583686196886974,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Malappuram",
+            "month": "June",
+            "z_score": 0.7121454819164216,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Malappuram",
+            "month": "November",
+            "z_score": -0.12373392667591851,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Malappuram",
+            "month": "October",
+            "z_score": -0.5624760596927124,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Malappuram",
+            "month": "September",
+            "z_score": 1.041202081679017,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Palakkad",
+            "month": "December",
+            "z_score": 0.9545821339819733,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Palakkad",
+            "month": "January",
+            "z_score": -1.0531410782098105,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Palakkad",
+            "month": "July",
+            "z_score": -1.355462334099693,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Palakkad",
+            "month": "June",
+            "z_score": 0.6445090510179913,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Palakkad",
+            "month": "November",
+            "z_score": 0.2956768326835114,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Palakkad",
+            "month": "October",
+            "z_score": -0.6112869349861361,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Palakkad",
+            "month": "September",
+            "z_score": 1.1251223296121635,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pathanamthitta",
+            "month": "December",
+            "z_score": 0.5309353376726393,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pathanamthitta",
+            "month": "January",
+            "z_score": -0.796403006508959,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pathanamthitta",
+            "month": "July",
+            "z_score": -1.1282375925543586,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pathanamthitta",
+            "month": "June",
+            "z_score": 1.2609714269725185,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pathanamthitta",
+            "month": "November",
+            "z_score": 0.35395689178175954,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pathanamthitta",
+            "month": "October",
+            "z_score": -1.1282375925543586,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pathanamthitta",
+            "month": "September",
+            "z_score": 0.9070145351907589,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Thiruvananthapuram",
+            "month": "December",
+            "z_score": -0.058252640415365056,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Thiruvananthapuram",
+            "month": "January",
+            "z_score": -0.8002575847225554,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Thiruvananthapuram",
+            "month": "July",
+            "z_score": -1.0743314830702564,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Thiruvananthapuram",
+            "month": "June",
+            "z_score": 0.9778803899235043,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Thiruvananthapuram",
+            "month": "November",
+            "z_score": 0.8375010761356575,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Thiruvananthapuram",
+            "month": "October",
+            "z_score": -1.0676467538422636,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Thiruvananthapuram",
+            "month": "September",
+            "z_score": 1.1851069959912781,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Thrissur",
+            "month": "December",
+            "z_score": 0.0299927274112512,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Thrissur",
+            "month": "January",
+            "z_score": -0.8368938455074955,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Thrissur",
+            "month": "July",
+            "z_score": -1.0874782454918208,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Thrissur",
+            "month": "June",
+            "z_score": 1.0052401219448412,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Thrissur",
+            "month": "November",
+            "z_score": 0.5040713219761908,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Thrissur",
+            "month": "October",
+            "z_score": -0.9858899752279051,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Thrissur",
+            "month": "September",
+            "z_score": 1.3709578948949375,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Wayanad",
+            "month": "December",
+            "z_score": 0.0766380825232675,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Wayanad",
+            "month": "January",
+            "z_score": -0.766380825232675,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Wayanad",
+            "month": "July",
+            "z_score": -0.9962950728024775,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Wayanad",
+            "month": "June",
+            "z_score": 1.6093997329886176,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Wayanad",
+            "month": "November",
+            "z_score": 0.17882219255429083,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Wayanad",
+            "month": "October",
+            "z_score": -0.9962950728024775,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Wayanad",
+            "month": "September",
+            "z_score": 0.8941109627714542,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        }
+    ],
+    "policy_insights": null
+}

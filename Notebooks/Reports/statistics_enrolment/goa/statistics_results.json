@@ -1,0 +1,610 @@
+{
+    "district_summary": [
+        {
+            "district": "North Goa",
+            "total_updates": 1913,
+            "mean_daily_updates": 1.5414987912973408,
+            "median_daily_updates": 1.0,
+            "std_updates": 1.8850243457502391,
+            "days_active": 1241,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "South Goa",
+            "total_updates": 1398,
+            "mean_daily_updates": 1.5886363636363636,
+            "median_daily_updates": 1.0,
+            "std_updates": 1.0746252957758036,
+            "days_active": 880,
+            "performance_category": "Excellent",
+            "needs_intervention": false
+        },
+        {
+            "district": "Bardez",
+            "total_updates": 2,
+            "mean_daily_updates": 1.0,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.0,
+            "days_active": 2,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        }
+    ],
+    "monthly_district_summary": [
+        {
+            "district": "Bardez",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Bardez",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Goa",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 280,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Goa",
+            "month": "July",
+            "year_month": "2025-07",
+            "monthly_updates": 84,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.7,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Goa",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 575,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 5.845238095238095,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "North Goa",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 271,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.528695652173913,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Goa",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 395,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.4575645756457565,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Goa",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 229,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.42025316455696204,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North Goa",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 79,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.6550218340611353,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Goa",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 231,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Goa",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 420,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.8181818181818181,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Goa",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 191,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5452380952380953,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Goa",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 344,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 0.8010471204188481,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Goa",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 153,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": -0.5552325581395349,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Goa",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 59,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.6143790849673203,
+            "concerning_drop": true,
+            "sudden_spike": false
+        }
+    ],
+    "univariate_stats": {
+        "mean": {
+            "total_updates": 1104.3333333333333
+        },
+        "median": {
+            "total_updates": 1398.0
+        },
+        "variance": {
+            "total_updates": 977660.3333333333
+        },
+        "std_dev": {
+            "total_updates": 988.7670773915024
+        },
+        "iqr": {
+            "total_updates": 955.5
+        },
+        "mad": {
+            "total_updates": 515.0
+        },
+        "skewness": {
+            "total_updates": -1.2186181919683658
+        },
+        "excess_kurtosis": {
+            "total_updates": NaN
+        },
+        "min": {
+            "total_updates": 2.0
+        },
+        "max": {
+            "total_updates": 1913.0
+        },
+        "count": {
+            "total_updates": 3
+        },
+        "p10_bottom_10pct": {
+            "total_updates": 281.2
+        },
+        "q1_25th_percentile": {
+            "total_updates": 700.0
+        },
+        "q3_75th_percentile": {
+            "total_updates": 1655.5
+        },
+        "p90_top_10pct": {
+            "total_updates": 1810.0
+        },
+        "p95_top_5pct": {
+            "total_updates": 1861.5
+        },
+        "critical_count": {
+            "total_updates": 1
+        },
+        "critical_percentage": {
+            "total_updates": 33.33333333333333
+        },
+        "below_target_count": {
+            "total_updates": 0
+        },
+        "below_target_percentage": {
+            "total_updates": 0.0
+        },
+        "on_track_count": {
+            "total_updates": 0
+        },
+        "on_track_percentage": {
+            "total_updates": 0.0
+        },
+        "excellent_count": {
+            "total_updates": 2
+        },
+        "excellent_percentage": {
+            "total_updates": 66.66666666666666
+        },
+        "gini_coefficient": {
+            "total_updates": -0.05121239561324076
+        },
+        "inequality_interpretation": {
+            "total_updates": "LOW"
+        },
+        "top_10pct_contribution": {
+            "total_updates": 57.742227588288564
+        },
+        "bottom_50pct_contribution": {
+            "total_updates": 0.06036824630244491
+        },
+        "median_mean_gap": {
+            "total_updates": -293.66666666666674
+        },
+        "gap_interpretation": {
+            "total_updates": "Moderate inequality"
+        },
+        "districts_needing_intervention": {
+            "total_updates": 1
+        },
+        "intervention_percentage": {
+            "total_updates": 33.33333333333333
+        },
+        "estimated_training_cost_lakhs": {
+            "total_updates": 2.0
+        }
+    },
+    "change_point_detection": [
+        {
+            "month": "June",
+            "value": 511,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "July",
+            "value": 84,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "August",
+            "value": 0,
+            "posterior_mean": 198.33333333333334,
+            "posterior_std": 274.0152063906916,
+            "z_score": -0.7238041127197486,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "September",
+            "value": 996,
+            "posterior_mean": 360.0,
+            "posterior_std": 552.3911657512274,
+            "z_score": 1.1513580220550201,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "October",
+            "value": 462,
+            "posterior_mean": 486.0,
+            "posterior_std": 498.43354622256317,
+            "z_score": -0.0481508521685324,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "November",
+            "value": 740,
+            "posterior_mean": 732.6666666666666,
+            "posterior_std": 267.0755199065113,
+            "z_score": 0.027457901554962336,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "December",
+            "value": 382,
+            "posterior_mean": 528.0,
+            "posterior_std": 187.9042309262886,
+            "z_score": -0.776991551921325,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "January",
+            "value": 138,
+            "posterior_mean": 420.0,
+            "posterior_std": 302.7936591145858,
+            "z_score": -0.9313272966964051,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        }
+    ],
+    "matrix_stats": {
+        "row_sum_total_updates": {
+            "Bardez": 2,
+            "North Goa": 1913,
+            "South Goa": 1398
+        },
+        "row_mean_monthly_updates": {
+            "Bardez": 0.2857142857142857,
+            "North Goa": 273.2857142857143,
+            "South Goa": 199.71428571428572
+        },
+        "row_variance": {
+            "Bardez": 0.2380952380952381,
+            "North Goa": 30238.904761904763,
+            "South Goa": 22044.57142857143
+        },
+        "row_min": {
+            "Bardez": 0,
+            "North Goa": 79,
+            "South Goa": 0
+        },
+        "row_max": {
+            "Bardez": 1,
+            "North Goa": 575,
+            "South Goa": 420
+        },
+        "performance_category": {
+            "Bardez": "critical",
+            "North Goa": "below_target",
+            "South Goa": "below_target"
+        },
+        "needs_intervention": {
+            "Bardez": true,
+            "North Goa": true,
+            "South Goa": true
+        },
+        "consistency_score": {
+            "Bardez": 0.8076923076923077,
+            "North Goa": 3.306888721619809e-05,
+            "South Goa": 4.5360584244325065e-05
+        },
+        "months_below_target": {
+            "Bardez": 7,
+            "North Goa": 0,
+            "South Goa": 1
+        }
+    },
+    "matrix_anomalies": [
+        {
+            "district": "Bardez",
+            "month": "December",
+            "z_score": -0.5855400437691198,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Bardez",
+            "month": "January",
+            "z_score": -0.5855400437691198,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Bardez",
+            "month": "July",
+            "z_score": -0.5855400437691198,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Bardez",
+            "month": "June",
+            "z_score": -0.5855400437691198,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Bardez",
+            "month": "November",
+            "z_score": 1.4638501094227998,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Bardez",
+            "month": "October",
+            "z_score": -0.5855400437691198,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Bardez",
+            "month": "September",
+            "z_score": 1.4638501094227998,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Goa",
+            "month": "December",
+            "z_score": -0.25467166357729276,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Goa",
+            "month": "January",
+            "z_score": -1.1172692337584458,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Goa",
+            "month": "July",
+            "z_score": -1.088515981419074,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Goa",
+            "month": "June",
+            "z_score": 0.03861151028429928,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Goa",
+            "month": "November",
+            "z_score": 0.6999363140898499,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Goa",
+            "month": "October",
+            "z_score": -0.013144343926569903,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North Goa",
+            "month": "September",
+            "z_score": 1.7350533983072336,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Goa",
+            "month": "December",
+            "z_score": -0.31462909611198736,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Goa",
+            "month": "January",
+            "z_score": -0.9477359622945185,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Goa",
+            "month": "July",
+            "z_score": -1.3451115485154688,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Goa",
+            "month": "June",
+            "z_score": 0.21071489923096393,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Goa",
+            "month": "November",
+            "z_score": 0.971790174535496,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Goa",
+            "month": "October",
+            "z_score": -0.058692277867985455,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Goa",
+            "month": "September",
+            "z_score": 1.4836638110234999,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        }
+    ],
+    "policy_insights": null
+}

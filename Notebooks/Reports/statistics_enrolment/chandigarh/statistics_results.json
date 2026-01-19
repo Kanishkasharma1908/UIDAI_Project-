@@ -1,0 +1,431 @@
+{
+    "district_summary": [
+        {
+            "district": "Chandigarh",
+            "total_updates": 520,
+            "mean_daily_updates": 2.9545454545454546,
+            "median_daily_updates": 2.0,
+            "std_updates": 2.587482354541754,
+            "days_active": 176,
+            "performance_category": "On Track",
+            "needs_intervention": false
+        },
+        {
+            "district": "Rupnagar",
+            "total_updates": 1,
+            "mean_daily_updates": 1.0,
+            "median_daily_updates": 1.0,
+            "std_updates": NaN,
+            "days_active": 1,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        }
+    ],
+    "monthly_district_summary": [
+        {
+            "district": "Chandigarh",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 79,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Chandigarh",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 183,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.3164556962025316,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Chandigarh",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 25,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8633879781420765,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Chandigarh",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 110,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 3.4000000000000004,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Chandigarh",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 93,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": -0.15454545454545454,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Chandigarh",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 30,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.6774193548387097,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Rupnagar",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        }
+    ],
+    "univariate_stats": {
+        "mean": {
+            "total_updates": 260.5
+        },
+        "median": {
+            "total_updates": 260.5
+        },
+        "variance": {
+            "total_updates": 134680.5
+        },
+        "std_dev": {
+            "total_updates": 366.9884194358182
+        },
+        "iqr": {
+            "total_updates": 259.5
+        },
+        "mad": {
+            "total_updates": 259.5
+        },
+        "skewness": {
+            "total_updates": NaN
+        },
+        "excess_kurtosis": {
+            "total_updates": NaN
+        },
+        "min": {
+            "total_updates": 1.0
+        },
+        "max": {
+            "total_updates": 520.0
+        },
+        "count": {
+            "total_updates": 2
+        },
+        "p10_bottom_10pct": {
+            "total_updates": 52.900000000000006
+        },
+        "q1_25th_percentile": {
+            "total_updates": 130.75
+        },
+        "q3_75th_percentile": {
+            "total_updates": 390.25
+        },
+        "p90_top_10pct": {
+            "total_updates": 468.1
+        },
+        "p95_top_5pct": {
+            "total_updates": 494.04999999999995
+        },
+        "critical_count": {
+            "total_updates": 1
+        },
+        "critical_percentage": {
+            "total_updates": 50.0
+        },
+        "below_target_count": {
+            "total_updates": 0
+        },
+        "below_target_percentage": {
+            "total_updates": 0.0
+        },
+        "on_track_count": {
+            "total_updates": 1
+        },
+        "on_track_percentage": {
+            "total_updates": 50.0
+        },
+        "excellent_count": {
+            "total_updates": 0
+        },
+        "excellent_percentage": {
+            "total_updates": 0.0
+        },
+        "gini_coefficient": {
+            "total_updates": 0.0019193857965451588
+        },
+        "inequality_interpretation": {
+            "total_updates": "LOW"
+        },
+        "top_10pct_contribution": {
+            "total_updates": 99.80806142034548
+        },
+        "bottom_50pct_contribution": {
+            "total_updates": 0.19193857965451055
+        },
+        "median_mean_gap": {
+            "total_updates": 0.0
+        },
+        "gap_interpretation": {
+            "total_updates": "Moderate inequality"
+        },
+        "districts_needing_intervention": {
+            "total_updates": 1
+        },
+        "intervention_percentage": {
+            "total_updates": 50.0
+        },
+        "estimated_training_cost_lakhs": {
+            "total_updates": 2.0
+        }
+    },
+    "change_point_detection": [
+        {
+            "month": "June",
+            "value": 79,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "July",
+            "value": 0,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "August",
+            "value": 0,
+            "posterior_mean": 26.333333333333332,
+            "posterior_std": 45.610671265980436,
+            "z_score": -0.5773502691896257,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "September",
+            "value": 184,
+            "posterior_mean": 61.333333333333336,
+            "posterior_std": 106.23244953089113,
+            "z_score": 1.1547005383792515,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "October",
+            "value": 25,
+            "posterior_mean": 69.66666666666667,
+            "posterior_std": 99.80146959505822,
+            "z_score": -0.44755519981720177,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "November",
+            "value": 110,
+            "posterior_mean": 106.33333333333333,
+            "posterior_std": 79.56339191696978,
+            "z_score": 0.046084846036894785,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "December",
+            "value": 93,
+            "posterior_mean": 76.0,
+            "posterior_std": 44.97777228809801,
+            "z_score": 0.3779644730092275,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "January",
+            "value": 30,
+            "posterior_mean": 77.66666666666667,
+            "posterior_std": 42.14656965084265,
+            "z_score": -1.130973814987898,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        }
+    ],
+    "matrix_stats": {
+        "row_sum_total_updates": {
+            "Chandigarh": 520,
+            "Rupnagar": 1
+        },
+        "row_mean_monthly_updates": {
+            "Chandigarh": 86.66666666666667,
+            "Rupnagar": 0.16666666666666666
+        },
+        "row_variance": {
+            "Chandigarh": 3387.4666666666662,
+            "Rupnagar": 0.16666666666666669
+        },
+        "row_min": {
+            "Chandigarh": 25,
+            "Rupnagar": 0
+        },
+        "row_max": {
+            "Chandigarh": 183,
+            "Rupnagar": 1
+        },
+        "performance_category": {
+            "Chandigarh": "critical",
+            "Rupnagar": "critical"
+        },
+        "needs_intervention": {
+            "Chandigarh": true,
+            "Rupnagar": true
+        },
+        "consistency_score": {
+            "Chandigarh": 0.0002951187361048262,
+            "Rupnagar": 0.8571428571428571
+        },
+        "months_below_target": {
+            "Chandigarh": 2,
+            "Rupnagar": 6
+        }
+    },
+    "matrix_anomalies": [
+        {
+            "district": "Chandigarh",
+            "month": "December",
+            "z_score": 0.10881651954612828,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Chandigarh",
+            "month": "January",
+            "z_score": -0.9736214906758854,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Chandigarh",
+            "month": "June",
+            "z_score": -0.1317252605032081,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Chandigarh",
+            "month": "November",
+            "z_score": 0.4009029667488939,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Chandigarh",
+            "month": "October",
+            "z_score": -1.059529269264934,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Chandigarh",
+            "month": "September",
+            "z_score": 1.655156534149005,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rupnagar",
+            "month": "December",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rupnagar",
+            "month": "January",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rupnagar",
+            "month": "June",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rupnagar",
+            "month": "November",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rupnagar",
+            "month": "October",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Rupnagar",
+            "month": "September",
+            "z_score": 2.041241452319315,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        }
+    ],
+    "policy_insights": null
+}

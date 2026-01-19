@@ -1,0 +1,610 @@
+{
+    "district_summary": [
+        {
+            "district": "South Andaman",
+            "total_updates": 44,
+            "mean_daily_updates": 1.2222222222222223,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.4216370213557839,
+            "days_active": 36,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "North And Middle Andaman",
+            "total_updates": 32,
+            "mean_daily_updates": 1.5238095238095237,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.8135752957807666,
+            "days_active": 21,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Andamans",
+            "total_updates": 15,
+            "mean_daily_updates": 1.0714285714285714,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.2672612419124244,
+            "days_active": 14,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Nicobar",
+            "total_updates": 10,
+            "mean_daily_updates": 2.0,
+            "median_daily_updates": 2.0,
+            "std_updates": 1.224744871391589,
+            "days_active": 5,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        }
+    ],
+    "monthly_district_summary": [
+        {
+            "district": "Andamans",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 3,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Andamans",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 5,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.6666666666666667,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Andamans",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Andamans",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 1.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Andamans",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 4,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 1.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Nicobar",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Nicobar",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 9,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 8.0,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "North And Middle Andaman",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 12,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North And Middle Andaman",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 12,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "North And Middle Andaman",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9166666666666666,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "North And Middle Andaman",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 7,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 6.0,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "South Andaman",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 17,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Andaman",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 21,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.23529411764705888,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Andaman",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 3,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8571428571428572,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "South Andaman",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 3,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        }
+    ],
+    "univariate_stats": {
+        "mean": {
+            "total_updates": 25.25
+        },
+        "median": {
+            "total_updates": 23.5
+        },
+        "variance": {
+            "total_updates": 244.91666666666666
+        },
+        "std_dev": {
+            "total_updates": 15.649813630413195
+        },
+        "iqr": {
+            "total_updates": 21.25
+        },
+        "mad": {
+            "total_updates": 11.0
+        },
+        "skewness": {
+            "total_updates": 0.3958490765361832
+        },
+        "excess_kurtosis": {
+            "total_updates": -2.8974489914643
+        },
+        "min": {
+            "total_updates": 10.0
+        },
+        "max": {
+            "total_updates": 44.0
+        },
+        "count": {
+            "total_updates": 4
+        },
+        "p10_bottom_10pct": {
+            "total_updates": 11.5
+        },
+        "q1_25th_percentile": {
+            "total_updates": 13.75
+        },
+        "q3_75th_percentile": {
+            "total_updates": 35.0
+        },
+        "p90_top_10pct": {
+            "total_updates": 40.400000000000006
+        },
+        "p95_top_5pct": {
+            "total_updates": 42.199999999999996
+        },
+        "critical_count": {
+            "total_updates": 4
+        },
+        "critical_percentage": {
+            "total_updates": 100.0
+        },
+        "below_target_count": {
+            "total_updates": 0
+        },
+        "below_target_percentage": {
+            "total_updates": 0.0
+        },
+        "on_track_count": {
+            "total_updates": 0
+        },
+        "on_track_percentage": {
+            "total_updates": 0.0
+        },
+        "excellent_count": {
+            "total_updates": 0
+        },
+        "excellent_percentage": {
+            "total_updates": 0.0
+        },
+        "gini_coefficient": {
+            "total_updates": -0.044554455445544594
+        },
+        "inequality_interpretation": {
+            "total_updates": "LOW"
+        },
+        "top_10pct_contribution": {
+            "total_updates": 43.56435643564357
+        },
+        "bottom_50pct_contribution": {
+            "total_updates": 24.752475247524753
+        },
+        "median_mean_gap": {
+            "total_updates": 1.75
+        },
+        "gap_interpretation": {
+            "total_updates": "Moderate inequality"
+        },
+        "districts_needing_intervention": {
+            "total_updates": 4
+        },
+        "intervention_percentage": {
+            "total_updates": 100.0
+        },
+        "estimated_training_cost_lakhs": {
+            "total_updates": 8.0
+        }
+    },
+    "change_point_detection": [
+        {
+            "month": "June",
+            "value": 33,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "July",
+            "value": 0,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "August",
+            "value": 0,
+            "posterior_mean": 11.0,
+            "posterior_std": 19.05255888325765,
+            "z_score": -0.5773502691896257,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "September",
+            "value": 47,
+            "posterior_mean": 15.666666666666666,
+            "posterior_std": 27.135462651912412,
+            "z_score": 1.1547005383792515,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "October",
+            "value": 1,
+            "posterior_mean": 16.0,
+            "posterior_std": 26.851443164195103,
+            "z_score": -0.558629192042894,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "November",
+            "value": 6,
+            "posterior_mean": 18.0,
+            "posterior_std": 25.238858928247925,
+            "z_score": -0.4754573110501964,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "December",
+            "value": 14,
+            "posterior_mean": 7.0,
+            "posterior_std": 6.557438524302,
+            "z_score": 1.0674899923282326,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        }
+    ],
+    "matrix_stats": {
+        "row_sum_total_updates": {
+            "Andamans": 15,
+            "Nicobar": 10,
+            "North And Middle Andaman": 32,
+            "South Andaman": 44
+        },
+        "row_mean_monthly_updates": {
+            "Andamans": 3.0,
+            "Nicobar": 2.0,
+            "North And Middle Andaman": 6.4,
+            "South Andaman": 8.8
+        },
+        "row_variance": {
+            "Andamans": 2.5,
+            "Nicobar": 15.5,
+            "North And Middle Andaman": 33.3,
+            "South Andaman": 90.2
+        },
+        "row_min": {
+            "Andamans": 1,
+            "Nicobar": 0,
+            "North And Middle Andaman": 0,
+            "South Andaman": 0
+        },
+        "row_max": {
+            "Andamans": 5,
+            "Nicobar": 9,
+            "North And Middle Andaman": 12,
+            "South Andaman": 21
+        },
+        "performance_category": {
+            "Andamans": "critical",
+            "Nicobar": "critical",
+            "North And Middle Andaman": "critical",
+            "South Andaman": "critical"
+        },
+        "needs_intervention": {
+            "Andamans": true,
+            "Nicobar": true,
+            "North And Middle Andaman": true,
+            "South Andaman": true
+        },
+        "consistency_score": {
+            "Andamans": 0.2857142857142857,
+            "Nicobar": 0.06060606060606061,
+            "North And Middle Andaman": 0.02915451895043732,
+            "South Andaman": 0.010964912280701754
+        },
+        "months_below_target": {
+            "Andamans": 5,
+            "Nicobar": 5,
+            "North And Middle Andaman": 5,
+            "South Andaman": 5
+        }
+    },
+    "matrix_anomalies": [
+        {
+            "district": "Andamans",
+            "month": "December",
+            "z_score": 0.6324555320336759,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Andamans",
+            "month": "June",
+            "z_score": 0.0,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Andamans",
+            "month": "November",
+            "z_score": -0.6324555320336759,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Andamans",
+            "month": "October",
+            "z_score": -1.2649110640673518,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Andamans",
+            "month": "September",
+            "z_score": 1.2649110640673518,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Nicobar",
+            "month": "December",
+            "z_score": -0.508000508000762,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Nicobar",
+            "month": "June",
+            "z_score": -0.254000254000381,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Nicobar",
+            "month": "November",
+            "z_score": -0.508000508000762,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Nicobar",
+            "month": "October",
+            "z_score": -0.508000508000762,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Nicobar",
+            "month": "September",
+            "z_score": 1.778001778002667,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North And Middle Andaman",
+            "month": "December",
+            "z_score": 0.10397504898200721,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North And Middle Andaman",
+            "month": "June",
+            "z_score": 0.9704337904987346,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North And Middle Andaman",
+            "month": "November",
+            "z_score": -0.9357754408380655,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North And Middle Andaman",
+            "month": "October",
+            "z_score": -1.109067189141411,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "North And Middle Andaman",
+            "month": "September",
+            "z_score": 0.9704337904987346,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Andaman",
+            "month": "December",
+            "z_score": -0.610695506956859,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Andaman",
+            "month": "June",
+            "z_score": 0.8633970960424556,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Andaman",
+            "month": "November",
+            "z_score": -0.610695506956859,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Andaman",
+            "month": "October",
+            "z_score": -0.926572493313855,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "South Andaman",
+            "month": "September",
+            "z_score": 1.284566411185117,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        }
+    ],
+    "policy_insights": null
+}

@@ -1,0 +1,334 @@
+{
+    "district_summary": [
+        {
+            "district": "Lakshadweep",
+            "total_updates": 29,
+            "mean_daily_updates": 1.45,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.6863327411532597,
+            "days_active": 20,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        }
+    ],
+    "monthly_district_summary": [
+        {
+            "district": "Lakshadweep",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 3,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lakshadweep",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 10,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 2.3333333333333335,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Lakshadweep",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 11,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.10000000000000009,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lakshadweep",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8181818181818181,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lakshadweep",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 3,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.5,
+            "concerning_drop": false,
+            "sudden_spike": false
+        }
+    ],
+    "univariate_stats": {
+        "mean": {
+            "total_updates": 29.0
+        },
+        "median": {
+            "total_updates": 29.0
+        },
+        "variance": {
+            "total_updates": NaN
+        },
+        "std_dev": {
+            "total_updates": NaN
+        },
+        "iqr": {
+            "total_updates": 0.0
+        },
+        "mad": {
+            "total_updates": 0.0
+        },
+        "skewness": {
+            "total_updates": NaN
+        },
+        "excess_kurtosis": {
+            "total_updates": NaN
+        },
+        "min": {
+            "total_updates": 29.0
+        },
+        "max": {
+            "total_updates": 29.0
+        },
+        "count": {
+            "total_updates": 1
+        },
+        "p10_bottom_10pct": {
+            "total_updates": 29.0
+        },
+        "q1_25th_percentile": {
+            "total_updates": 29.0
+        },
+        "q3_75th_percentile": {
+            "total_updates": 29.0
+        },
+        "p90_top_10pct": {
+            "total_updates": 29.0
+        },
+        "p95_top_5pct": {
+            "total_updates": 29.0
+        },
+        "critical_count": {
+            "total_updates": 1
+        },
+        "critical_percentage": {
+            "total_updates": 100.0
+        },
+        "below_target_count": {
+            "total_updates": 0
+        },
+        "below_target_percentage": {
+            "total_updates": 0.0
+        },
+        "on_track_count": {
+            "total_updates": 0
+        },
+        "on_track_percentage": {
+            "total_updates": 0.0
+        },
+        "excellent_count": {
+            "total_updates": 0
+        },
+        "excellent_percentage": {
+            "total_updates": 0.0
+        },
+        "gini_coefficient": {
+            "total_updates": 1.0
+        },
+        "inequality_interpretation": {
+            "total_updates": "HIGH"
+        },
+        "top_10pct_contribution": {
+            "total_updates": 100.0
+        },
+        "bottom_50pct_contribution": {
+            "total_updates": 0.0
+        },
+        "median_mean_gap": {
+            "total_updates": 0.0
+        },
+        "gap_interpretation": {
+            "total_updates": "Moderate inequality"
+        },
+        "districts_needing_intervention": {
+            "total_updates": 1
+        },
+        "intervention_percentage": {
+            "total_updates": 100.0
+        },
+        "estimated_training_cost_lakhs": {
+            "total_updates": 2.0
+        }
+    },
+    "change_point_detection": [
+        {
+            "month": "June",
+            "value": 3,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "July",
+            "value": 0,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "August",
+            "value": 0,
+            "posterior_mean": 1.0,
+            "posterior_std": 1.7320508075688772,
+            "z_score": -0.5773502691896258,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "September",
+            "value": 10,
+            "posterior_mean": 3.3333333333333335,
+            "posterior_std": 5.773502691896257,
+            "z_score": 1.1547005383792515,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "October",
+            "value": 0,
+            "posterior_mean": 3.3333333333333335,
+            "posterior_std": 5.773502691896257,
+            "z_score": -0.5773502691896258,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "November",
+            "value": 11,
+            "posterior_mean": 7.0,
+            "posterior_std": 6.082762530298219,
+            "z_score": 0.6575959492214292,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "December",
+            "value": 2,
+            "posterior_mean": 4.333333333333333,
+            "posterior_std": 5.8594652770823155,
+            "z_score": -0.39821608679200193,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "January",
+            "value": 3,
+            "posterior_mean": 5.333333333333333,
+            "posterior_std": 4.932882862316248,
+            "z_score": -0.47301616487964004,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        }
+    ],
+    "matrix_stats": {
+        "row_sum_total_updates": {
+            "Lakshadweep": 29
+        },
+        "row_mean_monthly_updates": {
+            "Lakshadweep": 5.8
+        },
+        "row_variance": {
+            "Lakshadweep": 18.7
+        },
+        "row_min": {
+            "Lakshadweep": 2
+        },
+        "row_max": {
+            "Lakshadweep": 11
+        },
+        "performance_category": {
+            "Lakshadweep": "critical"
+        },
+        "needs_intervention": {
+            "Lakshadweep": true
+        },
+        "consistency_score": {
+            "Lakshadweep": 0.050761421319796954
+        },
+        "months_below_target": {
+            "Lakshadweep": 5
+        }
+    },
+    "matrix_anomalies": [
+        {
+            "district": "Lakshadweep",
+            "month": "December",
+            "z_score": -0.8787448511194724,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lakshadweep",
+            "month": "January",
+            "z_score": -0.6474962060880323,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lakshadweep",
+            "month": "June",
+            "z_score": -0.6474962060880323,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lakshadweep",
+            "month": "November",
+            "z_score": 1.2024929541634888,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lakshadweep",
+            "month": "September",
+            "z_score": 0.9712443091320486,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        }
+    ],
+    "policy_insights": null
+}

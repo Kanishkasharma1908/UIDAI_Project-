@@ -1,5 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import gc
 import seaborn as sns
 from pathlib import Path
 from config.api_config import RAW_DATA_DIR  # Assuming this points to Data/Raw/
@@ -9,29 +10,20 @@ from utils.state_mapper import normalize_state_name
 sns.set(style="whitegrid")
 
 def feature_engineering(df: pd.DataFrame) -> pd.DataFrame:
-    """
-    Performs feature engineering on the DataFrame.
-    - Creates 'total_updates' as sum of age group updates (int32).
-    - Converts 'date' to datetime, drops invalid dates.
-    - Extracts 'month_number' (int8) and 'month_name' (string).
-    """
-    # Sum age group updates into total_updates (optimize to int32)
+    # Sum age group updates into total_updates
     df['total_updates'] = (
-        df['age_0_5'] + 
-        df['age_5_17'] + 
-        df['age_18_greater']
+        df['demo_age_0_5'] + 
+        df['demo_age_5_17'] 
     ).astype('int32')
     
-    # Convert date to datetime, coercing errors to NaT
-    df['date'] = pd.to_datetime(df['date'], errors='coerce')
+    # FIX: Added dayfirst=True to correctly parse DD-MM-YYYY and silence warning
+    df['date'] = pd.to_datetime(df['date'], dayfirst=True, errors='coerce')
     
-    # Drop rows where date is NaT (invalid dates)
-    df = df.dropna(subset=['date'])
+    # Drop rows where date is NaT
+    df = df.dropna(subset=['date']).copy()
     
-    # Extract month number (int8 for efficiency, 1-12) - now safe since NaT are dropped
+    # Extract month data
     df['month_number'] = df['date'].dt.month.astype('int8')
-    
-    # Extract month name
     df['month_name'] = df['date'].dt.month_name()
     
     return df
@@ -44,7 +36,7 @@ def perform_eda_and_plots(df: pd.DataFrame, state: str, output_dir: Path) -> str
     
     # Aggregate data for plots
     monthly_total = df.groupby('month_name')['total_updates'].sum().reset_index()
-    monthly_age_groups = df.groupby('month_name')[['age_0_5', 'age_5_17', 'age_18_greater']].sum().reset_index()
+    monthly_age_groups = df.groupby('month_name')[['demo_age_0_5', 'demo_age_5_17']].sum().reset_index()
     district_total = df.groupby('district')['total_updates'].sum().reset_index().sort_values('total_updates', ascending=False).head(20)  # Top 20 districts
     
     # Plot 1: Month name vs. total_updates (Bar plot)
@@ -82,28 +74,40 @@ def perform_eda_and_plots(df: pd.DataFrame, state: str, output_dir: Path) -> str
 from config.api_config import RAW_DATA_DIR, PROCESSED_DATA_DIR, EDA_PLOTS_DIR  # Add these to your config
 
 def process_state_eda(state: str) -> str:
-    """
-    Full EDA pipeline for a single state: Load raw CSV, feature engineer, perform EDA/plots, save processed CSV.
-    Saves to project directory (not notebook directory). Returns a text summary.
-    Assumes enrolment dataset; adapt for others if needed.
-    """
     normalized_state = normalize_state_name(state)
-    raw_path = RAW_DATA_DIR / "enrolment" / f"{normalized_state}.csv"  # From config, e.g., Data/Raw/enrolment/
-    processed_dir = PROCESSED_DATA_DIR / "enrolment"  # e.g., Data/Processed/enrolment/
+    raw_path = RAW_DATA_DIR / "demographic" / f"{normalized_state}.csv"
+    processed_dir = PROCESSED_DATA_DIR / "demographic"
     processed_dir.mkdir(parents=True, exist_ok=True)
-    plots_dir = EDA_PLOTS_DIR / normalized_state  # e.g., Reports/EDA_Plots/{normalized_state}/
+    plots_dir = EDA_PLOTS_DIR / normalized_state
     plots_dir.mkdir(parents=True, exist_ok=True)
     
-    # Load raw CSV
-    df = pd.read_csv(raw_path)
-    
-    # Feature engineering
-    df = feature_engineering(df)
-    
-    # Save processed CSV
-    processed_path = processed_dir / f"{normalized_state}.csv"
-    df.to_csv(processed_path, index=False)
-    
-    # Free memory
-    del df
+    try:
+        # Load raw CSV
+        df = pd.read_csv(raw_path)
+        
+        if df.empty:
+            return f" Warning: {state} dataset is empty."
+
+        # Feature engineering
+        df = feature_engineering(df)
+        
+        # Save processed CSV
+        processed_path = processed_dir / f"{normalized_state}.csv"
+        df.to_csv(processed_path, index=False)
+        
+        # Perform EDA and generate plots
+        # Ensure perform_eda_and_plots returns a string summary!
+        summary = perform_eda_and_plots(df, state, plots_dir)
+        
+        # Cleanup
+        del df
+        gc.collect()
+        
+        # FIX: Ensure a string is returned to avoid TypeError in the loop
+        if not summary:
+            summary = f"EDA completed for {state}. Plots saved to {plots_dir}."
+        return summary
+
+    except Exception as e:
+        return f" Error processing {state}: {str(e)}"
     

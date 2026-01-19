@@ -1,0 +1,2730 @@
+{
+    "district_summary": [
+        {
+            "district": "Changlang",
+            "total_updates": 187,
+            "mean_daily_updates": 5.84375,
+            "median_daily_updates": 4.0,
+            "std_updates": 6.797102679723889,
+            "days_active": 32,
+            "performance_category": "Below Target",
+            "needs_intervention": true
+        },
+        {
+            "district": "Longding",
+            "total_updates": 103,
+            "mean_daily_updates": 7.357142857142857,
+            "median_daily_updates": 3.5,
+            "std_updates": 7.333874438911146,
+            "days_active": 14,
+            "performance_category": "Below Target",
+            "needs_intervention": true
+        },
+        {
+            "district": "Papum Pare",
+            "total_updates": 66,
+            "mean_daily_updates": 2.129032258064516,
+            "median_daily_updates": 2.0,
+            "std_updates": 1.499820777823603,
+            "days_active": 31,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "East Siang",
+            "total_updates": 55,
+            "mean_daily_updates": 3.0555555555555554,
+            "median_daily_updates": 2.5,
+            "std_updates": 1.5519332240873458,
+            "days_active": 18,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Upper Subansiri",
+            "total_updates": 55,
+            "mean_daily_updates": 4.583333333333333,
+            "median_daily_updates": 4.5,
+            "std_updates": 3.0587678248047214,
+            "days_active": 12,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Lower Dibang Valley",
+            "total_updates": 41,
+            "mean_daily_updates": 2.5625,
+            "median_daily_updates": 2.0,
+            "std_updates": 1.631716887208072,
+            "days_active": 16,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Lohit",
+            "total_updates": 40,
+            "mean_daily_updates": 2.3529411764705883,
+            "median_daily_updates": 2.0,
+            "std_updates": 3.31551610745952,
+            "days_active": 17,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "West Kameng",
+            "total_updates": 38,
+            "mean_daily_updates": 1.4615384615384615,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.9046886417224097,
+            "days_active": 26,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Namsai",
+            "total_updates": 37,
+            "mean_daily_updates": 1.608695652173913,
+            "median_daily_updates": 1.0,
+            "std_updates": 1.3052039351200886,
+            "days_active": 23,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Lower Subansiri",
+            "total_updates": 37,
+            "mean_daily_updates": 2.466666666666667,
+            "median_daily_updates": 2.0,
+            "std_updates": 1.4573295865416045,
+            "days_active": 15,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "East Kameng",
+            "total_updates": 25,
+            "mean_daily_updates": 3.125,
+            "median_daily_updates": 3.0,
+            "std_updates": 2.6423744732991303,
+            "days_active": 8,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Tawang",
+            "total_updates": 24,
+            "mean_daily_updates": 1.5,
+            "median_daily_updates": 1.0,
+            "std_updates": 1.0327955589886444,
+            "days_active": 16,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "West Siang",
+            "total_updates": 23,
+            "mean_daily_updates": 1.6428571428571428,
+            "median_daily_updates": 1.0,
+            "std_updates": 1.0082080720186268,
+            "days_active": 14,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Kurung Kumey",
+            "total_updates": 21,
+            "mean_daily_updates": 2.1,
+            "median_daily_updates": 2.0,
+            "std_updates": 1.1972189997378648,
+            "days_active": 10,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Kra Daadi",
+            "total_updates": 19,
+            "mean_daily_updates": 2.7142857142857144,
+            "median_daily_updates": 2.0,
+            "std_updates": 1.7043362064926932,
+            "days_active": 7,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Siang",
+            "total_updates": 11,
+            "mean_daily_updates": 2.2,
+            "median_daily_updates": 1.0,
+            "std_updates": 2.6832815729997477,
+            "days_active": 5,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Kamle",
+            "total_updates": 9,
+            "mean_daily_updates": 1.5,
+            "median_daily_updates": 1.0,
+            "std_updates": 1.224744871391589,
+            "days_active": 6,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Shi-yomi",
+            "total_updates": 6,
+            "mean_daily_updates": 1.0,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.0,
+            "days_active": 6,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Lower Siang",
+            "total_updates": 4,
+            "mean_daily_updates": 1.3333333333333333,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.5773502691896258,
+            "days_active": 3,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Anjaw",
+            "total_updates": 4,
+            "mean_daily_updates": 4.0,
+            "median_daily_updates": 4.0,
+            "std_updates": NaN,
+            "days_active": 1,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Tirap",
+            "total_updates": 3,
+            "mean_daily_updates": 1.5,
+            "median_daily_updates": 1.5,
+            "std_updates": 0.7071067811865476,
+            "days_active": 2,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Dibang Valley",
+            "total_updates": 1,
+            "mean_daily_updates": 1.0,
+            "median_daily_updates": 1.0,
+            "std_updates": NaN,
+            "days_active": 1,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Pakke Kessang",
+            "total_updates": 1,
+            "mean_daily_updates": 1.0,
+            "median_daily_updates": 1.0,
+            "std_updates": NaN,
+            "days_active": 1,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Upper Siang",
+            "total_updates": 1,
+            "mean_daily_updates": 1.0,
+            "median_daily_updates": 1.0,
+            "std_updates": NaN,
+            "days_active": 1,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        }
+    ],
+    "monthly_district_summary": [
+        {
+            "district": "Anjaw",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 4,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Changlang",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 47,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Changlang",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 123,
+            "meets_target": true,
+            "critical": false,
+            "pct_change": 1.6170212765957448,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Changlang",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 9,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.926829268292683,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Changlang",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 8,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.11111111111111116,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Dibang Valley",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Kameng",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 23,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Kameng",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9565217391304348,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Kameng",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Siang",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 24,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Siang",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 4,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8333333333333334,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Siang",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 5,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.25,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "East Siang",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 18,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 2.6,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "East Siang",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 4,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7777777777777778,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kamle",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 6,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kamle",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.6666666666666667,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kamle",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kra Daadi",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 10,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kra Daadi",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 3,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kra Daadi",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 5,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.6666666666666667,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kra Daadi",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kurung Kumey",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 6,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kurung Kumey",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 6,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kurung Kumey",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 9,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.5,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lohit",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 5,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lohit",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 10,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 1.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lohit",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 3,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lohit",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.33333333333333337,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lohit",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 19,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 8.5,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Lohit",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9473684210526316,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Longding",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Longding",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 81,
+            "meets_target": true,
+            "critical": true,
+            "pct_change": 39.5,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Longding",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 16,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8024691358024691,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Longding",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 4,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.75,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lower Dibang Valley",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 9,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lower Dibang Valley",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 15,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.6666666666666667,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lower Dibang Valley",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8666666666666667,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lower Dibang Valley",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 5,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 1.5,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Lower Dibang Valley",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 10,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 1.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lower Siang",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lower Siang",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lower Subansiri",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 22,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lower Subansiri",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 10,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5454545454545454,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lower Subansiri",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lower Subansiri",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Lower Subansiri",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Namsai",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 8,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Namsai",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 16,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 1.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Namsai",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9375,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Namsai",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 11,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 10.0,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Namsai",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9090909090909091,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Pakke Kessang",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Papum Pare",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 22,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Papum Pare",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 24,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.09090909090909083,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Papum Pare",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 19,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.20833333333333337,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Papum Pare",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.9473684210526316,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Shi-yomi",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Shi-yomi",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Shi-yomi",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 1.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Shi-yomi",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Siang",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 9,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Siang",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.7777777777777778,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Tawang",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 9,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Tawang",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 7,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.2222222222222222,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Tawang",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 6,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.1428571428571429,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Tawang",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.6666666666666667,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Tirap",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 3,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Upper Siang",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Upper Subansiri",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 32,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Upper Subansiri",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 4,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.875,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Upper Subansiri",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.5,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Upper Subansiri",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 9,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 3.5,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Upper Subansiri",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 8,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.11111111111111116,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Kameng",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 5,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Kameng",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 21,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 3.2,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "West Kameng",
+            "month": "October",
+            "year_month": "2025-10",
+            "monthly_updates": 4,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8095238095238095,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Kameng",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 4,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Kameng",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 4,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Siang",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Siang",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 17,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 7.5,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "West Siang",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8823529411764706,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "West Siang",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 0.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        }
+    ],
+    "univariate_stats": {
+        "mean": {
+            "total_updates": 33.791666666666664
+        },
+        "median": {
+            "total_updates": 23.5
+        },
+        "variance": {
+            "total_updates": 1689.3894927536232
+        },
+        "std_dev": {
+            "total_updates": 41.10218355213775
+        },
+        "iqr": {
+            "total_updates": 34.75
+        },
+        "mad": {
+            "total_updates": 17.5
+        },
+        "skewness": {
+            "total_updates": 2.552200432969519
+        },
+        "excess_kurtosis": {
+            "total_updates": 8.093087150824706
+        },
+        "min": {
+            "total_updates": 1.0
+        },
+        "max": {
+            "total_updates": 187.0
+        },
+        "count": {
+            "total_updates": 24
+        },
+        "p10_bottom_10pct": {
+            "total_updates": 1.6000000000000005
+        },
+        "q1_25th_percentile": {
+            "total_updates": 5.5
+        },
+        "q3_75th_percentile": {
+            "total_updates": 40.25
+        },
+        "p90_top_10pct": {
+            "total_updates": 62.69999999999999
+        },
+        "p95_top_5pct": {
+            "total_updates": 97.44999999999992
+        },
+        "critical_count": {
+            "total_updates": 22
+        },
+        "critical_percentage": {
+            "total_updates": 91.66666666666666
+        },
+        "below_target_count": {
+            "total_updates": 2
+        },
+        "below_target_percentage": {
+            "total_updates": 8.333333333333332
+        },
+        "on_track_count": {
+            "total_updates": 0
+        },
+        "on_track_percentage": {
+            "total_updates": 0.0
+        },
+        "excellent_count": {
+            "total_updates": 0
+        },
+        "excellent_percentage": {
+            "total_updates": 0.0
+        },
+        "gini_coefficient": {
+            "total_updates": -0.5083230579531443
+        },
+        "inequality_interpretation": {
+            "total_updates": "LOW"
+        },
+        "top_10pct_contribution": {
+            "total_updates": 35.75832305795315
+        },
+        "bottom_50pct_contribution": {
+            "total_updates": 12.700369913686806
+        },
+        "median_mean_gap": {
+            "total_updates": 10.291666666666664
+        },
+        "gap_interpretation": {
+            "total_updates": "Moderate inequality"
+        },
+        "districts_needing_intervention": {
+            "total_updates": 24
+        },
+        "intervention_percentage": {
+            "total_updates": 100.0
+        },
+        "estimated_training_cost_lakhs": {
+            "total_updates": 48.0
+        }
+    },
+    "change_point_detection": [
+        {
+            "month": "June",
+            "value": 197,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "July",
+            "value": 0,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "August",
+            "value": 0,
+            "posterior_mean": 65.66666666666667,
+            "posterior_std": 113.73800303035627,
+            "z_score": -0.5773502691896258,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "September",
+            "value": 389,
+            "posterior_mean": 129.66666666666666,
+            "posterior_std": 224.58925471476445,
+            "z_score": 1.1547005383792515,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "October",
+            "value": 21,
+            "posterior_mean": 136.66666666666666,
+            "posterior_std": 218.77918852883002,
+            "z_score": -0.5286913597424943,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "November",
+            "value": 128,
+            "posterior_mean": 179.33333333333334,
+            "posterior_std": 189.29430348886186,
+            "z_score": -0.27118266311882866,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "December",
+            "value": 72,
+            "posterior_mean": 73.66666666666667,
+            "posterior_std": 53.51946686331363,
+            "z_score": -0.031141316689930133,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "January",
+            "value": 4,
+            "posterior_mean": 68.0,
+            "posterior_std": 62.096698785040026,
+            "z_score": -1.0306506022413304,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        }
+    ],
+    "matrix_stats": {
+        "row_sum_total_updates": {
+            "Anjaw": 4,
+            "Changlang": 187,
+            "Dibang Valley": 1,
+            "East Kameng": 25,
+            "East Siang": 55,
+            "Kamle": 9,
+            "Kra Daadi": 19,
+            "Kurung Kumey": 21,
+            "Lohit": 40,
+            "Longding": 103,
+            "Lower Dibang Valley": 41,
+            "Lower Siang": 4,
+            "Lower Subansiri": 37,
+            "Namsai": 37,
+            "Pakke Kessang": 1,
+            "Papum Pare": 66,
+            "Shi-yomi": 6,
+            "Siang": 11,
+            "Tawang": 24,
+            "Tirap": 3,
+            "Upper Siang": 1,
+            "Upper Subansiri": 55,
+            "West Kameng": 38,
+            "West Siang": 23
+        },
+        "row_mean_monthly_updates": {
+            "Anjaw": 0.6666666666666666,
+            "Changlang": 31.166666666666668,
+            "Dibang Valley": 0.16666666666666666,
+            "East Kameng": 4.166666666666667,
+            "East Siang": 9.166666666666666,
+            "Kamle": 1.5,
+            "Kra Daadi": 3.1666666666666665,
+            "Kurung Kumey": 3.5,
+            "Lohit": 6.666666666666667,
+            "Longding": 17.166666666666668,
+            "Lower Dibang Valley": 6.833333333333333,
+            "Lower Siang": 0.6666666666666666,
+            "Lower Subansiri": 6.166666666666667,
+            "Namsai": 6.166666666666667,
+            "Pakke Kessang": 0.16666666666666666,
+            "Papum Pare": 11.0,
+            "Shi-yomi": 1.0,
+            "Siang": 1.8333333333333333,
+            "Tawang": 4.0,
+            "Tirap": 0.5,
+            "Upper Siang": 0.16666666666666666,
+            "Upper Subansiri": 9.166666666666666,
+            "West Kameng": 6.333333333333333,
+            "West Siang": 3.8333333333333335
+        },
+        "row_variance": {
+            "Anjaw": 2.666666666666667,
+            "Changlang": 2330.9666666666662,
+            "Dibang Valley": 0.16666666666666669,
+            "East Kameng": 85.36666666666666,
+            "East Siang": 90.56666666666666,
+            "Kamle": 5.5,
+            "Kra Daadi": 14.966666666666665,
+            "Kurung Kumey": 15.9,
+            "Lohit": 46.666666666666664,
+            "Longding": 1013.7666666666667,
+            "Lower Dibang Valley": 30.96666666666667,
+            "Lower Siang": 1.0666666666666669,
+            "Lower Subansiri": 72.96666666666665,
+            "Namsai": 42.96666666666666,
+            "Pakke Kessang": 0.16666666666666669,
+            "Papum Pare": 139.2,
+            "Shi-yomi": 0.8,
+            "Siang": 12.966666666666669,
+            "Tawang": 14.8,
+            "Tirap": 1.5,
+            "Upper Siang": 0.16666666666666669,
+            "Upper Subansiri": 136.9666666666667,
+            "West Kameng": 54.66666666666667,
+            "West Siang": 42.56666666666666
+        },
+        "row_min": {
+            "Anjaw": 0,
+            "Changlang": 0,
+            "Dibang Valley": 0,
+            "East Kameng": 0,
+            "East Siang": 0,
+            "Kamle": 0,
+            "Kra Daadi": 0,
+            "Kurung Kumey": 0,
+            "Lohit": 1,
+            "Longding": 0,
+            "Lower Dibang Valley": 0,
+            "Lower Siang": 0,
+            "Lower Subansiri": 0,
+            "Namsai": 0,
+            "Pakke Kessang": 0,
+            "Papum Pare": 0,
+            "Shi-yomi": 0,
+            "Siang": 0,
+            "Tawang": 0,
+            "Tirap": 0,
+            "Upper Siang": 0,
+            "Upper Subansiri": 0,
+            "West Kameng": 0,
+            "West Siang": 0
+        },
+        "row_max": {
+            "Anjaw": 4,
+            "Changlang": 123,
+            "Dibang Valley": 1,
+            "East Kameng": 23,
+            "East Siang": 24,
+            "Kamle": 6,
+            "Kra Daadi": 10,
+            "Kurung Kumey": 9,
+            "Lohit": 19,
+            "Longding": 81,
+            "Lower Dibang Valley": 15,
+            "Lower Siang": 2,
+            "Lower Subansiri": 22,
+            "Namsai": 16,
+            "Pakke Kessang": 1,
+            "Papum Pare": 24,
+            "Shi-yomi": 2,
+            "Siang": 9,
+            "Tawang": 9,
+            "Tirap": 3,
+            "Upper Siang": 1,
+            "Upper Subansiri": 32,
+            "West Kameng": 21,
+            "West Siang": 17
+        },
+        "performance_category": {
+            "Anjaw": "critical",
+            "Changlang": "critical",
+            "Dibang Valley": "critical",
+            "East Kameng": "critical",
+            "East Siang": "critical",
+            "Kamle": "critical",
+            "Kra Daadi": "critical",
+            "Kurung Kumey": "critical",
+            "Lohit": "critical",
+            "Longding": "critical",
+            "Lower Dibang Valley": "critical",
+            "Lower Siang": "critical",
+            "Lower Subansiri": "critical",
+            "Namsai": "critical",
+            "Pakke Kessang": "critical",
+            "Papum Pare": "critical",
+            "Shi-yomi": "critical",
+            "Siang": "critical",
+            "Tawang": "critical",
+            "Tirap": "critical",
+            "Upper Siang": "critical",
+            "Upper Subansiri": "critical",
+            "West Kameng": "critical",
+            "West Siang": "critical"
+        },
+        "needs_intervention": {
+            "Anjaw": true,
+            "Changlang": true,
+            "Dibang Valley": true,
+            "East Kameng": true,
+            "East Siang": true,
+            "Kamle": true,
+            "Kra Daadi": true,
+            "Kurung Kumey": true,
+            "Lohit": true,
+            "Longding": true,
+            "Lower Dibang Valley": true,
+            "Lower Siang": true,
+            "Lower Subansiri": true,
+            "Namsai": true,
+            "Pakke Kessang": true,
+            "Papum Pare": true,
+            "Shi-yomi": true,
+            "Siang": true,
+            "Tawang": true,
+            "Tirap": true,
+            "Upper Siang": true,
+            "Upper Subansiri": true,
+            "West Kameng": true,
+            "West Siang": true
+        },
+        "consistency_score": {
+            "Anjaw": 0.2727272727272727,
+            "Changlang": 0.0004288225960919968,
+            "Dibang Valley": 0.8571428571428571,
+            "East Kameng": 0.01157854110382092,
+            "East Siang": 0.010921004732435385,
+            "Kamle": 0.15384615384615385,
+            "Kra Daadi": 0.06263048016701463,
+            "Kurung Kumey": 0.0591715976331361,
+            "Lohit": 0.02097902097902098,
+            "Longding": 0.0009854482146963177,
+            "Lower Dibang Valley": 0.03128258602711157,
+            "Lower Siang": 0.48387096774193544,
+            "Lower Subansiri": 0.013519603424966203,
+            "Namsai": 0.022744503411675516,
+            "Pakke Kessang": 0.8571428571428571,
+            "Papum Pare": 0.007132667617689016,
+            "Shi-yomi": 0.5555555555555556,
+            "Siang": 0.07159904534606204,
+            "Tawang": 0.06329113924050632,
+            "Tirap": 0.4,
+            "Upper Siang": 0.8571428571428571,
+            "Upper Subansiri": 0.007248127567045178,
+            "West Kameng": 0.017964071856287425,
+            "West Siang": 0.022953328232593728
+        },
+        "months_below_target": {
+            "Anjaw": 6,
+            "Changlang": 5,
+            "Dibang Valley": 6,
+            "East Kameng": 6,
+            "East Siang": 6,
+            "Kamle": 6,
+            "Kra Daadi": 6,
+            "Kurung Kumey": 6,
+            "Lohit": 6,
+            "Longding": 5,
+            "Lower Dibang Valley": 6,
+            "Lower Siang": 6,
+            "Lower Subansiri": 6,
+            "Namsai": 6,
+            "Pakke Kessang": 6,
+            "Papum Pare": 6,
+            "Shi-yomi": 6,
+            "Siang": 6,
+            "Tawang": 6,
+            "Tirap": 6,
+            "Upper Siang": 6,
+            "Upper Subansiri": 6,
+            "West Kameng": 6,
+            "West Siang": 6
+        }
+    },
+    "matrix_anomalies": [
+        {
+            "district": "Anjaw",
+            "month": "December",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Anjaw",
+            "month": "January",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Anjaw",
+            "month": "June",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Anjaw",
+            "month": "November",
+            "z_score": 2.041241452319315,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Anjaw",
+            "month": "October",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Anjaw",
+            "month": "September",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Changlang",
+            "month": "December",
+            "z_score": -0.4798389723874978,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Changlang",
+            "month": "January",
+            "z_score": -0.6455387614133963,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Changlang",
+            "month": "June",
+            "z_score": 0.3279474991137574,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Changlang",
+            "month": "November",
+            "z_score": -0.4591264987592605,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Changlang",
+            "month": "October",
+            "z_score": -0.6455387614133963,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Changlang",
+            "month": "September",
+            "z_score": 1.9020954948597932,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Dibang Valley",
+            "month": "December",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Dibang Valley",
+            "month": "January",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Dibang Valley",
+            "month": "June",
+            "z_score": 2.041241452319315,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Dibang Valley",
+            "month": "November",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Dibang Valley",
+            "month": "October",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Dibang Valley",
+            "month": "September",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Kameng",
+            "month": "December",
+            "z_score": -0.34273478847883637,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Kameng",
+            "month": "January",
+            "z_score": -0.34273478847883637,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Kameng",
+            "month": "June",
+            "z_score": -0.45096682694583734,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Kameng",
+            "month": "November",
+            "z_score": -0.45096682694583734,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Kameng",
+            "month": "October",
+            "z_score": -0.45096682694583734,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Kameng",
+            "month": "September",
+            "z_score": 2.0383700577951847,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Siang",
+            "month": "December",
+            "z_score": -0.5429080129622184,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Siang",
+            "month": "January",
+            "z_score": -0.9632238939652261,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Siang",
+            "month": "June",
+            "z_score": 1.5586713920528206,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Siang",
+            "month": "November",
+            "z_score": 0.9281975705483089,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Siang",
+            "month": "October",
+            "z_score": -0.4378290427114664,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "East Siang",
+            "month": "September",
+            "z_score": -0.5429080129622184,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kamle",
+            "month": "December",
+            "z_score": -0.21320071635561041,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kamle",
+            "month": "January",
+            "z_score": -0.6396021490668313,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kamle",
+            "month": "June",
+            "z_score": -0.6396021490668313,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kamle",
+            "month": "November",
+            "z_score": 0.21320071635561041,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kamle",
+            "month": "October",
+            "z_score": -0.6396021490668313,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kamle",
+            "month": "September",
+            "z_score": 1.9188064472004938,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kra Daadi",
+            "month": "December",
+            "z_score": -0.5600535556107024,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kra Daadi",
+            "month": "January",
+            "z_score": -0.8185398120464111,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kra Daadi",
+            "month": "June",
+            "z_score": 1.7663227523106768,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kra Daadi",
+            "month": "November",
+            "z_score": 0.4738914701321328,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kra Daadi",
+            "month": "October",
+            "z_score": -0.8185398120464111,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kra Daadi",
+            "month": "September",
+            "z_score": -0.04308104273928476,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kurung Kumey",
+            "month": "December",
+            "z_score": -0.8777472595071585,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kurung Kumey",
+            "month": "January",
+            "z_score": -0.8777472595071585,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kurung Kumey",
+            "month": "June",
+            "z_score": 0.6269623282193989,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kurung Kumey",
+            "month": "November",
+            "z_score": 1.3793171220826776,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kurung Kumey",
+            "month": "October",
+            "z_score": -0.8777472595071585,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kurung Kumey",
+            "month": "September",
+            "z_score": 0.6269623282193989,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lohit",
+            "month": "December",
+            "z_score": 1.8054151349547862,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lohit",
+            "month": "January",
+            "z_score": -0.8295150620062532,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lohit",
+            "month": "June",
+            "z_score": -0.24397501823713336,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lohit",
+            "month": "November",
+            "z_score": -0.6831300510639733,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lohit",
+            "month": "October",
+            "z_score": -0.5367450401216933,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lohit",
+            "month": "September",
+            "z_score": 0.48795003647426655,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Longding",
+            "month": "December",
+            "z_score": -0.4135298246828044,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Longding",
+            "month": "January",
+            "z_score": -0.5391591385104918,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Longding",
+            "month": "June",
+            "z_score": -0.47634448159664816,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Longding",
+            "month": "November",
+            "z_score": -0.0366418831997422,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Longding",
+            "month": "October",
+            "z_score": -0.5391591385104918,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Longding",
+            "month": "September",
+            "z_score": 2.0048344665001783,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lower Dibang Valley",
+            "month": "December",
+            "z_score": 0.5690561495385077,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lower Dibang Valley",
+            "month": "January",
+            "z_score": -1.2279632700567795,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lower Dibang Valley",
+            "month": "June",
+            "z_score": 0.38935420757897893,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lower Dibang Valley",
+            "month": "November",
+            "z_score": -0.3294535602591359,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lower Dibang Valley",
+            "month": "October",
+            "z_score": -0.8685593861377221,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lower Dibang Valley",
+            "month": "September",
+            "z_score": 1.4675658593361514,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lower Siang",
+            "month": "December",
+            "z_score": -0.6454972243679027,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lower Siang",
+            "month": "January",
+            "z_score": -0.6454972243679027,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lower Siang",
+            "month": "June",
+            "z_score": -0.6454972243679027,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lower Siang",
+            "month": "November",
+            "z_score": 1.2909944487358056,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lower Siang",
+            "month": "October",
+            "z_score": -0.6454972243679027,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lower Siang",
+            "month": "September",
+            "z_score": 1.2909944487358056,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lower Subansiri",
+            "month": "December",
+            "z_score": -0.6048507033822991,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lower Subansiri",
+            "month": "January",
+            "z_score": -0.7219185814562924,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lower Subansiri",
+            "month": "June",
+            "z_score": 1.8535747361715613,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lower Subansiri",
+            "month": "November",
+            "z_score": -0.4877828253083057,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lower Subansiri",
+            "month": "October",
+            "z_score": -0.4877828253083057,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Lower Subansiri",
+            "month": "September",
+            "z_score": 0.4487601992836412,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Namsai",
+            "month": "December",
+            "z_score": -0.7882148489134052,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Namsai",
+            "month": "January",
+            "z_score": -0.9407725616063224,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Namsai",
+            "month": "June",
+            "z_score": 0.27968913993701466,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Namsai",
+            "month": "November",
+            "z_score": 0.737362278015766,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Namsai",
+            "month": "October",
+            "z_score": -0.7882148489134052,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Namsai",
+            "month": "September",
+            "z_score": 1.5001508414803515,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pakke Kessang",
+            "month": "December",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pakke Kessang",
+            "month": "January",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pakke Kessang",
+            "month": "June",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pakke Kessang",
+            "month": "November",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pakke Kessang",
+            "month": "October",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Pakke Kessang",
+            "month": "September",
+            "z_score": 2.041241452319315,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Papum Pare",
+            "month": "December",
+            "z_score": -0.847579379526013,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Papum Pare",
+            "month": "January",
+            "z_score": -0.9323373174786144,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Papum Pare",
+            "month": "June",
+            "z_score": 0.9323373174786144,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Papum Pare",
+            "month": "November",
+            "z_score": 0.6780635036208105,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Papum Pare",
+            "month": "October",
+            "z_score": -0.9323373174786144,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Papum Pare",
+            "month": "September",
+            "z_score": 1.101853193383817,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Shi-yomi",
+            "month": "December",
+            "z_score": 0.0,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Shi-yomi",
+            "month": "January",
+            "z_score": -1.118033988749895,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Shi-yomi",
+            "month": "June",
+            "z_score": 1.118033988749895,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Shi-yomi",
+            "month": "November",
+            "z_score": 1.118033988749895,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Shi-yomi",
+            "month": "October",
+            "z_score": -1.118033988749895,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Shi-yomi",
+            "month": "September",
+            "z_score": 0.0,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Siang",
+            "month": "December",
+            "z_score": -0.5091283274511409,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Siang",
+            "month": "January",
+            "z_score": -0.5091283274511409,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Siang",
+            "month": "June",
+            "z_score": -0.5091283274511409,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Siang",
+            "month": "November",
+            "z_score": -0.5091283274511409,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Siang",
+            "month": "October",
+            "z_score": 0.046284393404649196,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Siang",
+            "month": "September",
+            "z_score": 1.9902289163999147,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Tawang",
+            "month": "December",
+            "z_score": 0.5198752449100363,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Tawang",
+            "month": "January",
+            "z_score": -0.5198752449100363,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Tawang",
+            "month": "June",
+            "z_score": -1.0397504898200727,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Tawang",
+            "month": "November",
+            "z_score": 0.7798128673650545,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Tawang",
+            "month": "October",
+            "z_score": -1.0397504898200727,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Tawang",
+            "month": "September",
+            "z_score": 1.2996881122750907,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Tirap",
+            "month": "December",
+            "z_score": -0.4082482904638631,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Tirap",
+            "month": "January",
+            "z_score": -0.4082482904638631,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Tirap",
+            "month": "June",
+            "z_score": -0.4082482904638631,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Tirap",
+            "month": "November",
+            "z_score": -0.4082482904638631,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Tirap",
+            "month": "October",
+            "z_score": -0.4082482904638631,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Tirap",
+            "month": "September",
+            "z_score": 2.041241452319315,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Upper Siang",
+            "month": "December",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Upper Siang",
+            "month": "January",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Upper Siang",
+            "month": "June",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Upper Siang",
+            "month": "November",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Upper Siang",
+            "month": "October",
+            "z_score": -0.408248290463863,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Upper Siang",
+            "month": "September",
+            "z_score": 2.041241452319315,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Upper Subansiri",
+            "month": "December",
+            "z_score": -0.09968718819987939,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Upper Subansiri",
+            "month": "January",
+            "z_score": -0.7832564787133384,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Upper Subansiri",
+            "month": "June",
+            "z_score": 1.9510206833404977,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Upper Subansiri",
+            "month": "November",
+            "z_score": -0.014241026885697013,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Upper Subansiri",
+            "month": "October",
+            "z_score": -0.6123641560849736,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Upper Subansiri",
+            "month": "September",
+            "z_score": -0.4414718334566089,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Kameng",
+            "month": "December",
+            "z_score": -0.31558437213360124,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Kameng",
+            "month": "January",
+            "z_score": -0.8565861529340606,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Kameng",
+            "month": "June",
+            "z_score": -0.1803339269334864,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Kameng",
+            "month": "November",
+            "z_score": -0.31558437213360124,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Kameng",
+            "month": "October",
+            "z_score": -0.31558437213360124,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Kameng",
+            "month": "September",
+            "z_score": 1.9836731962683511,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Siang",
+            "month": "December",
+            "z_score": -0.28100018996548193,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Siang",
+            "month": "January",
+            "z_score": -0.5875458517460076,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Siang",
+            "month": "June",
+            "z_score": -0.28100018996548193,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Siang",
+            "month": "November",
+            "z_score": -0.28100018996548193,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Siang",
+            "month": "October",
+            "z_score": -0.5875458517460076,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "West Siang",
+            "month": "September",
+            "z_score": 2.018092273388461,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        }
+    ],
+    "policy_insights": null
+}

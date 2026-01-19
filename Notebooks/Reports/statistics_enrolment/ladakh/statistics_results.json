@@ -1,0 +1,426 @@
+{
+    "district_summary": [
+        {
+            "district": "Kargil",
+            "total_updates": 91,
+            "mean_daily_updates": 2.3333333333333335,
+            "median_daily_updates": 2.0,
+            "std_updates": 1.6910497103299527,
+            "days_active": 39,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        },
+        {
+            "district": "Leh",
+            "total_updates": 11,
+            "mean_daily_updates": 1.375,
+            "median_daily_updates": 1.0,
+            "std_updates": 0.5175491695067657,
+            "days_active": 8,
+            "performance_category": "Critical",
+            "needs_intervention": true
+        }
+    ],
+    "monthly_district_summary": [
+        {
+            "district": "Kargil",
+            "month": "June",
+            "year_month": "2025-06",
+            "monthly_updates": 16,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kargil",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 35,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 1.1875,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Kargil",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 7,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.8,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Kargil",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 32,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 3.571428571428571,
+            "concerning_drop": false,
+            "sudden_spike": true
+        },
+        {
+            "district": "Kargil",
+            "month": "January",
+            "year_month": "2026-01",
+            "monthly_updates": 1,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.96875,
+            "concerning_drop": true,
+            "sudden_spike": false
+        },
+        {
+            "district": "Leh",
+            "month": "September",
+            "year_month": "2025-09",
+            "monthly_updates": 3,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": NaN,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Leh",
+            "month": "November",
+            "year_month": "2025-11",
+            "monthly_updates": 6,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": 1.0,
+            "concerning_drop": false,
+            "sudden_spike": false
+        },
+        {
+            "district": "Leh",
+            "month": "December",
+            "year_month": "2025-12",
+            "monthly_updates": 2,
+            "meets_target": false,
+            "critical": true,
+            "pct_change": -0.6666666666666667,
+            "concerning_drop": true,
+            "sudden_spike": false
+        }
+    ],
+    "univariate_stats": {
+        "mean": {
+            "total_updates": 51.0
+        },
+        "median": {
+            "total_updates": 51.0
+        },
+        "variance": {
+            "total_updates": 3200.0
+        },
+        "std_dev": {
+            "total_updates": 56.568542494923804
+        },
+        "iqr": {
+            "total_updates": 40.0
+        },
+        "mad": {
+            "total_updates": 40.0
+        },
+        "skewness": {
+            "total_updates": NaN
+        },
+        "excess_kurtosis": {
+            "total_updates": NaN
+        },
+        "min": {
+            "total_updates": 11.0
+        },
+        "max": {
+            "total_updates": 91.0
+        },
+        "count": {
+            "total_updates": 2
+        },
+        "p10_bottom_10pct": {
+            "total_updates": 19.0
+        },
+        "q1_25th_percentile": {
+            "total_updates": 31.0
+        },
+        "q3_75th_percentile": {
+            "total_updates": 71.0
+        },
+        "p90_top_10pct": {
+            "total_updates": 83.0
+        },
+        "p95_top_5pct": {
+            "total_updates": 87.0
+        },
+        "critical_count": {
+            "total_updates": 2
+        },
+        "critical_percentage": {
+            "total_updates": 100.0
+        },
+        "below_target_count": {
+            "total_updates": 0
+        },
+        "below_target_percentage": {
+            "total_updates": 0.0
+        },
+        "on_track_count": {
+            "total_updates": 0
+        },
+        "on_track_percentage": {
+            "total_updates": 0.0
+        },
+        "excellent_count": {
+            "total_updates": 0
+        },
+        "excellent_percentage": {
+            "total_updates": 0.0
+        },
+        "gini_coefficient": {
+            "total_updates": 0.10784313725490202
+        },
+        "inequality_interpretation": {
+            "total_updates": "LOW"
+        },
+        "top_10pct_contribution": {
+            "total_updates": 89.2156862745098
+        },
+        "bottom_50pct_contribution": {
+            "total_updates": 10.784313725490197
+        },
+        "median_mean_gap": {
+            "total_updates": 0.0
+        },
+        "gap_interpretation": {
+            "total_updates": "Moderate inequality"
+        },
+        "districts_needing_intervention": {
+            "total_updates": 2
+        },
+        "intervention_percentage": {
+            "total_updates": 100.0
+        },
+        "estimated_training_cost_lakhs": {
+            "total_updates": 4.0
+        }
+    },
+    "change_point_detection": [
+        {
+            "month": "June",
+            "value": 16,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "July",
+            "value": 0,
+            "posterior_mean": NaN,
+            "posterior_std": NaN,
+            "z_score": NaN,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "August",
+            "value": 0,
+            "posterior_mean": 5.333333333333333,
+            "posterior_std": 9.237604307034013,
+            "z_score": -0.5773502691896256,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "September",
+            "value": 38,
+            "posterior_mean": 12.666666666666666,
+            "posterior_std": 21.939310229205777,
+            "z_score": 1.1547005383792517,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "October",
+            "value": 0,
+            "posterior_mean": 12.666666666666666,
+            "posterior_std": 21.93931022920578,
+            "z_score": -0.5773502691896257,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "November",
+            "value": 13,
+            "posterior_mean": 17.0,
+            "posterior_std": 19.313207915827967,
+            "z_score": -0.2071121492313991,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "December",
+            "value": 34,
+            "posterior_mean": 15.666666666666666,
+            "posterior_std": 17.15614564327703,
+            "z_score": 1.0686160932958513,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        },
+        {
+            "month": "January",
+            "value": 1,
+            "posterior_mean": 16.0,
+            "posterior_std": 16.703293088490067,
+            "z_score": -0.8980265101338745,
+            "change_point": false,
+            "change_type": "normal",
+            "requires_investigation": false,
+            "policy_note": ""
+        }
+    ],
+    "matrix_stats": {
+        "row_sum_total_updates": {
+            "Kargil": 91,
+            "Leh": 11
+        },
+        "row_mean_monthly_updates": {
+            "Kargil": 18.2,
+            "Leh": 2.2
+        },
+        "row_variance": {
+            "Kargil": 224.7,
+            "Leh": 6.200000000000001
+        },
+        "row_min": {
+            "Kargil": 1,
+            "Leh": 0
+        },
+        "row_max": {
+            "Kargil": 35,
+            "Leh": 6
+        },
+        "performance_category": {
+            "Kargil": "critical",
+            "Leh": "critical"
+        },
+        "needs_intervention": {
+            "Kargil": true,
+            "Leh": true
+        },
+        "consistency_score": {
+            "Kargil": 0.004430660168365087,
+            "Leh": 0.13888888888888887
+        },
+        "months_below_target": {
+            "Kargil": 5,
+            "Leh": 5
+        }
+    },
+    "matrix_anomalies": [
+        {
+            "district": "Kargil",
+            "month": "December",
+            "z_score": 0.9206139473489442,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kargil",
+            "month": "January",
+            "z_score": -1.1474318764059304,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kargil",
+            "month": "June",
+            "z_score": -0.14676454233099104,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kargil",
+            "month": "November",
+            "z_score": -0.7471649427759546,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Kargil",
+            "month": "September",
+            "z_score": 1.120747414163932,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Leh",
+            "month": "December",
+            "z_score": -0.08032193289024994,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Leh",
+            "month": "January",
+            "z_score": -0.8835412617927487,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Leh",
+            "month": "June",
+            "z_score": -0.8835412617927487,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Leh",
+            "month": "November",
+            "z_score": 1.5261167249147476,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        },
+        {
+            "district": "Leh",
+            "month": "September",
+            "z_score": 0.32128773156099943,
+            "is_anomaly": false,
+            "anomaly_type": "normal",
+            "action_required": ""
+        }
+    ],
+    "policy_insights": null
+}
