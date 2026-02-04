@@ -12,9 +12,9 @@ import gc  # For memory management
 plt.style.use('seaborn-v0_8')
 sns.set_palette("husl")
 
-# ======================================================
-# POLICY THRESHOLDS - CONFIGURE THESE BASED ON TARGETS
-# ======================================================
+# =================
+# POLICY THRESHOLDS 
+# =================
 POLICY_THRESHOLDS = {
     'critical_threshold': 100,      # Below this = crisis
     'target_threshold': 500,       # Minimum acceptable
